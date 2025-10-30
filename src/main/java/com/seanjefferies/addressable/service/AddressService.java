@@ -40,6 +40,7 @@ public class AddressService {
 
     public static AddressDto modelToDto(Address address) {
         return new AddressDto()
+                .setId(address.getId())
                 .setStreet(address.getStreet())
                 .setCity(address.getCity())
                 .setState(address.getState())
