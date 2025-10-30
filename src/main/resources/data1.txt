@@ -1,0 +1,2557 @@
+181 Hobbiton Hatch Aft Capsule 970M|Tatooine|GL|33024|
+5239 Port Krypton Node Aft Chamber 967Z,Rivendell,GT,52487,Orb of prophecy
+7576 Starboard Coruscant Tube Forward Pod 390S	Krypton	AE	92214	Lightsaber
+3119 Minas Hatch Module 363|Krypton|AE|86804|FTL navigation crystal
+3028 Port Aft |Arrakis|DF|54550|Dark matter containment unit
+1513 Port Dragon Hatch Module 700E|Hogwarts|CY|63708|Time travel wristband
+7719 Starboard Minas Hatch Module 534	Hogwarts	FO	53187	Stellar map
+6795 Wookiee Capsule 621B	Naboo	ZK	14035	Bio-dome habitat
+2930 Crystal Node Pod 268|Naboo|HS|13130|Wormhole stabilizer
+1353 Port Coruscant Deck Chamber 700E,Minas Tirith,HS,53370,Wormhole stabilizer
+1466 Starboard Crystal Hatch Capsule 591,Vulcan,LD,24124,Android assistant
+6461 Deck Forward Pod 147	Arrakis	TM	55782	Wormhole stabilizer
+3285 Rivendell Deck Forward Chamber 13V|Bespin|AE|62924|Nanobot swarm
+4866 Dragon Pasage Forward Capsule |Coruscant|QV|81164|Stellar map
+7428 Coruscant Node Aft Module 346K|Endor|MQ|87332|
+355 Node Aft 517|Krypton|UI||Space elevator tether
+ Port Krypton Pasage Chamber 692Z|Endor|BV|30827|Mind-control headset
+6699 Starboard Dragon Hatch Aft Chamber 346K,Rivendell,XZ,73958,Bio-dome habitat
+5407 Coruscant Hatch Aft Pod 517|Rivendell|XZ|30975|Hyperspace drive
+1585 Rivendell Pasage Forward Pod 	Endor	NR	69284	Nanobot swarm
+7537 Starboard Coruscant Sector 363|Minas Tirith|KB|14959|Teleportation pad
+1392 Starboard Enterprise Deck Forward 591|Hogwarts|QA|51729|FTL navigation crystal
+308 Rivendell Hatch Module 651	Arrakis	PN	87743	Celestial forge
+5797 Wookiee Pasage Capsule 570,Tatooine,YD,73714,Holographic communicator
+527 Coruscant Aft 621B,Minas Tirith,CK,64281,Plasma torch
+9628 Tatooine Podway Forward Module 611Z	Krypton	CK	38721	Cryogenic sleep chamber
+9309 Starboard Vulcan Hatch Forward Chamber 523K|Dagobah|CK|29319|Wormhole stabilizer
+3813 Starboard Wookiee Node Aft 967Z	Arrakis	EN	28717	Psionic amplifier
+1284 Crystal Pasage Capsule 	Dagobah	GL	95559	Bio-dome habitat
+326 Coruscant Hatch Forward Pod 45W|Gondor|ZR|70012|Memory erasure ray
+6655 Port Pasage Aft Module 268,Bespin,OM,40617,Bioengineered symbiote
+2301 Port Wookiee Pasage Aft Pod 390S,Krypton,QV,25175,Zero-point energy module
+8563 Starboard Krypton Aft Capsule 800	Vulcan	WV	86360	Nanobot swarm
+7452 Starboard Dragon Tube Forward Pod 692Z,Hoth,MQ,58560,Cloaking shield generator
+2156 Starboard Rivendell Deck Aft Chamber 45W,Endor,CY,86618,
+1334 Port Krypton Hatch Aft Module 427H|Tatooine|UI|98680|Lightsaber
+385 Dragon Forward Pod 970M	Endor	JX	79442	Dark matter containment unit
+5205 Port Krypton Tube Forward Chamber 768|Bespin|TM|83228|Teleportation pad
+4417 Port Vulcan Node Chamber 534	Bespin	NV	13445	Alien artifact shard
+3842 Starboard Minas Deck Forward Chamber 700E	Krypton	BF	99026	Space elevator tether
+ Starboard Tatooine Hatch Forward Module 807	Vulcan		96126	Warp core
+9347 Port Dragon Pasage Aft 501T	Bespin	DF	30420	Subspace beacon
+8423 Starboard Vulcan Deck Capsule 265I|Coruscant|GT|62096|Dark matter containment unit
+8217 Starboard Hobbiton Aft Chamber 454C|Gondor|SZ|58459|Alien artifact shard
+9751 Starboard Wookiee Node Aft Capsule 816J,Endor,NV,68484,Anti-gravity boots
+9067 Starboard Krypton Deck Aft 45W	Krypton	NV	23818	Quantum computer core
+9641 Starboard Enterprise Tube Module 967Z	Minas Tirith	SU	13201	Cryogenic sleep chamber
+5017 Dragon Deck Aft Pod 170B,Hoth,HC,88457,Bioengineered symbiote
+8027 Obsidian Hatch Aft Capsule 807|Hogwarts|ZR|50894|Quantum entanglement communicator
+4244 Starboard Hatch Forward Capsule 501T,,LD,55185,Space elevator tether
+516 Starboard Minas Forward Pod 768,Dagobah,LD,46578,Subspace beacon
+1198 Port Minas Deck Module 472,,NR,72660,Plasma rifle
+99 Starboard Coruscant Aft Pod 692Z,Endor,XE,43928,Mind-control headset
+3506 Starboard Crystal Node Aft Capsule 167,Dagobah,EN,65374,Energy shield emitter
+9196 Starboard Tatooine Deck 472|Hogwarts|GT|18617|Cryogenic sleep chamber
+5572 Coruscant Hatch Pod 411I	Rivendell	DF	88662	Starship black box
+4591 Port Rivendell Chamber 534	Endor	HC	57727	Android assistant
+6702 Minas Tube Forward 621B,Rivendell,CY,89401,Holographic communicator
+4251 Starboard Hobbiton Deck Aft Module 523K|Gondor|QA|10423|Mind-control headset
+8651 Starboard Crystal Deck Chamber 692Z|Bespin|XZ|51062|Android assistant
+1374 Starboard Obsidian Podway Aft Capsule 427H,Coruscant,CK,29007,Bioengineered symbiote
+7976 Starboard Vulcan Pasage Aft Pod 623P	Hogwarts	YD	91643	FTL navigation crystal
+6647 Vulcan Sector Aft 71|Rivendell|CK|63214|Celestial forge
+9200 Port Minas Hatch Forward 700E,Bespin,,76190,
+1263 Vulcan Podway Pod 121H	Krypton	XE	57497	Android assistant
+ Enterprise Tube Forward Pod 265I	Arrakis	IJ	67022	Orb of prophecy
+5980 Port Obsidian Tube Aft Chamber 563A|Tatooine|IJ|84091|Wormhole stabilizer
+1142 Wookiee Deck Capsule 281H	Bespin	DF	10019	Space elevator tether
+6483 Port Dragon Podway Forward 967Z,Bespin,PY,14211,Lightsaber
+2381 Port Obsidian Hatch Forward 411I	Dagobah	ZR	89727	Neural implant
+9383 Obsidian Pasage 871Q	Rivendell	GL	55376	Neural implant
+5828 Starboard Dragon Node Chamber 517,Arrakis,BV,96566,Holographic communicator
+7672 Vulcan Deck Forward Module 346K	Dagobah	SU	47139	Starship black box
+5449 Port Tatooine Podway Chamber 967Z	Bespin	VJ	45477	Bio-dome habitat
+7513 Crystal Sector Aft Chamber 501T,Naboo,TM,99606,Cloaking shield generator
+3209 Port Dragon Node Aft Pod 363	Hoth	CK	48259	Android assistant
+6527 Port Tatooine Deck Forward Module 363|Krypton|XE|22958|Dyson sphere fragment
+1458 Obsidian Pasage Forward Capsule 871Q|Dagobah|RX|74418|Dyson sphere fragment
+7564 Starboard Node Forward Pod 517	Endor	LK	75051	Hyperspace drive
+6078 Starboard Wookiee Podway Forward Capsule 651,Arrakis,PY,58932,Time dilation device
+4115 Enterprise Pasage Aft Pod 137|Naboo|TM|51057|Quantum entanglement communicator
+3553 Rivendell Deck Aft Capsule 454C||WV|89321|Warp core
+3240 Port Wookiee Podway Aft Module 411I,Vulcan,RX,71058,Alien artifact shard
+ Port Dragon Chamber 137	Bespin	RP	38875	Psionic amplifier
+646 Port Tatooine Pasage Pod 137	Arrakis	AE	54778	Energy shield emitter
+9862 Starboard Hobbiton Tube Aft Module 454C|Krypton|ZK|53944|Mind-control headset
+6307 Port Hobbiton Sector Aft Module 501T,Coruscant,QA,98289,Anti-gravity boots
+7810 Starboard Rivendell Deck Module 639B	Endor	WH	68322	Lightsaber
+2776 Starboard Tatooine Pasage 180|Endor|JP|81400|Dark matter containment unit
+864 Minas Node Forward Pod 591,Naboo,NR,44364,Time dilation device
+862 Starboard Dragon Podway Aft 570	Rivendell	HC	74125	Genetic modification capsule
+2348 Port Crystal Hatch Pod 346K	Dagobah	ZR	37423	Psionic amplifier
+7498 Starboard Tube Forward Pod 611Z|Coruscant|DF|54335|Alien artifact shard
+241 Port Wookiee Tube Forward Chamber 692Z|Naboo|QV|55530|Mind-control headset
+791 Starboard Node Chamber 411I	Tatooine	ZK	27611	Lightsaber
+9136 Dragon Podway Aft 533Y,,RX,29620,Time travel wristband
+2316 Hobbiton Deck Pod 233J	Vulcan	FO	50776	Time dilation device
+507 Starboard Minas Deck Aft Chamber 533Y	Gondor	GT	77845	Quantum entanglement communicator
+8097 Port Crystal Sector Chamber 967Z	Arrakis	PN	40613	Energy shield emitter
+3255 Starboard Tatooine Sector Aft Pod 989|Tatooine|YD|55465|
+1392 Port Minas Hatch Aft Capsule 783J	Naboo	RX	89299	Space elevator tether
+5000 Port Rivendell Hatch Module 639B|Endor|LK|25418|Cloaking shield generator
+7793 Starboard Minas Sector Aft Capsule 967Z	Arrakis	VJ	91704	Teleportation pad
+2083 Rivendell Aft Chamber 390S,Minas Tirith,HC,65098,Celestial forge
+6060 Starboard Aft Pod 800|Minas Tirith|JX|49445|Dark matter containment unit
+2928 Hobbiton 427H|Vulcan|HS|48699|Terraforming drone
+560 Starboard Wookiee Deck Aft Chamber 233J,Naboo,CY,18290,Lightsaber
+469 Starboard Obsidian Tube Aft 414	Hoth	CY	86198	Terraforming drone
+1570 Vulcan Sector Module 816J	Hoth	RP	20734	Warp core
+9522 Starboard Tatooine Node Aft Pod 147|Bespin|FO|91498|Quantum entanglement communicator
+4765 Port Vulcan Podway Forward Capsule 807,Hoth,XZ,46558,Quantum entanglement communicator
+4519 Port Vulcan Pasage Forward Chamber 390S|Hoth|NR||Zero-point energy module
+4443 Starboard Wookiee Tube Aft 170B,Gondor,HS,48065,Psionic amplifier
+8924 Port Wookiee Deck Forward Chamber 967Z|Rivendell|LD|26507|FTL navigation crystal
+4185 Port Vulcan Deck Aft Pod 523K	Hoth	EN	15015	Artificial gravity generator
+7880 Starboard Crystal Hatch Aft Chamber 265I|Bespin|YD|41369|Exosuit
+5729 Port Enterprise Pasage 623P,,XE,79490,Bioengineered symbiote
+3801 Port Rivendell Hatch Forward Capsule 989,Arrakis,KB,56231,Zero-point energy module
+6153 Port Minas Hatch Forward 621B|Bespin|LK|98608|Neural implant
+6308 Starboard Coruscant Deck Aft Capsule 970M,Arrakis,YD,25566,Celestial forge
+3152 Enterprise Tube Forward 429,Vulcan,QA,93385,Exosuit
+2206 Starboard Obsidian Pasage 	Hogwarts	NR	11364	Nanobot swarm
+7710 Starboard Enterprise Podway Aft Pod 411I	Krypton	UI	30831	AI command console
+4899 Port Coruscant Tube 563A|Naboo|CK|28560|Neural implant
+2563 Port Obsidian Podway Aft Module 121H	Rivendell	TY	76621	Alien artifact shard
+3835 Port Crystal Node Forward Chamber 807|Hoth|VJ|22242|Dyson sphere fragment
+7619 Starboard Obsidian Sector Forward Module 411I|Endor|XE|81363|Dyson sphere fragment
+ Coruscant Pasage Aft Module 45W|Minas Tirith|CY|15927|Anti-gravity boots
+8329 Enterprise Pasage Aft Pod 523K,Naboo,VJ,16985,Energy shield emitter
+3846 Port Vulcan Node Forward Capsule 414		LK	92687	Neural implant
+ Starboard Rivendell Hatch Chamber 611Z	Minas Tirith	PY	64203	Hyperspace drive
+8387 Coruscant Podway 970M,Tatooine,EN,98088,Space elevator tether
+3800 Starboard Minas Node Aft Module 414||BV|62235|Quantum entanglement communicator
+7191 Starboard Minas Podway Forward Chamber 363|Naboo|NR|82890|Quantum entanglement communicator
+9352 Starboard Coruscant Podway Pod 425,Dagobah,HC,75542,Bioengineered symbiote
+4884 Port Sector Aft Module 233J	Minas Tirith	BF	78228	Dyson sphere fragment
+8002 Starboard Wookiee Hatch Forward Module 265I|Vulcan|JP|27944|Orb of prophecy
+6072 Krypton Sector Chamber 501T,Dagobah,DF,65761,Dyson sphere fragment
+855 Krypton Deck Module 877||IJ|45174|Terraforming drone
+8710 Starboard Minas Node Aft Module 970M,Hogwarts,QV,80674,Time travel wristband
+2706 Crystal Pasage Forward Module 346K|Arrakis|LK|61155|Teleportation pad
+9846 Hobbiton Aft Chamber 121H|Arrakis|BV|54723|Terraforming drone
+3707 Port Wookiee Node Pod 13V	Gondor	PY	24022	Lightsaber
+5754 Obsidian Sector Forward Pod 390S,Minas Tirith,AE,53439,Stellar map
+6838 Vulcan Tube Capsule 877,Vulcan,ZK,67547,Warp core
+ Starboard Hobbiton Sector Forward Pod |Bespin|WV|31227|Lightsaber
+1113 Starboard Hatch Aft 871Q	Endor	SU	10161	Energy shield emitter
+6817 Port Rivendell Forward Module 533Y|Tatooine|NR|69893|Subspace beacon
+9117 Port Coruscant Node Pod 425,Rivendell,DF,19236,Anti-gravity boots
+8696 Port Dragon Tube Module 363|Minas Tirith|DF|83788|Starship black box
+4130 Port Minas Sector Aft Module 877,Arrakis,TY,10459,Orb of prophecy
+3246 Starboard Minas Sector Module 45W|Hogwarts|JX|71683|AI command console
+9672 Port Minas Node 563A|Coruscant||82093|Space elevator tether
+2923 Port Rivendell Podway Aft Capsule 651	Rivendell	AE	67429	Bioengineered symbiote
+7611 Starboard Wookiee Pasage Forward ,Tatooine,YD,33789,Orbital defense cannon
+ Enterprise Pasage Pod 137,Dagobah,QV,81783,Psionic amplifier
+4717 Port Rivendell Pasage Forward Capsule 877	Tatooine	MQ	87137	
+1878 Port Wookiee Node Forward Chamber 783J	Endor	IJ	21675	Plasma rifle
+2840 Port Hobbiton Chamber 414	Minas Tirith	HC	73908	Dark matter containment unit
+6391 Minas Sector Forward Capsule 414|Krypton|UI|49801|Alien artifact shard
+683 Wookiee Hatch Capsule 429|Vulcan|NV|45116|Artificial gravity generator
+2997 Enterprise Forward Chamber 800,Arrakis,TM,77908,Dyson sphere fragment
+6160 Coruscant Node 281H,Arrakis,QV,38711,Plasma rifle
+6334 Port Dragon Tube Module 523K	Tatooine	CY	52757	Android assistant
+3220 Port Hobbiton Pasage Forward Module 877|Endor|XE|46459|Android assistant
+1729 Port Dragon Hatch Module 517,Tatooine,WV,51016,Orb of prophecy
+6991 Starboard Enterprise Node Pod 121H||LK|67059|Celestial forge
+2219 Starboard Dragon Sector Forward Module 623P,Vulcan,VJ,97968,Terraforming drone
+647 Starboard Crystal Deck Module 411I,Hoth,YD,78140,
+2458 Enterprise Podway Forward Module 700E,Dagobah,GT,52772,AI command console
+ Port Vulcan Podway Module 180|Coruscant|ZR|55683|Time travel wristband
+9692 Starboard Wookiee Node Pod 170B,Hogwarts,MQ,44740,Anti-gravity boots
+1624 Starboard Podway Aft Pod 346K|Dagobah|WH||Cryogenic sleep chamber
+7541 Rivendell Deck Chamber 871Q|Hogwarts|OM|12240|Bio-dome habitat
+9749 Enterprise Node Aft Pod 390S,Krypton,WV,,Terraforming drone
+4285 Port Enterprise Pasage Pod 871Q	Bespin	CK	46117	Energy shield emitter
+1203 Port Tatooine Pasage Aft Chamber 533Y|Krypton|OM|27062|Plasma torch
+4681 Starboard Wookiee Deck Module 639B|Tatooine|OM|42089|Bio-dome habitat
+4730 Port Enterprise Pasage Pod 563A|Naboo|EN|72583|Genetic modification capsule
+9776 Port Rivendell Node Forward Pod 989|Naboo|UI|12462|Energy shield emitter
+2722 Port Hobbiton Tube Forward Pod 591	Vulcan	ZK	63574	Exosuit
+3541 Crystal Hatch Chamber 533Y,Gondor,WV,18553,Time dilation device
+4426 Minas Hatch Forward Capsule 170B,Tatooine,WH,51568,Cloaking shield generator
+9147 Starboard Krypton Pasage Aft 563A|Bespin|RP|55373|Warp core
+6889 Wookiee Sector Forward Module 281H,Bespin,OM,51262,Terraforming drone
+9009 Port Krypton Deck Aft 517|Vulcan|CK|45690|FTL navigation crystal
+1249 Port Enterprise Hatch 45W|Vulcan|SZ|82817|Time travel wristband
+5703 Starboard Dragon Node Aft 414|Rivendell|EN|98594|AI command console
+8446 Port Minas Podway Forward 472,Krypton,PY,48283,AI command console
+ Starboard Vulcan Podway Forward 967Z|Arrakis|NV|71188|Wormhole stabilizer
+6703 Dragon Podway Forward Pod 651|Krypton|LK|79586|Orbital defense cannon
+9881 Obsidian Hatch 363|Rivendell|JX|76187|Anti-gravity boots
+2776 Starboard Tatooine Tube 472|Bespin|GL|66908|Genetic modification capsule
+8914 Port Rivendell Tube Capsule 411I|Coruscant|LD|83743|Neural implant
+5651 Starboard Obsidian Node Chamber 170B,Rivendell,AE,25561,Memory erasure ray
+439 Starboard Krypton Deck Forward Pod 281H||SZ|45528|Quantum computer core
+2521 Crystal Tube Chamber 501T|Bespin|BF|11517|Android assistant
+5568 Crystal Node Aft Pod 390S||OM|28508|Exosuit
+2323 Starboard Dragon Podway Chamber 454C,Bespin,GL,29740,Galactic credit chip
+7892 Enterprise Hatch Pod 783J|Arrakis|BV|47473|Cryogenic sleep chamber
+4500 Port Rivendell Node Forward Capsule 265I	Coruscant	FO	18207	Plasma torch
+3705 Port Dragon Sector Aft Chamber 363	Gondor	KB	64826	Psionic amplifier
+9699 Port Coruscant Podway Aft Chamber 346K|Arrakis|CY|40611|Galactic credit chip
+7913 Dragon Node Aft Pod 268	Coruscant	DF	22617	Starship black box
+2622 Starboard Hatch Aft Pod 533Y|Coruscant|JP|47745|Hyperspace drive
+8378 Starboard Minas Sector Forward 768|Hoth|OM|45684|Stellar map
+6183 Port Krypton Podway Forward Chamber 390S	Vulcan	JP	30610	Dark matter containment unit
+6585 Port Crystal Tube Chamber 621B|Bespin|WH|87846|Alien artifact shard
+1053 Rivendell Hatch Aft Capsule 429,Arrakis,MQ,43539,Alien artifact shard
+3249 Enterprise Podway Forward Module 180|Naboo|XZ|84774|Quantum entanglement communicator
+2976 Starboard Vulcan Sector Chamber 570|Vulcan|AE|87868|Warp core
+7506 Port Dragon Node Pod 570|Bespin|TY|38817|Time dilation device
+9338 Vulcan Podway Forward Chamber 570|Arrakis|ZK|90621|Bio-dome habitat
+8282 Port Coruscant Tube Forward 427H,Tatooine,OM,14765,
+7509 Port Dragon Podway Aft Pod 700E,Hogwarts,PN,81970,Wormhole stabilizer
+4855 Port Hobbiton Node Chamber 871Q,Naboo,ZR,64551,Neural implant
+308 Starboard Crystal Hatch Forward Pod 807	Hoth	BV	38384	Alien artifact shard
+3351 Starboard Dragon Deck Module 651,Endor,WH,58589,Plasma torch
+1525 Port Coruscant Forward 692Z,Naboo,CY,79702,FTL navigation crystal
+3712 Port Obsidian Pasage Forward Pod 45W	Minas Tirith	JX	73432	Cryogenic sleep chamber
+3100 Obsidian Sector Forward Capsule 783J|Naboo|GL|90786|Neural implant
+1177 Port Wookiee Hatch Forward 970M	Endor	OQ	83891	Wormhole stabilizer
+9437 Starboard Minas Podway Module 414,Naboo,HC,85279,Galactic credit chip
+9034 Starboard Tatooine Module 800	Hogwarts	HC	17458	Artificial gravity generator
+4964 Obsidian Deck 346K|Tatooine|FO|68661|Bio-dome habitat
+3056 Minas Node Aft Pod 281H	Rivendell	GL	58640	FTL navigation crystal
+7874 Port Crystal Aft Module 425,Hoth,RP,41477,Starship black box
+9016 Starboard Enterprise Deck Capsule 472	Bespin	UI	88412	Artificial gravity generator
+7322 Starboard Coruscant Tube Forward Chamber 989	Rivendell	TY	35636	Hyperspace drive
+4126 Port Wookiee Podway Capsule 800,Minas Tirith,UI,50707,Orb of prophecy
+586 Starboard Node Forward Pod 563A|Minas Tirith|WV|34082|Bioengineered symbiote
+9431 Starboard Enterprise Podway Forward Pod 180	Rivendell	GT	61770	Starship black box
+3038 Starboard Podway Capsule 427H,Tatooine,XE,28653,Dark matter containment unit
+9058 Port Rivendell Hatch Forward Capsule 71,Krypton,HS,83511,Stellar map
+2615 Krypton Hatch Module 533Y|Arrakis|JX|68872|
+4714 Minas Hatch Module 429	Coruscant	WV	79086	Artificial gravity generator
+3924 Port Rivendell Tube Forward Capsule 137|Minas Tirith|LD|59074|Energy shield emitter
+1092 Dragon Hatch Module 700E|Dagobah|EN|44686|Mind-control headset
+9752 Deck Forward Capsule 700E	Dagobah	KB	74634	Nanobot swarm
+5597 Starboard Hobbiton Podway Forward Capsule 13V,Hoth,ZK,47461,Holographic communicator
+5412 Port Obsidian Pasage Capsule 534|Bespin|JP|48018|Memory erasure ray
+3061 Hobbiton Aft 534	Minas Tirith	TY	49934	Plasma rifle
+3267 Starboard Coruscant Podway Aft Chamber 989|Gondor|BV|19478|Neural implant
+6782 Vulcan Sector Pod 454C,Naboo,AE,80965,Bioengineered symbiote
+8655 Starboard Krypton Tube Capsule 807,Vulcan,LD,18458,Space elevator tether
+4554 Port Node Capsule 700E	Krypton	AE	99647	Wormhole stabilizer
+5055 Dragon Aft 877|Minas Tirith|GL|69041|Teleportation pad
+4434 Port Krypton Sector Forward 425,Tatooine,JP,14640,Plasma rifle
+3962 Vulcan Forward 425	Krypton	BV	88139	Dark matter containment unit
+9974 Starboard Krypton Hatch Aft Module 623P,Coruscant,LD,20969,Bio-dome habitat
+5512 Obsidian Podway Forward Pod 970M|Naboo|GT|16165|Teleportation pad
+9388 Starboard Crystal Pasage Forward Module 871Q	Rivendell	SZ	12135	Cloaking shield generator
+4955 Vulcan Aft Module 611Z,Gondor,NV,71176,Mind-control headset
+8091 Coruscant Hatch Module 281H,,BF,79847,Anti-gravity boots
+3486 Port Coruscant Sector Aft 783J,,OM,,Mind-control headset
+5313 Port Vulcan Sector Forward Pod 533Y|Minas Tirith|PN|48779|Nanobot swarm
+9480 Port Krypton Tube 621B|Minas Tirith|SZ|86765|Quantum computer core
+7940 Port Obsidian 454C|Naboo|SU|17319|Celestial forge
+5501 Starboard Wookiee Podway Module 523K,Naboo,QA,83109,Psionic amplifier
+5765 Starboard Wookiee Sector Aft Pod 611Z|Endor|NR|93166|Exosuit
+418 Starboard Rivendell Node 563A	Tatooine	YD	91367	Psionic amplifier
+8761 Port Hobbiton Deck Aft 147,Minas Tirith,RP,,Time dilation device
+8609 Crystal Sector Forward Capsule 363,Gondor,CY,98956,Plasma torch
+485 Port Rivendell Node Forward Chamber 454C	Hoth	NR	62211	Celestial forge
+8034 Starboard Aft Chamber 121H,Hogwarts,GT,,Zero-point energy module
+2326 Starboard Enterprise Forward ,Dagobah,WH,13649,Cloaking shield generator
+2989 Port Rivendell Sector Aft 967Z|Naboo|IJ|81654|Psionic amplifier
+4964 Rivendell Podway Forward Module 167,Dagobah,VJ,93458,Teleportation pad
+3217 Dragon Pasage Forward Pod 639B,Endor,XE,52962,Terraforming drone
+7069 Coruscant Deck Forward Module 390S,Naboo,KB,88623,Dark matter containment unit
+6358 Wookiee Capsule 268|Endor|TY|93821|Starship black box
+5785 Port Coruscant Capsule 877,Tatooine,CY,20237,Android assistant
+2946 Starboard Pasage Aft Capsule 454C	Tatooine	WH	43580	Nanobot swarm
+8314 Starboard Enterprise Podway 265I		VJ	14105	Quantum entanglement communicator
+7693 Starboard Hobbiton Tube Aft 989|Krypton|RX|99057|Psionic amplifier
+7875 Port Krypton Podway Forward Capsule 13V,Hogwarts,,88896,Quantum computer core
+6291 Port Wookiee Sector Aft Module 692Z|Vulcan|XE|43152|Wormhole stabilizer
+8826 Starboard Hobbiton Tube 121H|Minas Tirith|YD|40648|Neural implant
+6959 Port Rivendell Node Forward 170B,Gondor,IJ,71586,Dyson sphere fragment
+3774 Port Hobbiton Forward Capsule 534,Rivendell,SU,24603,Android assistant
+1786 Starboard Minas Podway Aft Pod 346K|Hoth|IJ|47338|Zero-point energy module
+1829 Obsidian Sector Aft Pod 71	Krypton	QV	27192	Hyperspace drive
+6025 Starboard Minas Deck 346K	Naboo	JX	25142	Genetic modification capsule
+8258 Aft Pod 472		CY	50266	Subspace beacon
+6652 Rivendell Tube Aft Capsule 265I,Dagobah,WH,73823,Exosuit
+1231 Obsidian Deck Aft Module 623P|Krypton|IJ|52044|Android assistant
+9928 Port Tatooine Sector Aft 563A,Bespin,ZR,47198,Time dilation device
+4083 Starboard Minas Sector Chamber 783J|Gondor|RX||FTL navigation crystal
+2726 Starboard Rivendell Hatch Module 623P,,GT,84206,FTL navigation crystal
+9476 Starboard Dragon Aft 816J|Gondor|BF|47920|AI command console
+3970 Port Wookiee Pasage Aft Capsule 621B|Gondor|WV|11966|Quantum computer core
+ Port Minas Tube Forward Pod 871Q	Naboo	BF	52235	Zero-point energy module
+2047 Enterprise Tube Chamber 429|Hogwarts|CK|71538|FTL navigation crystal
+1784 Port Wookiee Hatch Module 454C	Minas Tirith	ZR	69089	Galactic credit chip
+1690 Enterprise Sector Aft Pod 877|Gondor|XZ|20942|Bio-dome habitat
+9896 Starboard Tube Aft Module 268|Dagobah|OM|42405|AI command console
+8043 Obsidian Tube Capsule 265I|Tatooine|NR|56746|Stellar map
+34 Tatooine Pasage Forward Module|Hogwarts|RP|45832|Artificial gravity generator
+390 Starboard Wookiee Pasage Aft Capsule 517,Dagobah,RX,47634,Holographic communicator
+7546 Starboard Obsidian Hatch 970M,Hogwarts,QA,88587,Quantum computer core
+850 Port Wookiee Aft Chamber 621B|Endor|QA|26565|Anti-gravity boots
+34 Tatooine Pasage Forward Module|Hogwarts|RP|45832|Artificial gravity generator
+1496 Port Crystal Podway Aft Chamber 877	Tatooine	VJ		Zero-point energy module
+8750 Dragon Sector Pod 170B,,DF,31398,Neural implant
+4362 Starboard Crystal Module 623P	Coruscant	IJ	35308	Nanobot swarm
+2639 Obsidian Deck Aft Module 783J,Krypton,FO,18748,Celestial forge
+3260 Starboard Rivendell Deck Chamber 268	Endor	UI	59125	Quantum entanglement communicator
+5896 Minas Hatch Module 800,Arrakis,NV,72409,Lightsaber
+8112 Starboard Minas Module 265I|Vulcan|XZ|99720|Energy shield emitter
+477 Port Vulcan Hatch Aft Capsule 807,Krypton,SU,71358,Subspace beacon
+8083 Vulcan Pod 570	Gondor	FO	56743	Mind-control headset
+3282 Port Coruscant Sector Aft Pod 180|Rivendell|PN|61539|Starship black box
+5012 Port Enterprise Pasage Aft Chamber 454C	Hogwarts		22969	Bioengineered symbiote
+5821 Tatooine Tube Forward Module 454C|Hoth|TY|45835|Nanobot swarm
+2785 Starboard Dragon Hatch Forward Module 180,Arrakis,TY,17173,Warp core
+8313 Starboard Dragon Node Capsule 621B|Arrakis|SZ|94680|Quantum computer core
+9735 Starboard Wookiee Deck Forward 167|Rivendell|NR|63701|AI command console
+7527 Starboard Krypton Sector Forward Capsule 414|Tatooine|IJ|83626|Wormhole stabilizer
+7578 Starboard Krypton Tube Aft Capsule 121H,Arrakis,,33667,Time travel wristband
+9471 Port Pasage Module 692Z|Tatooine|OQ|97894|Orbital defense cannon
+6763 Port Enterprise Deck Module 137	Arrakis		21246	Nanobot swarm
+3367 Starboard Obsidian Pasage Forward Pod 71	Krypton	FO	17052	Exosuit
+2085 Rivendell Podway 970M	Minas Tirith	IJ	94373	Starship black box
+3902 Starboard Enterprise Podway Forward 71,Arrakis,RX,50168,Exosuit
+8077 Port Rivendell Node Aft Chamber 651|Dagobah|QV|17588|Mind-control headset
+1322 Tatooine Sector Module 651	Dagobah	SZ	66671	Teleportation pad
+6638 Rivendell Sector Chamber 651|Tatooine|XZ|61890|Terraforming drone
+6930 Starboard Podway Module 816J	Arrakis	GL	82566	Zero-point energy module
+7179 Port Enterprise Capsule 534,,PY,11852,Quantum computer core
+3823 Starboard Obsidian Node Forward 523K	Hogwarts	DF	45644	Energy shield emitter
+9912 Starboard Vulcan Podway Module 414|Hogwarts|SU|35661|Wormhole stabilizer
+7680 Tatooine Tube Forward 147|Tatooine|IJ|39295|AI command console
+5344 Starboard Minas Deck Forward 700E,Naboo,GL,21139,Bio-dome habitat
+771 Port Wookiee Tube Forward Capsule 816J	Tatooine	MQ	56869	Orbital defense cannon
+1724 Port Krypton Aft 71,Naboo,ZR,97747,Time travel wristband
+3043 Rivendell Aft Chamber 989	Coruscant	VJ	23982	Bioengineered symbiote
+2942 Starboard Hobbiton Hatch Aft 692Z,Hogwarts,AE,81363,Teleportation pad
+7135 Wookiee Pasage Aft Module 170B	Endor	XE	82995	Exosuit
+37 Crystal Deck Aft Capsule 121H	Hoth	GL	53829	Time dilation device
+942 Port Vulcan Deck Forward Chamber 472,Rivendell,DF,73164,Anti-gravity boots
+4180 Port Vulcan Sector Forward Chamber 390S,Gondor,CY,57829,Energy shield emitter
+4727 Port Node Chamber 170B|Endor|PY|35846|Plasma torch
+7790 Starboard Vulcan Pasage Forward 45W	Minas Tirith	XE	21988	Space elevator tether
+2255 Starboard Crystal Podway Forward Pod 651|Dagobah|ZK||Lightsaber
+5500 Port Enterprise Node Module 611Z	Rivendell	MQ	19408	Exosuit
+8724 Port Vulcan Deck Capsule 816J	Dagobah	GL	55874	Holographic communicator
+2812 Starboard Rivendell Podway Forward Module 390S,Bespin,EN,35259,Exosuit
+8895 Crystal Node Forward Chamber 591	Bespin	WV	46457	Dark matter containment unit
+8404 Port Obsidian Node Forward Module 45W	Rivendell	KB	47152	Anti-gravity boots
+3603 Crystal Deck Forward Module 970M,Bespin,XE,56388,Plasma rifle
+5338 Rivendell Deck Aft Chamber 517	Dagobah	GL	86613	Psionic amplifier
+9199 Starboard Hatch Module 517|Krypton|GL|37035|Dyson sphere fragment
+8744 Crystal Tube Chamber 871Q|Naboo|CY|65903|Lightsaber
+5955 Obsidian Sector Forward Capsule 563A,,FO,94613,Anti-gravity boots
+6030 Starboard Minas Hatch Aft 425,Krypton,NV,57010,Android assistant
+9109 Port Coruscant Node Forward Module 563A,Bespin,AE,14006,Genetic modification capsule
+3849 Tatooine Sector Chamber 346K	Minas Tirith	OQ	59928	Memory erasure ray
+8527 Port Dragon Pasage Forward 989,Vulcan,RX,31962,
+5401 Dragon Podway Capsule 281H,Naboo,TY,93546,Quantum entanglement communicator
+3599 Port Tatooine Deck ,Rivendell,JP,59923,Artificial gravity generator
+1465 Krypton Pod 346K|Rivendell|TM|35062|Orb of prophecy
+8574 Vulcan Tube Chamber 390S|Arrakis|HC|97865|Cloaking shield generator
+2305 Krypton Node Forward Chamber 137,Arrakis,JP,91228,Nanobot swarm
+1580 Starboard Obsidian Pasage Aft Chamber 501T|Dagobah|SU|33593|Exosuit
+8607 Port Obsidian Forward Pod 533Y|Hogwarts|LD|82343|Bioengineered symbiote
+5778 Port Tatooine Tube Aft Chamber 989|Hogwarts|XZ|95239|Anti-gravity boots
+7554 Krypton Podway Aft Chamber 268|Hogwarts|CK|83446|Subspace beacon
+5005 Starboard Enterprise Node Forward 137,Bespin,AE,20602,Plasma rifle
+260 Starboard Enterprise Forward Pod 570,Hoth,XZ,73518,Memory erasure ray
+1303 Hobbiton Aft Chamber 692Z,Rivendell,RX,45332,Teleportation pad
+2870 Starboard Crystal Deck Aft Module 390S	Coruscant	JP	25902	Dyson sphere fragment
+8578 Starboard Wookiee Podway Aft Pod 533Y,,JP,11970,Stellar map
+2703 Hatch Aft 479	Krypton	QV	14570	Zero-point energy module
+5648 Port Enterprise Sector Aft Module 534,Krypton,WV,59798,Starship black box
+8996 Krypton Tube Pod 281H|Naboo|EN|41862|Zero-point energy module
+1239 Port Enterprise 534	Dagobah	NR		Bio-dome habitat
+2364 Starboard Obsidian Tube Forward Module 454C|Bespin|VJ|14794|Plasma torch
+988 Enterprise Tube Aft Module 611Z|Minas Tirith|SU|88255|Galactic credit chip
+8612 Sector Aft 970M,Krypton,OM,21709,
+124 Dragon Sector Pod 479	Hoth	WH	98764	Mind-control headset
+7807 Tatooine 167	Hoth	RP	92014	Warp core
+769 Tatooine Tube Aft Chamber 363,Hogwarts,BV,42610,Wormhole stabilizer
+7136 Port Minas Tube Capsule 700E|Hogwarts|XE|87214|
+1685 Port Crystal Hatch Aft Chamber 71		VJ	22839	Terraforming drone
+8470 Hobbiton Node Forward Capsule 816J	Coruscant	GT	52092	Memory erasure ray
+7872 Starboard Coruscant Tube Module 427H	Naboo	JX	35367	Alien artifact shard
+159 Port Enterprise Node Pod 877	Endor	OQ	18694	Artificial gravity generator
+2710 Starboard Tatooine Pasage Forward Capsule 116Y,Arrakis,OM,48355,Teleportation pad
+6716 Starboard Sector Aft Pod 147	Naboo	HS	25823	Holographic communicator
+567 Port Krypton Tube Forward Module 611Z|Naboo|PN|73972|Orbital defense cannon
+3220 Enterprise Sector Forward Module 346K,Dagobah,HC,59935,Hyperspace drive
+5035 Starboard Crystal Pasage 414	Coruscant	RX	51548	Cryogenic sleep chamber
+7738 Starboard Crystal Sector Aft 523K	Bespin	RP	81678	Lightsaber
+1189 Port Sector Forward Capsule 623P,Coruscant,RP,20648,Stellar map
+4718 Port Deck Forward Pod 121H	Vulcan	XZ	53700	Terraforming drone
+586 Wookiee Aft Chamber 611Z	Coruscant	JX	43253	Psionic amplifier
+3290 Port Crystal Podway Aft 121H,Minas Tirith,RP,59539,Hyperspace drive
+1476 Starboard Obsidian 147	Krypton	FO	82620	Anti-gravity boots
+9767 Port Hobbiton Tube Aft Capsule 800	Naboo	IJ	71305	Teleportation pad
+2739 Crystal Tube Aft Chamber 71	Tatooine	XE	66991	Alien artifact shard
+3228 Minas Pasage Aft 877	Minas Tirith	FO	38519	Memory erasure ray
+5778 Starboard Minas Forward 472	Coruscant	JX	73963	Time dilation device
+4804 Starboard Obsidian Deck Pod 411I	Naboo	EN	11324	Terraforming drone
+2611 Starboard Rivendell Podway Aft Pod 170B	Tatooine	BV	93373	Anti-gravity boots
+8278 Deck Forward Chamber 651	Arrakis	WH	78221	Bio-dome habitat
+9119 Starboard Minas 472		HS	75215	Time dilation device
+3718 Port Coruscant Tube Forward Capsule 390S	Krypton	LK	73424	Galactic credit chip
+9630 Port Minas Tube Capsule 692Z	Vulcan	DF	98396	Plasma rifle
+7877 Starboard Dragon Aft 523K	Dagobah	ZR	78382	Artificial gravity generator
+3986 Starboard Crystal Tube Forward Pod 639B,Endor,QV,26019,Cloaking shield generator
+9702 Port Rivendell Sector Aft Module 611Z	Endor	FO	76920	Cryogenic sleep chamber
+2584 Wookiee Sector Aft Pod 501T,Arrakis,YD,55684,Cloaking shield generator
+755 Port Minas Pasage Forward Module 816J,Minas Tirith,JP,19171,Artificial gravity generator
+1412 Port Dragon Hatch Forward Pod 967Z	Coruscant	SZ	52739	Alien artifact shard
+4232 Port Wookiee Tube Chamber 783J	Bespin	WV	80082	Bioengineered symbiote
+6820 Starboard Enterprise Deck Forward Pod 800,Hogwarts,YD,98863,Energy shield emitter
+7779 Vulcan Podway Pod 429,,SZ,72880,Plasma rifle
+4482 Starboard Crystal Pasage Aft Pod 180,Hoth,QV,68989,Memory erasure ray
+5133 Krypton Pasage Aft Module 454C,Endor,WH,86722,Cloaking shield generator
+3880 Tatooine Pasage Pod 533Y,Gondor,HC,66645,Dyson sphere fragment
+1046 Crystal Pasage Pod 472|Krypton|XZ|33960|Quantum computer core
+3319 Minas 816J,Gondor,PY,47252,Alien artifact shard
+8340 Vulcan Forward Capsule 970M	Vulcan	JX	74507	Bio-dome habitat
+3434 Starboard Dragon 116Y	Naboo	PN	89808	Nanobot swarm
+2382 Dragon Hatch Pod 989,Coruscant,HS,74630,Energy shield emitter
+8508 Starboard Hobbiton Pasage Forward 233J|Hogwarts|HC|66048|Bio-dome habitat
+4380 Wookiee Deck Forward 121H,Gondor,WH,66293,Nanobot swarm
+2707 Crystal Pasage Aft Chamber 180	Gondor	GL	58719	Time travel wristband
+2390 Port Hobbiton Pasage Forward Module 346K	Rivendell	IJ	69809	Anti-gravity boots
+2571 Enterprise Node Aft Chamber 517	Coruscant	NR	99028	Dark matter containment unit
+4533 Starboard Minas Pasage Forward Pod 692Z	Endor	FO	77938	Psionic amplifier
+910 Vulcan Tube Forward 871Q	Tatooine	GT	56416	Quantum computer core
+2505 Dragon Pasage Chamber 700E|Arrakis|JP|87084|Cryogenic sleep chamber
+4528 Node Forward Pod 233J|Naboo|VJ|40319|Quantum computer core
+1396 Port Hobbiton Forward Module 167|Arrakis|CK|78179|Android assistant
+1106 Enterprise Pasage Forward Module 639B,Coruscant,SZ,,Exosuit
+7737 Port Vulcan Aft Module 807	Tatooine	WV	24861	AI command console
+3700 Hobbiton Tube Forward Chamber 533Y,Hogwarts,LK,41145,FTL navigation crystal
+3352 Port Crystal Pasage Capsule 591|Hoth||26188|Exosuit
+5445 Port Enterprise Sector Aft 71|Hoth|IJ|67520|Artificial gravity generator
+9626 Port Enterprise Hatch Forward 281H|Gondor|VJ|58879|Artificial gravity generator
+3494 Rivendell Sector Aft Pod 281H	Naboo	OM	48917	AI command console
+5276 Port Tatooine Pod ,Endor,XE,50210,Nanobot swarm
+8165 Starboard Hobbiton Sector Aft 501T,Gondor,AE,21209,Cloaking shield generator
+5097 Port Crystal Hatch Forward 281H	Endor	XZ	21561	Space elevator tether
+7595 Starboard Vulcan Tube Forward Pod 167|Dagobah|PY|97741|Genetic modification capsule
+7414 Port Rivendell Deck Chamber 411I	Vulcan	YD	94728	Android assistant
+632 Minas Podway Forward Module 692Z	Arrakis	BV	53598	Subspace beacon
+ Starboard Dragon Node Chamber 877,Hogwarts,WH,82756,Artificial gravity generator
+4432 Starboard Tatooine Pasage Forward Pod 591,,AE,56667,Time travel wristband
+5902 Dragon Module 967Z,Naboo,LK,15710,Neural implant
+8227 Enterprise Tube Aft Capsule 472,Minas Tirith,CK,49444,Stellar map
+317 Vulcan Sector Aft Module 692Z	Dagobah	TY	26643	Bioengineered symbiote
+104 Starboard Enterprise Podway Forward Pod 534	Naboo	BF	19407	AI command console
+8378 Starboard Krypton Hatch Forward Pod 517	Rivendell	SU	68735	Cloaking shield generator
+1277 Starboard Crystal Podway Aft 167|Rivendell|QA|33111|Warp core
+8360 Rivendell Tube Aft Module 517	Vulcan	XE	17691	Orb of prophecy
+5228 Starboard Obsidian Pasage Aft Chamber 621B	Hoth	UI	40994	Dark matter containment unit
+790 Port Wookiee Hatch Module 116Y	Dagobah	ZR	98206	Orbital defense cannon
+1750 Starboard Tatooine Podway Capsule 472,Hoth,PN,49488,Cryogenic sleep chamber
+1467 Port Minas Sector Forward 472,Hoth,GT,99584,Memory erasure ray
+258 Starboard Vulcan Deck Chamber 692Z|Dagobah|EN|47936|Holographic communicator
+7208 Starboard Tatooine Deck Aft Module 233J|Krypton|MQ|62963|Teleportation pad
+9832 Starboard Obsidian Pasage Forward Module 989	Dagobah	FO	65825	Plasma rifle
+5588 Starboard Minas Hatch Forward 768,Vulcan,WH,85426,Subspace beacon
+5466 Port Minas Podway 147	Rivendell	DF	45988	
+4994 Pasage Aft Module 363,Rivendell,XZ,58679,Orb of prophecy
+5026 Starboard Wookiee Module 651	Dagobah	WH	11887	Quantum entanglement communicator
+6614 Port Tatooine Tube Aft 871Q	Krypton	QA	77873	Teleportation pad
+7639 Starboard Vulcan Hatch Forward Chamber 411I|Gondor|PY|99610|Cloaking shield generator
+9756 Starboard Crystal Node Pod 170B||IJ|71904|Energy shield emitter
+846 Rivendell Hatch Forward 989		SU	47381	Orb of prophecy
+8461 Starboard Coruscant Tube Forward Chamber 621B	Coruscant	QV	21950	Holographic communicator
+3450 Port Obsidian Forward Chamber 45W	Minas Tirith	BF	75525	Stellar map
+796 Starboard Obsidian Sector Capsule 45W|Vulcan|XZ|75162|Memory erasure ray
+1497 Starboard Wookiee Aft Chamber 816J	Dagobah	PN	81941	
+9788 Port Coruscant Pasage Chamber 472,,YD,74319,Orbital defense cannon
+2315 Starboard Obsidian Podway Forward Module 563A|Bespin|FO|70568|Stellar map
+4601 Vulcan Pasage Aft 570	Bespin	MQ	52529	Celestial forge
+6007 Vulcan Pasage Aft 692Z|Krypton|KB|34046|Exosuit
+1127 Port Hobbiton Tube 533Y	Endor	KB	15051	Lightsaber
+563 Vulcan Pasage Module 611Z	Gondor	SZ	45526	Orbital defense cannon
+8782 Starboard Crystal Podway Aft Module 783J	Bespin	MQ	50202	Artificial gravity generator
+8332 Port Minas Tube Chamber 783J,Endor,ZR,63359,Teleportation pad
+4659 Port Tatooine Deck Aft Module 479,Hoth,JX,70646,Holographic communicator
+9860 Wookiee Deck Forward Chamber 989,Naboo,AE,13602,Psionic amplifier
+1542 Port Dragon Podway Aft 871Q	Arrakis	NR	81426	Plasma torch
+4634 Obsidian Podway Forward Pod 877	Hoth	HS	47703	Energy shield emitter
+8963 Starboard Module 454C		OM	13048	Neural implant
+6298 Minas Deck Aft 816J	Arrakis	WH	54785	Alien artifact shard
+3385 Port Wookiee Sector Forward Pod 563A	Tatooine	YD	73376	Orb of prophecy
+7559 Starboard Node Chamber 970M||CK|31248|Quantum computer core
+8186 Tatooine Deck Aft Chamber 533Y	Krypton	OQ	94081	Android assistant
+9843 Port Rivendell Node Forward Chamber 167,,HC,25032,Hyperspace drive
+6548 Crystal Tube Forward Chamber 346K,Hoth,PN,26029,
+160 Hobbiton Hatch Aft Module 621B,Naboo,FO,47337,Terraforming drone
+7432 Starboard Minas Hatch Aft Chamber 429|Bespin|VJ|95655|Neural implant
+2282 Vulcan Node Aft Pod 121H	Gondor	SZ	60234	Cloaking shield generator
+815 Coruscant Hatch Forward Chamber 533Y,Bespin,SU,31780,Artificial gravity generator
+6843 Port Krypton Hatch Pod 346K|Minas Tirith|QA|66656|Mind-control headset
+4140 Crystal Podway Forward 533Y,Krypton,RP,38981,Android assistant
+204 Pasage Forward Capsule 692Z	Hogwarts	OM	61133	Subspace beacon
+1730 Port Wookiee Hatch Forward Module 116Y	Minas Tirith	RP	15142	Psionic amplifier
+407 Starboard Vulcan Podway Chamber 265I	Bespin	BF	26067	Plasma rifle
+8266 Port Minas Node Capsule 233J,Vulcan,GL,38931,Orbital defense cannon
+4616 Starboard Pasage Aft Capsule 807,Rivendell,HS,82649,Time dilation device
+3907 Starboard Enterprise Hatch Forward Module 816J	Gondor	TM	95573	Plasma torch
+34 Tatooine Pasage Forward Module|Hogwarts|RP|45832|Artificial gravity generator
+4386 Port Wookiee Sector Aft Pod 816J,Coruscant,GL,62086,Orb of prophecy
+2661 Hobbiton Pasage Chamber 533Y|Hogwarts|QV|43889|Lightsaber
+2875 Port Dragon Podway Aft 783J|Endor|HC|49235|Terraforming drone
+3060 Port Dragon Forward Pod 517	Endor	PY	95959	Orb of prophecy
+1967 Port Rivendell Node Aft Module 147,Vulcan,DF,37379,Zero-point energy module
+3186 Port Tatooine Hatch Forward Pod 427H	Hoth	MQ	83085	Quantum entanglement communicator
+8293 Starboard Coruscant Pasage Chamber 429,Vulcan,FO,60060,Memory erasure ray
+2080 Port Coruscant Node Module 783J|Rivendell|ZR|56629|Alien artifact shard
+3787 Enterprise Aft ,Tatooine,SU,66176,Galactic credit chip
+2868 Starboard Tatooine Pasage 411I|Hogwarts|QA|53832|Bio-dome habitat
+4984 Port Deck Forward Capsule 425		XE	15927	Orbital defense cannon
+3330 Starboard Dragon Pod 570|Endor|ZK|29119|Quantum computer core
+824 Obsidian Podway Aft Pod 13V|Endor|LD|84131|Warp core
+8293 Starboard Crystal Sector 411I,Minas Tirith,EN,65537,Quantum computer core
+2007 Port Enterprise Hatch Forward Capsule 591	Coruscant	OM	29680	Cloaking shield generator
+9668 Port Vulcan Hatch Capsule 563A	Coruscant	LK	30094	Subspace beacon
+102 Starboard Vulcan Pasage Pod 425,Dagobah,UI,97179,Orbital defense cannon
+9445 Wookiee Sector Aft 800||NV|90181|Stellar map
+506 Port Minas Podway Aft Module 871Q|Naboo|SU|84486|Space elevator tether
+6168 Node Pod 13V|Hogwarts|GL|40117|Lightsaber
+4697 Port Mina Chamber 363|Bespin|CK|87780|Anti-gravity boots
+1434 Crystal Tube Module 989	Naboo	MQ	88498	Galactic credit chip
+9208\u0394 Starboard Coruscant Sector Aft Pod 346K|Bespin|WV|30099|Plasma torch
+3936 Starboard Crystal Tube Chamber 13V|Gondor|AE|74106|Plasma torch
+3618 Port Enterprise Podway Aft 989	Tatooine	JP	20358	Genetic modification capsule
+765 Port Rivendell Sector Forward Chamber 877,,NV,12134,Quantum computer core
+5630 Wookiee Sector Pod 800	Rivendell	HC	84631	Alien artifact shard
+5012 Crystal Forward Pod 180	Bespin	OQ	19414	Alien artifact shard
+9988 Starboard Obsidian Deck Capsule 363,,LD,41108,FTL navigation crystal
+2022 Port Tatooine Forward Capsule 970M|Hoth|BF|84668|Android assistant
+7018 Starboard Sector Forward 472,Vulcan,SZ,55843,Galactic credit chip
+3750 Starboard Dragon Podway Module 116Y|Hoth|DF|84694|Artificial gravity generator
+6020 Starboard Wookiee Sector Forward Pod 989	Rivendell	YD	42814	Psionic amplifier
+362 Port Enterprise Node Pod 45W,Endor,CK,49243,Anti-gravity boots
+7214 Rivendell Deck Capsule 768	Bespin	QV	29930	Anti-gravity boots
+3383 Podway Forward Chamber 523K|Krypton|IJ|12488|Space elevator tether
+3335 Port Crystal Pasage Aft Capsule 651		SU	84180	Cryogenic sleep chamber
+9166 Port Dragon Sector Forward Module 425	Endor	SU	56129	Time dilation device
+6739 Wookiee Tube Forward Pod 427H	Bespin	CY	95244	
+507 Starboard Vulcan Module 116Y|Coruscant|TM|61881|FTL navigation crystal
+1912 Rivendell Tube Aft Capsule 611Z|Arrakis|TY|44942|Bio-dome habitat
+5075 Starboard Pasage Module 265I,Bespin,LD,25929,Plasma torch
+1172 Port Crystal Hatch Forward Chamber 429|Tatooine|HC|74413|Warp core
+6746 Port Minas Podway Aft Module 700E|Coruscant|QA|51154|Quantum computer core
+8281 Krypton Node Forward Pod 411I|Endor|LD|55385|Android assistant
+89 Starboard Krypton Pasage Aft 970M|Coruscant|MQ|71599|Mind-control headset
+2902 Starboard Tatooine Sector Forward Chamber 611Z	Arrakis	RX	45544	Space elevator tether
+2021 Starboard Tatooine Aft Pod 621B|Arrakis|QV|21695|Plasma rifle
+4979 Port Coruscant Deck Forward Capsule 639B|Vulcan|AE|43049|Space elevator tether
+1450 Port Tatooine Hatch Forward Chamber 563A,Tatooine,WH,64011,Bioengineered symbiote
+68 Port Enterprise Sector Chamber 768|Hogwarts|GT|81094|Energy shield emitter
+7437 Starboard Tatooine Deck Module 147,Krypton,MQ,72538,Alien artifact shard
+5963 Starboard Vulcan Node Aft 807	Bespin	BF	91977	Hyperspace drive
+3590 Port Wookiee Sector Pod 427H	Vulcan	IJ	25619	Dark matter containment unit
+683 Minas Hatch Aft Module 534,,WV,13408,Plasma rifle
+7244 Krypton Hatch Forward Capsule 281H	Tatooine	QV	49995	Energy shield emitter
+3237 Port Tatooine Hatch Forward 517|Vulcan|GT|69333|Artificial gravity generator
+1929 Starboard Obsidian Hatch Forward Capsule 265I||GT|81333|Quantum entanglement communicator
+6954 Dragon Hatch Forward Module 591|Dagobah|BF|22061|Psionic amplifier
+2362 Starboard Krypton Hatch Capsule 170B	Arrakis	TY	24285	Genetic modification capsule
+5206 Starboard Enterprise Sector 563A|Krypton|WH|99849|Quantum entanglement communicator
+8287 Starboard Vulcan Pasage Aft Module 970M,Dagobah,JX,95480,Neural implant
+5398 Port Hatch Aft Pod 807	Rivendell	BV	88002	Bio-dome habitat
+1896 Dragon Hatch Forward 533Y	Hogwarts	SU	47631	Exosuit
+8513 Port Dragon Deck Aft Module 800,Arrakis,AE,90383,Hyperspace drive
+7500 Minas Sector Aft Chamber 346K	Dagobah	YD	43644	Quantum computer core
+6148 Wookiee Aft 137|Vulcan|OQ|88648|Wormhole stabilizer
+279 Starboard Wookiee Podway Aft 871Q,Vulcan,XZ,17175,Artificial gravity generator
+3545 Coruscant Tube Forward Pod 692Z,Rivendell,CY,90562,Alien artifact shard
+5679 Port Sector Aft Pod 534|Hoth|QA|37880|Energy shield emitter
+4873 Wookiee Tube Aft 877	Naboo	TM	24799	Holographic communicator
+9819 Starboard Rivendell Deck Aft Capsule 563A,Krypton,CK,15213,Exosuit
+234 Starboard Vulcan Podway Capsule 517	Coruscant	NR	87158	Holographic communicator
+2275 Krypton Sector Pod 989,,AE,86665,Memory erasure ray
+6372 Starboard Dragon Sector Aft 692Z,Krypton,GL,53574,Subspace beacon
+5056 Port Crystal Capsule ,Vulcan,GL,80212,Artificial gravity generator
+1652 Tatooine Sector Forward Capsule 611Z	Gondor	WH	20839	Genetic modification capsule
+6914 Starboard Minas Pod 651,Coruscant,OQ,67506,Orb of prophecy
+9822 Port Enterprise Podway Aft Pod 563A	Vulcan	OQ	14511	Hyperspace drive
+550 Starboard Coruscant Pod 479	Endor	MQ	23181	Dyson sphere fragment
+7746 Starboard Minas Hatch Capsule 967Z,Minas Tirith,WH,36245,Cloaking shield generator
+3024 Hobbiton Podway 137,Bespin,QA,39610,Zero-point energy module
+5601 Starboard Crystal Pasage Aft Capsule 454C,Vulcan,PN,73149,Psionic amplifier
+1037 Tatooine Hatch Forward Pod 147|Vulcan|BF|61100|Time dilation device
+5856 Rivendell Deck Forward 472|Endor|ZK|88170|Teleportation pad
+9367 Port Coruscant Aft Chamber 281H,Hoth,FO,12158,Genetic modification capsule
+9035 Starboard Vulcan Aft Pod 390S	Tatooine	UI	70156	Dark matter containment unit
+4172 Starboard Dragon Hatch Forward 265I|Hogwarts|CK|47558|Dyson sphere fragment
+3335 Port Tatooine Sector Aft Chamber 639B	Tatooine	HC	94809	Anti-gravity boots
+ Dragon Node Forward 121H||GL|91291|Starship black box
+7888 Starboard Enterprise Aft 147,Endor,LD,17446,Dyson sphere fragment
+5028 Port Dragon Deck Aft Module 265I	Naboo	XZ	92505	AI command console
+3364 Wookiee Hatch Forward 700E,Gondor,NR,20993,FTL navigation crystal
+2033 Starboard Dragon Podway Aft Chamber 871Q|Krypton|OQ|39615|Energy shield emitter
+897 Starboard Tatooine 570	Hoth	BV	13245	Quantum computer core
+7610 Crystal Sector Module 533Y,Tatooine,NV,54588,Dark matter containment unit
+7418 Crystal Pasage Aft Module 363,Gondor,VJ,46450,Teleportation pad
+6654 Hobbiton Pasage Capsule 800,Bespin,NV,58689,Holographic communicator
+4305 Starboard Hobbiton Podway Forward Capsule 170B|Hogwarts|AE|54439|Anti-gravity boots
+4183 Port Hobbiton Tube Aft Capsule 692Z,Coruscant,OQ,92638,Mind-control headset
+5094 Starboard Coruscant Forward Module 45W	Dagobah	TY	15327	Terraforming drone
+4164 Starboard Coruscant Forward Module 871Q	Naboo	XZ	43646	Orbital defense cannon
+3010 Port Vulcan Podway 611Z,Naboo,EN,14167,Artificial gravity generator
+6468 Obsidian Pasage Pod 116Y		FO	21124	Bioengineered symbiote
+3157 Port Enterprise Hatch 71|Vulcan|JP|29100|Lightsaber
+9676 Starboard Rivendell Tube Forward Capsule 170B		OM	26162	Bioengineered symbiote
+3694 Port Wookiee Hatch Aft Chamber 71	Minas Tirith	NV	55344	FTL navigation crystal
+8050 Hobbiton Forward 783J|Arrakis|FO|60841|Genetic modification capsule
+3186 Starboard Crystal Tube Forward Chamber 71,Hogwarts,XE,70052,Quantum entanglement communicator
+1991 Coruscant Deck Forward Capsule 71|Krypton|ZR|24337|Starship black box
+619 Starboard Vulcan Node Forward Module 137|Hogwarts|OM|46229|Alien artifact shard
+3633 Port Vulcan Deck Module 180	Vulcan	EN	73857	Warp core
+5348 Wookiee Tube Module 13V,Dagobah,BV,39788,Android assistant
+7350 Port Krypton Podway Aft Module 180,Krypton,SZ,13063,Wormhole stabilizer
+672 Port Enterprise Pasage Aft Module 167,Endor,XE,90505,Space elevator tether
+3626 Port Coruscant Hatch 346K	Coruscant	TY	79583	Holographic communicator
+3673 Port Enterprise Deck Forward Capsule 137,Vulcan,HS,96169,Starship black box
+4461 Wookiee Tube Module 265I|Endor|BV|35448|Terraforming drone
+ Minas Pasage Forward Module 768|Bespin|NR|67802|Starship black box
+3965 Port Wookiee Node Forward Chamber 137	Minas Tirith	TM	45229	Holographic communicator
+5437 Starboard Krypton Tube Aft 501T	Dagobah	QV	60610	Celestial forge
+7138 Starboard Dragon Node Forward Chamber |Endor|BV|62662|Psionic amplifier
+7436 Starboard Tatooine Podway Forward Chamber 363|Coruscant|OM|58793|Time travel wristband
+8728 Starboard Minas Forward Chamber 13V||SZ|72377|FTL navigation crystal
+8656 Port Vulcan Podway Forward Chamber 479|Coruscant|RX|98884|Holographic communicator
+9781 Port Krypton Aft Pod 71|Naboo|TM|19687|Nanobot swarm
+1980 Port Coruscant Node Aft Chamber 517	Gondor	EN	71861	Zero-point energy module
+9250 Starboard Crystal Sector Aft 429|Rivendell|UI|20940|Quantum computer core
+2998 Starboard Vulcan Tube Aft Pod 871Q	Minas Tirith	OQ	39748	AI command console
+6562 Coruscant Deck Capsule 233J	Coruscant	XZ	10927	Psionic amplifier
+9300 Port Krypton Pasage Aft Module |Bespin|GT|41907|Warp core
+7630 Port Crystal Node Aft Capsule 265I|Minas Tirith|KB|18353|Hyperspace drive
+8233 Vulcan Aft Pod 281H,Krypton,JX,88858,Orb of prophecy
+2979 Port Vulcan Node Forward 121H	Arrakis	OM	90574	Artificial gravity generator
+9209 Minas Node Chamber 180,Vulcan,HC,64799,Zero-point energy module
+6364 Wookiee Node Forward 534		SZ	42850	Android assistant
+5769 Port Coruscant Sector 71|Vulcan|AE|26383|Lightsaber
+1266 Tube Aft Pod 45W,Hogwarts,QV,50267,Quantum entanglement communicator
+570 Starboard Wookiee Hatch Capsule 411I|Coruscant|OM|22011|Lightsaber
+8700 Port Enterprise Hatch Aft Capsule 429,,ZK,28507,Psionic amplifier
+8209 Starboard Enterprise Deck Pod 425,Gondor,KB,65480,Galactic credit chip
+8395 Starboard Rivendell Sector Forward Module 591,Minas Tirith,CK,57725,Cryogenic sleep chamber
+7830 Wookiee Node Aft Capsule 989|Endor|HC|60072|Cloaking shield generator
+9616 Starboard Tatooine Hatch 429,Vulcan,XZ,,Time dilation device
+8767 Enterprise Sector Aft 429,Gondor,HS,82242,Exosuit
+3874 Obsidian Pasage Pod 479,,QV,48016,Time dilation device
+2901 Vulcan Pod 13V|Coruscant|LK|55154|Cryogenic sleep chamber
+5355 Starboard Rivendell Podway Forward 265I		DF	40168	Celestial forge
+7946 Port Tatooine Tube Forward Chamber 429|Vulcan|AE|43055|Galactic credit chip
+3130 Vulcan Sector Forward 479,Coruscant,NV,61324,Mind-control headset
+780 Starboard Tatooine Tube 281H,Rivendell,VJ,67793,Cloaking shield generator
+8899 Starboard Rivendell Sector Capsule 623P,,JX,46852,Starship black box
+2672 Starboard Coruscant Deck Aft Pod 623P,Naboo,ZK,73379,Zero-point energy module
+6993 Enterprise Pasage Aft Chamber 121H	Tatooine	CK		Anti-gravity boots
+9204 Port Tatooine Sector Forward 414,Tatooine,GT,50469,Quantum entanglement communicator
+5269 Port Obsidian Tube 768|Arrakis|CY|12779|Time travel wristband
+9411 Starboard Vulcan Tube Forward Capsule 611Z,Gondor,OM,77679,Cryogenic sleep chamber
+9590 Port Minas Tube Aft Module 871Q,Hogwarts,ZR,57000,Quantum computer core
+4347 Wookiee Node Forward Pod 768|Gondor|EN|74874|Energy shield emitter
+3259 Rivendell Hatch 970M	Minas Tirith	GL	42903	Anti-gravity boots
+8482 Port Tatooine Hatch Forward Capsule 692Z|Rivendell|FO|19580|Bioengineered symbiote
+6341 Port Obsidian Tube Forward Module 967Z|Hogwarts|FO|13618|Anti-gravity boots
+8272 Coruscant Tube Aft Pod 877	Vulcan	MQ		Quantum entanglement communicator
+1482 Tatooine Node Aft Capsule 170B	Krypton		57217	FTL navigation crystal
+5811 Starboard Dragon Tube Capsule 621B,Tatooine,OQ,86393,FTL navigation crystal
+2242 Starboard Hobbiton Deck Capsule 501T|Hoth||97125|Memory erasure ray
+5503 Port Krypton Pasage Capsule 427H|Endor|QV|74408|Neural implant
+9300 Port Obsidian Node Chamber 137	Hoth	CY	33721	Holographic communicator
+3915 Obsidian Tube Aft 71		ZR	98782	Memory erasure ray
+5697 Port Coruscant Tube Aft Pod 281H|Minas Tirith|LD|89291|Galactic credit chip
+4421 Vulcan Hatch 13V|Hoth|OM|28247|Orbital defense cannon
+6918 Rivendell Hatch Aft 768,Tatooine,ZK,26697,Neural implant
+9992 Podway Aft Pod 570|Bespin|WV|23565|Energy shield emitter
+1154 Port Rivendell Hatch Forward Capsule 427H|Hogwarts|SU|46884|Plasma rifle
+8963 Starboard Wookiee Hatch Forward Capsule 268|Tatooine|SU|19631|Genetic modification capsule
+9613 Port Crystal Hatch Module 967Z,Vulcan,NR,36929,Nanobot swarm
+2903 Krypton Deck Aft Pod 534,Dagobah,QA,50470,Terraforming drone
+9214 Port Wookiee Tube 265I,Rivendell,YD,35835,Anti-gravity boots
+3442 Starboard Hobbiton Hatch Forward Chamber 692Z	Dagobah	SZ	50864	Artificial gravity generator
+2067 Port Minas Deck 989	Coruscant	DF	48707	Mind-control headset
+551 Starboard Deck Module 429,Bespin,CK,54602,Teleportation pad
+1272 Starboard Minas Sector Chamber 71|Vulcan|TM|67809|Stellar map
+5020 Pasage Forward Pod 390S|Arrakis|VJ|36626|Cryogenic sleep chamber
+2699 Starboard Dragon Tube Forward Module 281H	Naboo	CY	32170	Dyson sphere fragment
+5974 Rivendell Hatch Module 651|Krypton|BV|15683|Lightsaber
+2101 Starboard Enterprise Deck Aft Module 281H|Dagobah|VJ|89624|Neural implant
+7202 Starboard Obsidian Podway Forward Chamber 425,Naboo,UI,29407,Lightsaber
+568 Starboard Dragon Pasage Forward Chamber 429,Dagobah,DF,85979,Warp core
+8454 Port Hobbiton Hatch Module 783J,Tatooine,UI,54497,Alien artifact shard
+9337 Wookiee Pasage Forward Pod 265I,Arrakis,,87464,
+3340 Starboard Krypton Hatch Chamber 479|Krypton|KB|17430|Galactic credit chip
+5878 Starboard Tatooine Deck Forward |Hoth|RX|79311|Teleportation pad
+2269 Starboard Enterprise Tube Forward Module 472,Rivendell,KB,70343,Genetic modification capsule
+1520 Coruscant Hatch Forward 611Z	Hogwarts	IJ	80073	
+3102 Enterprise Chamber 523K|Krypton|HC|94923|Zero-point energy module
+3903 Port Vulcan Pasage Chamber 800,Coruscant,PY,41088,Cryogenic sleep chamber
+4471 Enterprise Tube Forward Capsule 621B	Vulcan	TM	87056	Time dilation device
+7796 Port Node Forward Chamber 13V,Krypton,FO,38968,Terraforming drone
+5676 Tatooine Pasage Aft Module 639B	Tatooine	WH	21512	Hyperspace drive
+1757 Port Krypton Hatch Forward Capsule 454C,,CK,72398,Terraforming drone
+4839 Starboard Vulcan Deck Forward Chamber 989,Dagobah,SZ,70566,Memory erasure ray
+7315 Starboard Hobbiton Deck Module 281H,,HC,77044,Mind-control headset
+936 Starboard Minas Hatch 591,Minas Tirith,WH,,Plasma rifle
+7414 Port Crystal Deck Pod 268|Coruscant|NV|46393|Android assistant
+6999 Starboard Obsidian Aft Pod 523K|Krypton|RX|45034|Time dilation device
+3690 Starboard Krypton Node Forward 427H,Arrakis,KB,96317,AI command console
+3960 Port Wookiee Tube Chamber 137|Endor|WV|71641|Orb of prophecy
+5126 Starboard Minas Sector Aft Module 692Z|Hoth|WH|47173|Dark matter containment unit
+9094 Coruscant Tube Capsule 268|Coruscant|WH|94779|Memory erasure ray
+4327 Port Dragon Hatch Module 13V,Rivendell,WV,57779,Zero-point energy module
+4486 Starboard Wookiee Hatch Capsule 425	Endor	GT	22827	Neural implant
+2209 Starboard Tube Aft Module 570,Krypton,BV,15932,Holographic communicator
+2246 Starboard Coruscant Deck Forward Pod 233J|Hogwarts|XZ|99140|Galactic credit chip
+8460 Crystal Deck Capsule 472	Dagobah	XE	62734	Celestial forge
+2479 Port Tatooine Deck Forward 523K,Naboo,IJ,54568,Zero-point energy module
+2293 Port Krypton Pasage Forward 116Y	Hoth	MQ	10712	
+2920 Starboard Dragon Sector Chamber 563A|Arrakis|QV|65329|Holographic communicator
+8100 Vulcan Aft Capsule 533Y,Krypton,IJ,48428,Terraforming drone
+6179 Starboard Krypton Tube Capsule 970M	Arrakis	KB	41272	Dark matter containment unit
+762 Hobbiton Podway Module 116Y|Minas Tirith|UI|35562|FTL navigation crystal
+9296 Coruscant Node Chamber 45W|Hogwarts|HS|91757|Dark matter containment unit
+614 Port Hobbiton Deck Capsule 807	Dagobah	QA	30433	Cryogenic sleep chamber
+6948 Enterprise Forward Capsule 783J	Vulcan	VJ	21869	Subspace beacon
+2105 Starboard Minas Tube Pod 425,Bespin,KB,58090,Bioengineered symbiote
+6777 Port Hatch Forward Module 411I	Dagobah	IJ	23153	Space elevator tether
+9488 Minas Pasage Aft 45W|Rivendell|LK|78697|Cryogenic sleep chamber
+3703 Coruscant Deck Module 783J|Tatooine|GT|43645|Nanobot swarm
+254 Obsidian Tube Pod 45W,Krypton,OM,65936,Celestial forge
+4780 Starboard Obsidian Pasage Pod 346K	Rivendell	SU	43721	Bioengineered symbiote
+6743 Vulcan Tube Module 233J|Hogwarts|TY|50974|Lightsaber
+913 Starboard Rivendell Hatch Forward Pod 700E		EN	87768	Starship black box
+5916 Port Hobbiton Hatch Aft Chamber 611Z,Arrakis,OQ,22382,Terraforming drone
+7911 Wookiee Podway Aft Chamber 501T	Gondor	DF	23631	Zero-point energy module
+5165 Starboard Crystal Node Forward Pod 429,Hogwarts,QV,27270,Genetic modification capsule
+7317 Vulcan Pasage Forward Chamber 147,Krypton,VJ,78432,Time travel wristband
+8862 Dragon Deck Capsule 414||VJ|18511|FTL navigation crystal
+2998 Port Wookiee Podway Aft Chamber 533Y|Coruscant|NV|58875|Stellar map
+462 Dragon Forward 265I,Tatooine,JX,66779,Energy shield emitter
+3549 Port Dragon Module 623P,Krypton,PY,12541,Zero-point energy module
+6835 Port Vulcan Tube Aft Pod 692Z,Rivendell,,54844,Psionic amplifier
+3465 Starboard Dragon Pasage Module 534	Rivendell	VJ	42500	Psionic amplifier
+1080 Port Vulcan Deck Aft Chamber 621B,Tatooine,EN,92767,Nanobot swarm
+9774 Port Obsidian Pasage 501T,Naboo,HS,97737,AI command console
+3978 Port Tatooine Sector Module 591,Hogwarts,GT,82887,Dyson sphere fragment
+5775 Port Crystal 45W|Hogwarts|XE|64488|Nanobot swarm
+8425 Port Obsidian Hatch Aft Module 700E,,SZ,75049,Psionic amplifier
+3912 Starboard Obsidian Sector Aft Module 346K|Hoth|HC|98792|Holographic communicator
+8250 Starboard Krypton Hatch Aft Chamber 390S|Hogwarts|SU|41292|Neural implant
+2835 Port Crystal Pod 621B	Minas Tirith	DF	41299	Starship black box
+1684 Enterprise Pasage Forward 967Z|Arrakis|HC|45967|Time dilation device
+2646 Starboard Wookiee Node Forward 346K		MQ	25304	Lightsaber
+9617 Starboard Tatooine Hatch Aft 472|Arrakis|GT|30365|Quantum entanglement communicator
+4350 Port Dragon Pasage Aft Module 	Endor	FO	34188	Space elevator tether
+6658 Tatooine Tube Aft Pod 479,Vulcan,TY,59584,Genetic modification capsule
+4000 Wookiee Forward Pod 970M|Minas Tirith|IJ|14666|Warp core
+3704 Starboard Vulcan Pasage Aft Module 390S,Hoth,WH,73349,Celestial forge
+3598 Starboard Hobbiton Node Forward 71|Tatooine|SZ|82710|Time dilation device
+2172 Rivendell Sector Pod 611Z	Endor	SU	55002	Time travel wristband
+1558 Port Obsidian Pasage Aft 970M	Hoth	BV	12146	Celestial forge
+776 Starboard Rivendell Podway Module 517|Minas Tirith|PN|59752|Stellar map
+5029 Starboard Obsidian Module 523K|Arrakis|XE|83788|Plasma rifle
+8174 Starboard Dragon Chamber 783J	Naboo	IJ	31396	Time dilation device
+8689 Starboard Rivendell Node Aft Capsule 116Y|Bespin|RP|51953|Quantum computer core
+5209 Port Tatooine Node Pod 989|Naboo|FO|78259|Dark matter containment unit
+4044 Enterprise Node Forward Capsule 411I	Coruscant	SZ	64004	Genetic modification capsule
+6185 Port Hobbiton Hatch Pod 591	Tatooine	BF	82737	FTL navigation crystal
+8955 Port Coruscant Pasage Capsule 281H,Dagobah,XZ,56512,Mind-control headset
+9073 Port Rivendell Tube Aft Module 390S	Vulcan	LD	87273	Plasma torch
+4540 Vulcan Pasage 967Z	Dagobah	DF	22699	Plasma torch
+5405 Port Obsidian Sector Aft Capsule 534	Hogwarts		62417	Quantum entanglement communicator
+4456 Starboard Node Forward Pod 517|Dagobah|MQ|25806|Cloaking shield generator
+8954 Dragon Node Aft Module |Dagobah|GT|32997|Dark matter containment unit
+505 Starboard Coruscant Node Aft 233J,,OM,99640,Anti-gravity boots
+680 Port Coruscant Tube Aft Chamber 517,,XE,71380,Wormhole stabilizer
+99 Vulcan Tube Module 233J,Vulcan,QV,18010,Cryogenic sleep chamber
+1759 Starboard Pasage Aft Chamber 137	Naboo	PN	30031	AI command console
+5824 Starboard Wookiee Tube Aft Module 611Z|Krypton|TY|66341|Memory erasure ray
+8580 Starboard Rivendell Node Module 570|Minas Tirith|TY|39111|Energy shield emitter
+3490 Starboard Enterprise Pasage Aft Capsule 533Y	Tatooine	BF	85368	Space elevator tether
+5801 Starboard Wookiee Forward Capsule 591,Arrakis,WV,92549,Warp core
+174 Starboard Crystal Podway Aft Module 639B,Tatooine,GL,46005,Quantum computer core
+9632 Port Krypton Podway Module 877,Minas Tirith,QV,72389,Orbital defense cannon
+5381 Port Coruscant Tube Forward Module 807	Arrakis	QV	95568	Terraforming drone
+6659 Starboard Hobbiton Deck Forward Chamber 427H,Vulcan,AE,50525,Subspace beacon
+2401 Port Wookiee Pasage Aft Chamber 13V	Minas Tirith	UI	46466	Zero-point energy module
+4197 Coruscant Sector Capsule 591|Krypton|TY|58857|Starship black box
+5750 Hobbiton Hatch 414		OQ	36968	Celestial forge
+67 Starboard Deck Aft Capsule 970M	Gondor	QV	29790	Cloaking shield generator
+2502 Port Coruscant Node Forward 570	Endor	EN	68202	Quantum entanglement communicator
+384 Port Wookiee Sector Chamber 768|Krypton|EN|40358|Alien artifact shard
+5139 Starboard Hobbiton Sector 534|Gondor|LD|11183|Plasma rifle
+220 Starboard Enterprise Pod 170B,Naboo,XE,20819,Mind-control headset
+7650 Dragon Hatch Aft 414,Rivendell,VJ,,Holographic communicator
+5531 Minas Deck Chamber 13V	Naboo	BV	27284	Anti-gravity boots
+8994 Starboard Enterprise Forward Capsule 281H,Naboo,SU,81535,Subspace beacon
+6614 Starboard Coruscant Hatch Forward Capsule 116Y	Naboo	PY	28568	Teleportation pad
+857 Port Wookiee Pasage Aft Module 871Q,Rivendell,JP,89553,Anti-gravity boots
+8904 Port Enterprise Pasage Pod 414	Krypton	BF	94185	Artificial gravity generator
+118 Minas 768|Hoth|BV|92298|Stellar map
+6960 Hobbiton Forward Module 170B,Naboo,MQ,97724,Stellar map
+7592 Hobbiton Deck Aft Capsule 265I	Naboo	JP	82207	Cloaking shield generator
+5984 Minas Deck 137|Arrakis|JP|79775|Psionic amplifier
+7109 Starboard Vulcan Node Chamber ,Hoth,WH,16477,Orb of prophecy
+1186 Starboard Krypton Forward Module 147,Minas Tirith,TM,17765,Psionic amplifier
+7534 Port Krypton Deck Aft Module 281H,Arrakis,BF,82237,Neural implant
+2125 Dragon Sector Chamber 989	Krypton	HC	11226	Memory erasure ray
+9250 Rivendell Pod 121H	Tatooine	TM	83548	Anti-gravity boots
+8634 Port Rivendell Aft 768	Rivendell	VJ	21671	Zero-point energy module
+5022 Starboard Coruscant Forward Pod 233J,Dagobah,JP,80617,Holographic communicator
+4621 Crystal Sector Forward Pod 414|Rivendell|JP|75185|Quantum computer core
+5110 Port Coruscant Pasage 147,Krypton,EN,88852,Cryogenic sleep chamber
+8561 Port Krypton Deck Forward Pod 180|Endor|LK|83001|Plasma rifle
+3953 Starboard Coruscant Sector Forward Chamber 611Z,Minas Tirith,,37375,FTL navigation crystal
+9087 Port Vulcan Aft Capsule 523K	Endor	PN	17932	Genetic modification capsule
+9345 Port Enterprise Pasage Forward Capsule 816J	Krypton	GT	56694	Stellar map
+3111 Port Rivendell Hatch Forward Chamber 268		WV	13438	Subspace beacon
+5356 Dragon Hatch Forward Chamber 479	Krypton	PY	64786	Plasma torch
+5719 Crystal Node Forward Capsule 639B,Rivendell,TY,67301,Lightsaber
+1 Port Node Forward 411I|Coruscant|ZK|90299|Celestial forge
+1110 Port Wookiee Node Capsule 390S	Krypton	FO	56464	Quantum entanglement communicator
+2852 Port Coruscant Forward Capsule 121H	Vulcan	BV	26122	Alien artifact shard
+5013 Port Node Aft Pod 363	Bespin	CK	88982	Bioengineered symbiote
+767 Port Coruscant Tube Forward Pod 363|Minas Tirith|FO|55201|Mind-control headset
+9672 Port Dragon Sector Aft Capsule 180,Hoth,RP,37003,Teleportation pad
+8776 Starboard Hobbiton Pasage Forward 147		RX	78100	Genetic modification capsule
+617 Port Vulcan Podway 429	Vulcan	LK		Celestial forge
+6603 Port Vulcan Tube Forward Module 281H	Naboo	AE	50136	Dark matter containment unit
+5855 Starboard Krypton Pasage Forward Pod 454C|Hogwarts|XZ|81647|Cloaking shield generator
+3407 Enterprise Hatch Aft Chamber 121H	Gondor	LK	35994	Anti-gravity boots
+6891 Starboard Rivendell Podway Forward Capsule 425	Bespin	UI	80X36	Exosuit
+3290 Starboard Rivendell Node Aft Module |Coruscant|HS|84827|Anti-gravity boots
+2499 Hobbiton Deck Aft Pod 807|Hoth|MQ|47886|Cloaking shield generator
+3539 Port Crystal Podway Forward Capsule 967Z,,QA,25102,Android assistant
+6956 Enterprise Deck Chamber 700E|Krypton|AE||Holographic communicator
+1189 Port Dragon Deck Forward Module 970M	Hoth	CK	22971	Quantum computer core
+2033 Port Enterprise Pod 121H,Vulcan,YD,19929,AI command console
+9935 Coruscant Sector Aft Chamber 517,Hoth,GT,55084,Zero-point energy module
+2298 Port Tatooine Deck Capsule 427H|Gondor|GL|95198|Orb of prophecy
+1649 Starboard Tatooine Deck Aft 800|Naboo|CY|16306|Zero-point energy module
+4351 Coruscant Podway Forward Chamber 989|Vulcan|WH|80874|Plasma rifle
+5797 Port Minas Sector Aft Chamber 479	Hogwarts	GL	65637	Starship black box
+4451 Minas Podway 877	Rivendell	ZR	33921	Dyson sphere fragment
+4953 Hobbiton Deck Aft Pod 501T	Krypton	WV	79151	Plasma torch
+598 Starboard Coruscant Node Aft 71|Tatooine|ZK|77658|Lightsaber
+2757 Crystal Pasage Forward 121H,Gondor,RP,36372,Android assistant
+793 Starboard Enterprise Sector 807,Rivendell,LK,24710,Artificial gravity generator
+4670 Port Hobbiton Pasage Forward Pod 800|Hogwarts|HC|63230|Wormhole stabilizer
+6902 Wookiee Tube 800||VJ|85998|Subspace beacon
+7870 Port Coruscant Node 800,Minas Tirith,ZK,62034,Orbital defense cannon
+8470 Wookiee Deck Aft Module 700E|Coruscant|GT|22254|Plasma torch
+5452 Port Hobbiton Podway Aft Pod 534,Arrakis,LK,72800,Dyson sphere fragment
+7906 Rivendell Sector Forward Capsule 533Y,Coruscant,ZR,65320,Exosuit
+4047 Port Vulcan Hatch Capsule 651	Dagobah	GT	46932	Neural implant
+3099 Crystal Sector Pod 970M,,CY,50630,Android assistant
+6976 Port Hobbiton Node Aft Chamber 816J|Hogwarts|LD|32168|Plasma torch
+1347 Enterprise Hatch 501T,Gondor,XE,45409,Nanobot swarm
+6889 Starboard Dragon Sector Aft Capsule 472|Tatooine|BV|33357|AI command console
+2749 Port Obsidian Tube Chamber 121H|Arrakis|KB|67034|Plasma torch
+2264 Port Vulcan Hatch Aft Module 700E,Bespin,KB,98701,Subspace beacon
+4655 Port Crystal Sector Aft Chamber 121H	Dagobah	FO	73158	Zero-point energy module
+246 Starboard Enterprise Hatch Forward 265I|Bespin|||Neural implant
+1408 Minas Podway Forward Chamber 170B,Endor,AE,73088,Bioengineered symbiote
+830 Starboard Hobbiton Node Forward Module 534,Endor,LD,55999,Teleportation pad
+2030 Port Crystal Pasage Forward Chamber 45W	Dagobah	YD	71881	Celestial forge
+6975 Port Vulcan Sector 877,Coruscant,CY,12178,Dark matter containment unit
+6630 Starboard Vulcan Deck Aft Module 517,Hoth,LD,88592,Celestial forge
+9993 Port Crystal Sector Forward Chamber 967Z	Vulcan	DF	36126	Quantum entanglement communicator
+5048 Starboard Coruscant Sector Capsule 783J,Krypton,IJ,33962,Holographic communicator
+3673 Starboard Crystal Deck Aft Chamber 651|Endor|XE|47461|Mind-control headset
+9279 Enterprise Sector 611Z,,LD,69588,Zero-point energy module
+1295 Obsidian Aft Capsule 623P,Gondor,PY,49797,Psionic amplifier
+5170 Deck Aft 591,Hogwarts,GT,43744,Zero-point energy module
+6984 Port Minas Node 167	Arrakis	OM	87770	Time travel wristband
+1584 Obsidian Deck 651|Krypton|BF|52996|Warp core
+ Podway Capsule 783J	Tatooine	JP	90424	Exosuit
+1147 Port Coruscant Deck Chamber 611Z	Dagobah	QA	50980	Plasma rifle
+9436 Wookiee Podway Forward Chamber 137,Dagobah,TM,48889,Dyson sphere fragment
+7679 Port Wookiee Tube Pod 692Z	Minas Tirith	RP	75667	Orb of prophecy
+9501 Starboard Dragon Hatch Aft Module 121H	Dagobah	EN	85902	Plasma torch
+4416 Starboard Wookiee Hatch Forward Capsule 611Z|Rivendell|PY|58051|Space elevator tether
+1383 Port Enterprise Podway Forward Capsule 	Krypton	CY	41882	Mind-control headset
+6840 Starboard Vulcan Tube Chamber 147,Krypton,XZ,37862,Bioengineered symbiote
+2777 Starboard Hobbiton Tube Module 967Z|Hogwarts|VJ|98216|Warp core
+7031 Starboard Krypton Tube Chamber 170B|Bespin|IJ|78156|Subspace beacon
+2343 Starboard Minas Aft Module 692Z,Vulcan,VJ,71881,Subspace beacon
+8651 Port Rivendell Pasage Aft Module 570|Vulcan|TM|61890|Galactic credit chip
+201 Starboard Tatooine Tube Pod 816J	Dagobah	PY	55003	Android assistant
+9530 Starboard Dragon Pasage Forward Capsule 970M|Gondor||37365|Anti-gravity boots
+2149 Starboard Coruscant Pasage Capsule 233J	Endor	JP	77299	Memory erasure ray
+3899 Port Crystal Hatch Forward Chamber 621B	Bespin	XZ	92422	Terraforming drone
+3504 Starboard Obsidian Tube Forward Chamber 13V,Coruscant,BV,10258,Starship black box
+9025 Port Vulcan Podway Chamber 989|Minas Tirith|WV|87441|Artificial gravity generator
+1393 Tatooine Hatch Aft Pod 346K|Bespin|BF|92766|Quantum entanglement communicator
+2766 Starboard Krypton Node Aft Chamber 517	Gondor	XE	88926	Time dilation device
+8471 Port Obsidian Aft Chamber 700E	Vulcan	BF	82357	Stellar map
+7416 Port Rivendell Pasage 783J	Naboo	SU	88039	Exosuit
+1113 Coruscant Tube Capsule ,Coruscant,JP,73291,Celestial forge
+5086 Dragon Pasage Forward Pod 591,Arrakis,OM,85442,Artificial gravity generator
+8038 Port Krypton Deck 13V|Rivendell|NV|52285|Mind-control headset
+4962 Tatooine Deck Forward 877	Dagobah	OM	86593	Cloaking shield generator
+5021 Vulcan Pasage Aft Pod 651|Naboo||10108|Dyson sphere fragment
+5531 Starboard Obsidian Node Aft Pod 411I|Hogwarts|BV|81358|Subspace beacon
+6489 Tatooine Pasage Forward 425|Krypton|BV|36500|Exosuit
+9837 Port Obsidian Podway Aft Chamber 147,Gondor,XE,45867,Cloaking shield generator
+6089 Starboard Hatch Forward 651	Vulcan	KB	98389	FTL navigation crystal
+2319 Port Obsidian Deck Forward Pod 45W,Vulcan,OQ,28218,Cloaking shield generator
+7510 Port Rivendell Pasage Chamber 623P,Krypton,XE,39246,Psionic amplifier
+6148 Port Enterprise Hatch Capsule 180	Endor	AE	43177	Hyperspace drive
+6688 Port Vulcan Pasage Aft Capsule 501T	Coruscant	GL	40453	Lightsaber
+8758 Coruscant Podway Forward Capsule 281H,Naboo,QA,14508,Celestial forge
+5528 Wookiee Pasage Chamber 121H	Dagobah	BV	49522	Genetic modification capsule
+2964 Hobbiton Tube Forward 783J,Tatooine,HS,13351,Teleportation pad
+5557 Starboard Tatooine Hatch Aft Chamber 167|Arrakis|OM|21195|Alien artifact shard
+4910 Wookiee Hatch Forward Pod 265I|Hogwarts|EN|90787|Quantum entanglement communicator
+3384 Port Krypton Pasage Chamber 800,Minas Tirith,GL,59978,Alien artifact shard
+1333 Port Coruscant Sector Forward 611Z	Arrakis	JP	22116	Android assistant
+5813 Starboard Tatooine Aft 233J	Gondor	SZ	84500	FTL navigation crystal
+3239 Starboard Crystal Deck 621B|Vulcan|BF|58340|Cloaking shield generator
+8353 Port Rivendell Podway Forward 800|Krypton|KB||Mind-control headset
+5963 Crystal Pasage Forward Module 623P	Rivendell	BV	87620	Zero-point energy module
+2826 Sector Pod 116Y	Naboo	YD	56942	Celestial forge
+1005 Starboard Hobbiton Pasage Forward Capsule 472,Dagobah,TY,19563,Hyperspace drive
+672 Enterprise Podway Pod 454C|Hoth|RX|18101|Quantum computer core
+5707 Starboard Minas Hatch Aft Module 390S	Vulcan	HC	23388	Quantum computer core
+4098 Krypton Module 346K,Dagobah,TM,87264,Android assistant
+4781 Forward Capsule 167|Endor|WV|32819|Stellar map
+9739 Starboard Wookiee Pasage Forward 425	Coruscant	DF	92793	Orbital defense cannon
+ Port Deck Forward Chamber 639B	Hogwarts	CK	75401	Quantum computer core
+6840 Rivendell Pasage Chamber 45W,,TM,71715,Orbital defense cannon
+658 Obsidian Deck Aft Capsule 816J	Arrakis	BV	30277	Alien artifact shard
+9872 Dragon Deck Forward Module 639B,Coruscant,SZ,55213,Warp core
+4706 Starboard Crystal Module 783J	Coruscant	CY	75210	Dyson sphere fragment
+3484 Port Coruscant Deck Chamber 651	Arrakis	RX	76382	Stellar map
+980 Port Deck Forward Chamber 611Z|Bespin|TM|67965|Nanobot swarm
+517 Starboard Krypton Dck Aft Pod 800|Tatooine|VJ||Android assistant
+9335 Port Coruscant Forward Pod 71,Tatooine,CK,87300,Neural implant
+3590 Starboard Rivendell Tube Forward 281H	Arrakis	WH	22065	Zero-point energy module
+ Starboard Vulcan Podway Aft Chamber 281H|Coruscant|ZK|82172|Terraforming drone
+8022 Starboard Crystal Node Forward Pod 970M	Hogwarts	HC	96767	Quantum computer core
+677 Tatooine Pasage Chamber 871Q,Minas Tirith,JP,53936,Quantum computer core
+7675 Coruscant Deck Aft Module 268|Gondor|IJ|89553|Starship black box
+2110 Starboard Vulcan Tube 871Q	Minas Tirith	JP	48996	Time travel wristband
+4353 Port Dragon Deck Aft 13V	Dagobah	NV	19942	Wormhole stabilizer
+6618 Starboard Podway Forward 265I,Endor,FO,79901,Energy shield emitter
+2554 Starboard Coruscant Sector Aft 	Gondor	XE	73298	Plasma torch
+7644 Port Hobbiton Sector Aft Pod 13V,Naboo,NV,14228,Wormhole stabilizer
+9518 Port Rivendell Deck Forward Chamber 363|Vulcan|MQ|11520|Bioengineered symbiote
+7037 Starboard Krypton Hatch Forward Pod 233J	Rivendell	TM	29143	
+8292 Starboard Node Aft Capsule 170B|Minas Tirith||40678|Terraforming drone
+9129 Vulcan Deck Capsule 479|Rivendell|XE|66592|Dark matter containment unit
+2299 Vulcan Hatch Forward Module 429|Dagobah||27618|Space elevator tether
+8456 Starboard Minas Tube Capsule 454C	Hoth	LD	63442	Bioengineered symbiote
+3978 Pt Tatooine Sctr Mod 591	Hogwarts	GT	82887	Dyson sphere fragment
+7212 Coruscant Hatch Forward Chamber 877,Endor,LK,28468,AI command console
+9038 Minas Sector Forward Chamber 517,Coruscant,SU,45603,Plasma rifle
+9083 Rivendell Node Forward Module 472||QV|84081|Dyson sphere fragment
+5906 Tatooine Sector Forward Module 534|Coruscant|BV|16641|Lightsaber
+4826 Vulcan Node Forward Chamber 390S,Hoth,MQ,24482,Quantum computer core
+4338 Dragon Pasage Aft Module 167	Rivendell	QA		Hyperspace drive
+9790 Enterprise Pasage Capsule 137|Endor|GT|76594|Starship black box
+1063 Port 639B	Hogwarts	AE	39448	Psionic amplifier
+7359 Obsidian Forward Module 501T	Hoth	AE	36120	
+3593 Crystal Tube Forward Capsule 390S	Gondor	PN	54512	Teleportation pad
+429 Port Rivendell Forward Capsule 427H|Bespin|TY|76460|Lightsaber
+4221 Port Krypton Node Capsule 472|Naboo|WV|31415|Genetic modification capsule
+6720 Port Krypton Deck Forward Capsule 651|Arrakis|JP|84223|Mind-control headset
+6920 Port Wookiee Sector Forward Module 180,Endor,WV,39539,Dyson sphere fragment
+9769 Port Coruscant Tube Forward Pod 71,Hogwarts,XE,27777,Psionic amplifier
+3228 Port Obsidian Hatch Capsule 871Q	Arrakis	MQ	21607	Zero-point energy module
+3115 Deck Aft 454C|Krypton|JP|40527|Bioengineered symbiote
+3816 Coruscant Sector Forward Pod 871Q|Naboo|HC|10895|Celestial forge
+9067 Starboard Rivendell Pasage Forward Module 989,Gondor,MQ,67635,Lightsaber
+5200 Port Enterprise Aft Pod 427H,Bespin,QA,74787,Lightsaber
+3052 Vulcan Forward Module 800	Coruscant	OQ	41756	Cryogenic sleep chamber
+4874 Port Krypton Forward Pod 871Q|Gondor|JP|11301|
+6064 Port Hobbiton Pasage Forward Pod 180|Rivendell|CY|54174|Cloaking shield generator
+7415 Starboard Hobbiton Pasage Aft Pod 363,Coruscant,JP,76950,Celestial forge
+1042 Rivendell Deck Aft Module 871Q	Vulcan	CK	64178	Teleportation pad
+9432 Port Vulcan Tube Forward Chamber 411I	Hoth	OM	13831	Dyson sphere fragment
+6313 Port Tatooine Node Module 591,Hoth,RP,33438,Quantum computer core
+8461 Vulcan Tube Capsule 563A	Gondor	KB	32679	Psionic amplifier
+4250 Port Obsidian Tube Aft Capsule 425,Arrakis,GL,88791,AI command console
+3259 Starboard Vulcan Deck Forward Module 414,Rivendell,SU,38704,Energy shield emitter
+182 Port Dragon Deck Aft Module 692Z	Gondor	TM	80916	
+7771 Starboard Enterprise Node Aft Capsule 147,Minas Tirith,EN,67876,
+2419 Starboard Enterprise Pasage Forward Pod 591,,TY,29384,Orb of prophecy
+7881 Starboard Vulcan Tube Aft Pod 170B||NR|73821|Mind-control headset
+2604 Starboard Rivendell Sector Module 800,,NV,31040,Dark matter containment unit
+6929 Starboard Wookiee Pasage Module 989|Vulcan|FO|11289|Orb of prophecy
+2223 Port Minas Hatch Forward Module 147	Bespin	ZK	18693	Plasma torch
+9958 Port Dragon Forward Capsule 180|Hogwarts|AE|39087|Stellar map
+9593 Port Tatooine Sector Aft Chamber 523K	Gondor	RP	23538	Holographic communicator
+1772 Rivendell Sector Forward Pod 523K,Hoth,CY,21148,Warp core
+6748 Starboard Hobbiton Deck Aft Module 570,Endor,TY,47359,Exosuit
+4532 Port Vulcan Deck Forward Module 170B	Endor	HC	65759	Orbital defense cannon
+7479 Krypton Tube Aft Capsule 170B|Dagobah|BF|62431|Plasma torch
+1960 Port Crystal Tube Capsule 534|Bespin|HS|73263|Quantum entanglement communicator
+5284 Starboard Vulcan Deck Aft Chamber 501T	Endor	XZ	88654	Orbital defense cannon
+7808 Crystal Pasage Aft Chamber 472	Tatooine		66258	Alien artifact shard
+4349 Port Enterprise Sector Forward 429	Minas Tirith	TM	52016	Plasma rifle
+1550 Port Tatooine Sector Aft 639B,,NV,85556,Warp core
+1941 Port Forward Module 623P	Vulcan	ZR	82123	Warp core
+9356 Port Crystal Pasage Forward Capsule 472|Naboo|DF|14324|Wormhole stabilizer
+1525 Port Obsidian Node Pod 13V	Bespin	IJ	59396	Mind-control headset
+5080 Starboard Tatooine Deck Forward Capsule 816J|Coruscant|CY|33294|Cryogenic sleep chamber
+8981 Port Wookiee Deck Aft Capsule 651,Hoth,WH,62832,Bioengineered symbiote
+6477 Wookiee Pasage Forward Capsule 265I	Coruscant	YD	85052	Cloaking shield generator
+319 Hobbiton Hatch Capsule 479|Tatooine|JX|91647|Plasma rifle
+7839 Port Hobbiton Node Forward Module 692Z,Gondor,EN,76952,Dark matter containment unit
+3226 Wookiee Forward Capsule 877|Hogwarts|SU|47030|Orbital defense cannon
+3073 Tatooine Sector Chamber 390S	Tatooine	PY	81469	Hyperspace drive
+5687 Starboard Obsidian Sector 454C	Rivendell	WV	64104	Terraforming drone
+4752 Starboard Coruscant Podway Pod 281H|Vulcan|IJ|74928|Android assistant
+877 Port Coruscant Tube Pod 970M	Rivendell	RX	73240	Plasma rifle
+1708 Rivendell Hatch Aft Chamber ,Arrakis,SZ,66368,Lightsaber
+2793 Port Coruscant Sector Forward Module 233J,Endor,EN,83383,Genetic modification capsule
+5969 Rivendell Deck Forward Module 621B	Vulcan	NR	10176	Orbital defense cannon
+2174 Port Tatooine Podway Module 454C	Bespin	IJ	77676	Subspace beacon
+8978 Hobbiton Deck Capsule 268|Endor|HC|22242|Stellar map
+8647 Starboard Hobbiton Pasage 692Z|Endor|PN|35512|Warp core
+6818 Aft Capsule 591,Naboo,DF,95220,Zero-point energy module
+3034 Starboard Minas Deck Forward Pod 71|Rivendell|BV|31266|Alien artifact shard
+8050 Port Hobbiton Aft Chamber 147|Hogwarts|JX|94324|Stellar map
+583 Port Rivendell Hatch Aft Capsule 45W	Dagobah	QA	69079	Warp core
+8915 Hobbiton Podway Forward 116Y,Arrakis,GT,34539,Bio-dome habitat
+8454 Port Podway Forward Capsule 411I	Naboo	EN	50941	Android assistant
+9036 Starboard Minas Sector 180,Vulcan,YD,29868,Celestial forge
+9654 Starboard Rivendell Sector Aft Module 121H,Bespin,GT,12407,Orb of prophecy
+4134 Starboard Rivendell Node Aft 13V,Hoth,WV,42702,Plasma torch
+ Port Tatooine Sector Aft 501T,Rivendell,PN,46370,Plasma torch
+5928 Rivendell Tube Forward Module 180,Minas Tirith,GT,16014,Time dilation device
+4172 Port Hobbiton Forward Capsule 414,Minas Tirith,OM,69502,Orb of prophecy
+ Starboard Podway Aft Chamber 989|Minas Tirith|HC|12596|Stellar map
+5766 Starboard Tatooine Hatch Forward Capsule 429,Coruscant,BF,20374,Neural implant
+8178 Coruscant Deck Forward Module 180|Arrakis|UI|60689|Space elevator tether
+1912 Port Hobbiton Forward 800,Krypton,QV,22528,Space elevator tether
+7453 Starboard Obsidian Node Forward 13V,Gondor,AE,77463,Cloaking shield generator
+1377 Port Minas Pasage Forward Chamber 591,Hoth,ZK,10528,Android assistant
+2392 Wookiee Tube Aft Chamber 871Q|Minas Tirith|CY|14702|Galactic credit chip
+6017 Dragon Node Pod 	Dagobah		79706	Warp core
+1756 Port Hobbiton Node Aft 411I,Vulcan,AE,22786,Psionic amplifier
+8656 Tatooine Sector Forward Module 427H	Vulcan	BF	33175	Energy shield emitter
+9222 Wookiee Tube Forward Chamber 137	Vulcan	XE	62930	Orbital defense cannon
+5687 Obsidian Hatch Aft Capsule 523K	Hogwarts	SU	54216	Dark matter containment unit
+9928 Starboard Wookiee Podway Forward Module 472,Bespin,NV,70437,Anti-gravity boots
+3860 Starboard Enterprise Node 692Z	Arrakis	MQ	16912	Dyson sphere fragment
+1053 Dragon Pasage Aft Capsule 816J|Tatooine|UI|28713|Quantum computer core
+4297 Starboard Vulcan Node Aft 871Q|Tatooine|FO|16271|Warp core
+3689 Vulcan Sector 816J,Arrakis,SZ,13634,Genetic modification capsule
+33 Starboard Dragon Forward 411I	Bespin	BF	86005	Stellar map
+3888 Port Sector Module 233J,,HC,82778,Terraforming drone
+3732 Port Crystal Tube Chamber 390S|Minas Tirith|PN|52711|Plasma rifle
+9543 Port Coruscant Deck Aft Pod 692Z	Naboo	WH	36907	Genetic modification capsule
+7276 Hobbiton Tube Forward 281H	Rivendell	XE	46844	Alien artifact shard
+4331 Vulcan Podway Forward Pod 71||XE|79993|Space elevator tether
+1343 Port Enterprise Aft Pod 563A	Hoth	OM	82924	Teleportation pad
+8161 Starboard Krypton Aft Chamber 479|Rivendell|OM|64612|Stellar map
+4849 Port Enterprise Forward Pod 363,Endor,KB,,Quantum entanglement communicator
+6037 Port Minas Aft Module 363,Bespin,WV,20018,Hyperspace drive
+7719 Starboard Coruscant Sector Forward Pod 233J|Bespin|NR|34835|Terraforming drone
+5923 Port Sector Aft 147,Tatooine,KB,91788,Mind-control headset
+3319 Krypton Tube Forward Pod 71|Tatooine|JX|61116|Android assistant
+5674 Starboard Node Aft Chamber 281H,Minas Tirith,FO,84136,Holographic communicator
+8864 Hobbiton Sector Chamber 783J,Dagobah,MQ,67625,Galactic credit chip
+4158 Starboard Crystal Tube Forward Capsule 768,Endor,PY,68900,Plasma torch
+240 Port Rivendell Tube Aft Capsule 137	Bespin	GL	17815	Mind-control headset
+2041 Podway Aft Chamber 523K,Dagobah,,67509,Celestial forge
+8521 Starboard Wookiee Pasage Aft 563A|Rivendell|HS|44888|Bioengineered symbiote
+8612 Port Coruscant Node Chamber 363|Minas Tirith|QV|25119|Exosuit
+5937 Starboard Coruscant Hatch Capsule 816J,Hoth,JP,41364,Quantum computer core
+6226 Starboard Tatooine Deck Chamber 970M,Hoth,,89446,Celestial forge
+3821 Port Krypton Hatch Module 989,Rivendell,GT,53976,Subspace beacon
+3388 Starboard Sector Aft Chamber 411I|Vulcan|PY|26692|Subspace beacon
+7772 Dragon Podway Forward Module 479|Krypton|RX|99682|Android assistant
+1919 Starboard Rivendell Forward Chamber 639B|Arrakis|ZR|36315|Energy shield emitter
+6918 Starboard Wookiee Hatch Forward Chamber 807,Endor,SU,25003,Nanobot swarm
+3217 Rivendell Hatch Aft 454C|Arrakis|IJ|61733|
+3684 Port Coruscant 233J,Endor,GT,88927,Memory erasure ray
+363 Vulcan Tube Forward Pod 570	Tatooine	SU	85982	Android assistant
+4771 Rivendell Hatch Aft Capsule 390S|Bespin|MQ|13244|Subspace beacon
+4013 Starboard Minas Tube Forward Chamber 970M	Coruscant	GL	34265	Stellar map
+1889 Starboard Vulcan Hatch Module 967Z,Bespin,WH,97829,Anti-gravity boots
+7236 Port Hatch Aft 611Z,Minas Tirith,ZR,77727,Time dilation device
+2183 Krypton Tube Pod 523K|Rivendell|PY|34276|Galactic credit chip
+2655 Starboard Obsidian Sector Forward Pod 167|Gondor|QV|51297|Starship black box
+1010 Enterprise Pasage Forward Capsule 768,Hoth,XZ,86632,Bioengineered symbiote
+1252 Starboard Minas Deck Forward Chamber 639B|Tatooine||34867|Mind-control headset
+1067 Port Minas Tube Aft Module 517	Krypton	CY	89363	Celestial forge
+9745 Krypton Hatch Aft Capsule 807,Krypton,WV,84930,Quantum entanglement communicator
+1131 Coruscant Hatch Forward 414	Bespin	TY	91067	Dark matter containment unit
+5270 Starboard Enterprise Aft Capsule 414,Gondor,TM,,Bio-dome habitat
+6454 Vulcan Podway Forward Module 967Z|Naboo|PN|84417|Dark matter containment unit
+1659 Wookiee Tube Forward 501T	Hogwarts	TM	74650	Plasma torch
+3568 Port Dragon Tube Pod 390S|Tatooine|JX|30435|Alien artifact shard
+2610 Crystal Pasage Forward Module 363|Arrakis|HC|15361|AI command console
+8582 Rivendell Hatch Forward Module 472,Arrakis,SZ,97824,Quantum computer core
+3937 Port Vulcan Deck Aft Module 768	Hogwarts	ZK	41149	Time travel wristband
+8560 Starboard Crystal Pasage Aft Chamber 71	Krypton	KB	73601	Nanobot swarm
+9815 Pasage Chamber 13V,Endor,OM,97773,FTL navigation crystal
+8393 Starboard Podway Aft Chamber 800|Coruscant|HS|50681|Alien artifact shard
+8112 Enterprise Node Aft Pod 427H|Coruscant|BF|79777|Dyson sphere fragment
+3314 Krypton Tube Aft Pod 563A,Minas Tirith,FO,70081,Zero-point energy module
+1756 Starboard Coruscant Hatch Forward Chamber 517,Vulcan,LD,40246,Teleportation pad
+1950 Tatooine Node Forward Capsule 479,Bespin,BF,22179,Cryogenic sleep chamber
+9345 Dragon Podway Forward Pod 137|Naboo|CK|91148|Galactic credit chip
+5482 Port Tatooine Aft Module 533Y|Gondor|LK|74586|Exosuit
+6111 Starboard Enterprise Node Module 147|Naboo|XE|88875|Quantum computer core
+1307 Krypton Hatch 639B	Krypton	CK	18054	Teleportation pad
+7337 Port Crystal Sector Forward Capsule 517|Minas Tirith|PY|85669|Stellar map
+6360 Port Dragon Pod 13V|Minas Tirith|GT|81072|Starship black box
+2266 Dragon Deck Forward Capsule 501T	Hoth	ZK	36185	Plasma torch
+2849 Port Obsidian Sector Forward Chamber 816J,Vulcan,JX,37851,Plasma torch
+291 Starboard Minas Hatch Forward 411I,Dagobah,PN,73698,Exosuit
+3517 Starboard Hobbiton Podway Capsule 13V|Gondor|KB|12252|Galactic credit chip
+2026 Starboard Wookiee Deck 13V	Tatooine	CY	62262	Time dilation device
+6295 Starboard Node Aft Pod 268|Arrakis|SU|68019|Memory erasure ray
+2838 Port Coruscant Tube Forward Capsule 783J|Krypton|XE|87206|Energy shield emitter
+7751 Crystal Podway Aft Chamber 	Arrakis	RX	40110	Artificial gravity generator
+ Port Sector Aft Chamber 472|Hogwarts|LK|69631|Cryogenic sleep chamber
+9678 Krypton Tube Capsule 233J,Vulcan,VJ,31359,Artificial gravity generator
+228 Starboard Rivendell Pasage 783J,Bespin,MQ,73202,Hyperspace drive
+8019 Starboard Vulcan Deck Aft Pod 639B|Naboo|RP|52081|Time dilation device
+4317 Wookiee Sector Forward Capsule 180|Hoth|NR|81957|Memory erasure ray
+2171 Port Coruscant Pasage Forward Chamber 768|Hoth|VJ|29263|Warp core
+1068 Crystal Hatch Chamber 570		HC	56949	Nanobot swarm
+486 Minas Aft 71	Gondor	RX	26532	Artificial gravity generator
+3476 Wookiee Sector Pod 390S|Coruscant|PY|52674|Anti-gravity boots
+2812 Hobbiton Deck Forward Capsule 147	Dagobah	XZ	99185	Bioengineered symbiote
+5886 Starboard Enterprise Hatch Aft Module 454C	Bespin	NV	95379	Time dilation device
+2408 Starboard Dragon Pasage Aft 427H,Dagobah,AE,89771,AI command console
+ Starboard Sector Aft Chamber 147|Hoth|CY|95038|Subspace beacon
+4430 Port Coruscant Aft Pod 970M|Endor|AE|16468|Anti-gravity boots
+6371 Starboard Vulcan Node Forward Capsule 281H,Dagobah,WV,45757,Bio-dome habitat
+7151 Wookiee Deck Forward Module 533Y,Naboo,DF,46392,Plasma rifle
+9926 Starboard Hobbiton Node Aft Capsule 390S|Krypton|WV|15753|Energy shield emitter
+4371 Minas Deck Aft Chamber 454C|Hogwarts|MQ|35160|Starship black box
+2245 Coruscant Node Forward 533Y,Hoth,RP,81208,Quantum entanglement communicator
+7743 Starboard Obsidian Hatch Forward Capsule 147,Gondor,SZ,86772,Zero-point energy module
+2141 Starboard Tatooine Node Aft Chamber 783J	Hoth	DF	45853	AI command console
+350 Port Krypton Deck Pod 281H	Arrakis	NR	52336	Stellar map
+6446 Starboard Rivendell Tube 570|Rivendell|SZ|72610|Anti-gravity boots
+4101 Port Hobbiton Podway Forward 517|Naboo|AE|39084|Orbital defense cannon
+5924 Starboard Vulcan Sector Aft Capsule 877|Rivendell|UI|67607|Artificial gravity generator
+4821 Crystal Node Chamber 807	Bespin	HC	97050	Stellar map
+1560 Starboard Coruscant Deck Forward 533Y	Minas Tirith	AE	10603	
+1950 Port Enterprise Sector Aft Chamber 700E		WV	80416	Orbital defense cannon
+9238 Port Aft 989,,BV,74947,Plasma torch
+7706 Starboard Enterprise Sector Forward Pod 346K	Endor	OQ	63361	Memory erasure ray
+7135 Starboard Hobbiton Deck Forward 390S	Gondor	NV	33805	Stellar map
+6856 Starboard Coruscant 970M,Tatooine,HC,13659,Dark matter containment unit
+2245 Starboard Hobbiton Sector Aft Module 71,Gondor,,41487,Nanobot swarm
+3211 Coruscant Pasage Capsule 363	Hogwarts	NR	80749	Neural implant
+3643 Starboard Tatooine Sector Chamber 623P|Vulcan|FO|17388|Plasma rifle
+3998 Port Krypton Hatch Module 346K	Hogwarts	ZR	22091	Wormhole stabilizer
+3978 Port Tatooine Sector Mod 591|Hogwarts|GT|82887|Dyson sphere fragment
+7699 Port Rivendell Tube Forward Module 137||DF|22855|Bioengineered symbiote
+8770 Starboard Coruscant Podway Chamber 346K,,ZR,83037,Nanobot swarm
+8888 Port Krypton Hatch Forward 454C|Rivendell|XE|80329|Memory erasure ray
+6767 Starboard Hobbiton Sector Capsule 800	Vulcan	SZ	12593	Hyperspace drive
+5734 Wookiee Capsule 700E|Naboo|NV|22397|Quantum computer core
+4754 Port Tatooine Tube Forward Module 877	Minas Tirith	TM	82613	
+4365 Port Krypton Node Aft Chamber 13V,Bespin,IJ,82095,Plasma rifle
+7941 Starboard Minas Deck Aft Module 970M	Dagobah	HS	82434	Neural implant
+9218 Obsidian Podway Pod 989|Krypton|IJ|15592|Dark matter containment unit
+3185 Starboard Dragon Node Aft Module 523K|Krypton|FO|58093|Dyson sphere fragment
+1737 Dragon Hatch Forward Pod 137,Endor,XE,36597,Cloaking shield generator
+8492 Crystal Chamber 800|Tatooine|PY|18243|Time dilation device
+9639 Port Crystal Hatch Forward Module 768|Minas Tirith|RX|56053|Genetic modification capsule
+2866 Crystal Forward 970M		OQ	75801	Cloaking shield generator
+9669 Hobbiton Podway Aft Pod 268		NR	40563	Genetic modification capsule
+7892 Dragon Hatch 563A|Dagobah|HC|52660|Celestial forge
+1721 Starboard Tatooine Podway Forward Capsule 877	Hoth	ZR	26003	Starship black box
+1472 Starboard Vulcan Pasage Forward Capsule 970M,Coruscant,GT,10498,Cloaking shield generator
+9250 Starboard Rivendell Pasage Module 768||ZK|21974|Bioengineered symbiote
+3999 Port Dragon Pasage Module 472	Hogwarts	IJ	12169	Warp core
+9283 Starboard Obsidian Deck 429	Tatooine	TY	84838	Subspace beacon
+6733 Port Coruscant Hatch Aft Capsule 639B|Endor|XE|37028|Memory erasure ray
+3204 Starboard Dragon Hatch Aft Pod 623P	Vulcan	NV	62291	Quantum computer core
+6637 Starboard Enterprise Deck 429,Rivendell,OM,28176,Zero-point energy module
+4256 Starboard Hobbiton Node Module 116Y	Vulcan	KB	83974	Neural implant
+3275 Starboard Wookiee Sector Aft Module 768,Hoth,KB,49892,Quantum computer core
+1276 Port Minas Deck 414	Krypton	ZR	38781	Time travel wristband
+5572 Minas Tube Aft Chamber 621B,Dagobah,NV,33731,Exosuit
+79 Port Dragon Hatch Forward Module 414	Gondor	EN	61642	FTL navigation crystal
+2084 Wookiee Deck Module 783J,Tatooine,DF,87194,Space elevator tether
+109 Starboard Tatooine Pasage Aft Pod 180|Tatooine|WH|66681|Stellar map
+2253 Port Rivendell Sector 970M	Endor	JX	39802	Exosuit
+3461 Starboard Enterprise Forward Chamber 533Y	Krypton	LK	72939	Quantum entanglement communicator
+2847 Port Crystal Pasage 137	Gondor	SU	80910	Exosuit
+1776 Rivendell Node Capsule 501T,Tatooine,JX,98136,Genetic modification capsule
+3803 Rivendell Deck 71|Gondor|QV|52143|Exosuit
+312 Starboard Minas Podway Aft Pod 621B,,OQ,41235,Space elevator tether
+6572 Rivendell Sector Forward 472	Coruscant	FO	57276	Exosuit
+6776 Starboard Vulcan Pasage Aft Pod 425,Rivendell,QV,16446,Neural implant
+6683 Starboard Coruscant Hatch 137,Coruscant,ZR,89773,Wormhole stabilizer
+1111 Port Krypton Node Capsule 390S	Vulcan	KB	27924	Terraforming drone
+7910 Starboard Krypton Podway Forward Capsule 623P,Endor,IJ,54375,Wormhole stabilizer
+6353 Port Rivendell Pasage Forward Pod 137,Minas Tirith,IJ,33516,Subspace beacon
+1340 Starboard Minas Hatch Pod 970M||GT|44662|Celestial forge
+9858 Rivendell Node Capsule 429	Dagobah	HC	39851	Bio-dome habitat
+362 Port Coruscant Sector Aft Module 692Z,Dagobah,RP,40388,Zero-point energy module
+1171 Starboard Hobbiton Hatch Pod 233J	Gondor	DF	74249	Bio-dome habitat
+8313 Starboard Hobbiton Node Forward Module 800|Naboo|BF|96593|Cryogenic sleep chamber
+3649 Starboard Tatooine Node Aft Capsule 233J,Krypton,CY,72880,Galactic credit chip
+6771 Krypton Hatch Aft Chamber 116Y	Dagobah	SZ	77990	Energy shield emitter
+1033 Starboard Hobbiton Podway Aft Capsule 429|Hoth|QV|22825|Orbital defense cannon
+8295 Hobbiton Node Aft Capsule 967Z|Coruscant|MQ|92362|Alien artifact shard
+269 Rivendell Podway Aft Pod 692Z	Coruscant	WH	77024	Warp core
+2122 Port Hobbiton Tube Chamber 390S|Krypton|TM|77449|Bioengineered symbiote
+2789 Tatooine Deck Chamber 390S|Hoth|CY|46399|Dark matter containment unit
+3035 Port Wookiee Aft Module 233J	Endor	VJ	95677	Zero-point energy module
+657 Port Obsidian Pasage Aft 570,Bespin,MQ,47096,Orb of prophecy
+4902 Starboard Enterprise Hatch 871Q|Dagobah|QV|83264|Wormhole stabilizer
+3596 Hobbiton Aft Capsule 501T,Endor,CY,72429,Mind-control headset
+2896 Port Obsidian Pasage Chamber 621B,Endor,OQ,35200,Zero-point energy module
+6779 Obsidian Sector Module 180	Bespin	JX	59335	Neural implant
+5887 Port Tube Forward Capsule 563A,Krypton,QA,35769,Quantum entanglement communicator
+6358 Starboard Dragon Pasage Forward Capsule 147,Rivendell,MQ,54623,Plasma rifle
+3348 Port Krypton Hatch Aft Pod 570|Arrakis|YD|74641|Psionic amplifier
+2255 Starboard Crystal Sector Aft Chamber 454C,Naboo,IJ,61687,Cloaking shield generator
+3372 Port Coruscant Deck Module 639B	Coruscant	KB	30367	Dark matter containment unit
+1487 Deck Aft Chamber 783J,Minas Tirith,DF,27615,Holographic communicator
+5333 Obsidian Tube Pod 116Y|Krypton|DF|91900|Lightsaber
+8797 Starboard Dragon Tube Capsule 472|Arrakis|SZ|48133|Hyperspace drive
+524 Starboard Crystal Node Forward 265I|Rivendell|BF|64124|Android assistant
+7447 Krypton Forward Chamber 268,Tatooine,OM,66544,Teleportation pad
+8751 Starboard Tatooine Tube Chamber 692Z,Dagobah,QV,18040,Genetic modification capsule
+5165 Starboard Krypton Hatch 783J	Krypton		40112	Lightsaber
+5918 Krypton Pod 623P|Naboo|SZ|25811|Memory erasure ray
+2770 Starboard Obsidian Node Forward 816J|Gondor|WV|84546|Quantum entanglement communicator
+8915 Starboard Deck Forward Module 807,Rivendell,SZ,78951,Orbital defense cannon
+9289 Port Obsidian Hatch Aft Module ,Dagobah,GL,97491,
+4716 Port Enterprise Pasage Aft Module 563A,Bespin,VJ,38909,Mind-control headset
+1008 Starboard Tatooine Pasage Chamber 472|Vulcan|JX|96966|Memory erasure ray
+3020 Starboard Rivendell Node Aft Module 621B,Tatooine,DF,34309,Teleportation pad
+8144 Starboard Vulcan Pasage Forward Pod 501T|Tatooine|CY|87410|
+4501 Dragon Pasage Forward Chamber 281H	Arrakis	BF	72297	Plasma torch
+2181 Minas Pasage Aft Chamber 517|Coruscant|SU|84132|Dark matter containment unit
+2400 Starboard Minas Forward Capsule 591||HS|46128|Bioengineered symbiote
+6727 Port Hobbiton Hatch Forward 651|Minas Tirith|MQ|73820|FTL navigation crystal
+8927 Port Dragon Sector Pod 281H,Rivendell,PN,14901,AI command console
+9358 Starboard Minas Sector Aft Chamber 967Z,Naboo,KB,48128,Wormhole stabilizer
+3746 Crystal Node Module 533Y,Hogwarts,IJ,81155,Alien artifact shard
+4187 Starboard Vulcan Hatch Aft Pod 45W	Hoth	QA	58312	Anti-gravity boots
+677 Node Forward Chamber 877|Bespin|WH|50989|Memory erasure ray
+9190 Hobbiton Forward 363,Endor,NV,78980,Bioengineered symbiote
+8039 Starboard Hobbiton Pasage Capsule 265I,Gondor,FO,60989,Cloaking shield generator
+583 Hobbiton Aft 281H	Minas Tirith	ZR	33888	Cryogenic sleep chamber
+9480 Port Vulcan Pasage Forward 692Z	Bespin	LK	24221	Dark matter containment unit
+6321 Hobbiton Pasage Aft Pod 700E|Dagobah|BF|72907|Cloaking shield generator
+1476 Port Crystal Deck Pod 967Z,Tatooine,HS,98606,Starship black box
+4226 Port Crystal Deck Capsule 411I,Endor,QV,40774,
+815 Obsidian Tube Pod 427H,Bespin,OQ,65835,Dyson sphere fragment
+8511 Node Aft Module 265I|Coruscant|PN|20133|Starship black box
+5964 Port Wookiee Hatch 816J,Krypton,BF,39494,Starship black box
+5894 Port Coruscant Podway Aft Chamber 621B|Hogwarts|HC|62735|AI command console
+ Enterprise Node Chamber 233J		GL	50743	AI command console
+2401 Port Rivendell Pod 346K|Endor|NV|80288|Time travel wristband
+329 Starboard Pasage Aft Chamber 501T	Vulcan	OQ	37010	Artificial gravity generator
+1526 Starboard Enterprise Hatch Forward Capsule 517	Bespin	GT	95658	Psionic amplifier
+7898 Port Vulcan Node Forward Pod 346K,Endor,GL,90928,Orbital defense cannon
+753 Coruscant Tube Forward Module 147,Hoth,CK,86161,Cryogenic sleep chamber
+999 Starboard Rivendell Podway Capsule 137,,VJ,69607,Lightsaber
+2370 Starboard Crystal Pasage Forward Pod 45W,Hogwarts,NR,99317,FTL navigation crystal
+3759 Dragon Tube Aft Pod 651|Arrakis|QA|26018|Quantum entanglement communicator
+359 Port Enterprise Aft Module 639B||VJ|85315|Artificial gravity generator
+6590 Crystal Pasage Pod 472	Minas Tirith	GT	35154	Android assistant
+5446 Starboard Hatch Pod 563A,Tatooine,GL,74698,Bioengineered symbiote
+7946 Port Rivendell Podway Forward Capsule 390S|Gondor|VJ|88774|Teleportation pad
+9509 Wookiee Tube Forward Module 967Z|Coruscant|WH|81425|Mind-control headset
+4697 Starboard Dragon Sector Aft Pod 621B	Krypton	WH	62735	Bioengineered symbiote
+1711 Starboard Minas Tube Forward Module 454C	Hogwarts	OQ	18032	Cloaking shield generator
+2385 Port Rivendell Deck Forward 454C|Hogwarts|NV|98838|Celestial forge
+1843 Tatooine Node Aft Module 623P|Rivendell|RX|62866|Warp core
+7769 Port Minas Node Aft Capsule 563A,Tatooine,UI,35139,Plasma torch
+9956 Port Crystal Pasage Aft Capsule 233J|Hogwarts|UI|92507|Mind-control headset
+502 Starboard Vulcan Node 816J|Minas Tirith|FO|76128|Bioengineered symbiote
+8984 Krypton Node 170B	Arrakis	RX	31521	Stellar map
+3768 Port Hobbiton Deck Module 180,Endor,NR,71567,Wormhole stabilizer
+4006 Port Rivendell Podway Aft Chamber 147,Gondor,,94058,Psionic amplifier
+8491 Starboard Hobbiton Pasage Module 479,Hogwarts,NR,85054,Cryogenic sleep chamber
+6030 Starboard Dragon Pasage Forward Module 783J	Bespin	TY	20819	Energy shield emitter
+1828 Hobbiton Hatch Forward Module 71	Hoth	XZ	95607	Teleportation pad
+2444 Hobbiton Deck Capsule 414,,OQ,73442,Warp core
+9491 Starboard Pasage Forward 45W	Gondor	TY	92750	Orbital defense cannon
+2208 Port Hobbiton Pasage Forward Module 346K	Naboo	QA	20439	Galactic credit chip
+8947 Hobbiton Capsule 411I		IJ	21519	Artificial gravity generator
+3160 Port Vulcan Hatch Chamber 534,Endor,JP,,Galactic credit chip
+6384 Vulcan Deck Aft Chamber 479|Gondor|FO|83388|Dyson sphere fragment
+8221 Tatooine Tube Aft Chamber 611Z,,OQ,55183,Lightsaber
+3043 Port Dragon Pasage Pod 623P,Bespin,XZ,24020,Dark matter containment unit
+1180 Hobbiton Deck Aft Pod 180	Rivendell	JP	58130	Time dilation device
+512 Starboard Minas Hatch Aft Capsule 591|Rivendell|XE|32204|Stellar map
+1765 Starboard Minas Hatch Forward Module 71,Coruscant,PN,61737,AI command console
+5613 Krypton Pod 501T	Rivendell	AE	23176	Bioengineered symbiote
+1540 Port Krypton Deck Capsule 877,Hoth,PN,20984,Bioengineered symbiote
+5329 Coruscant Forward Pod 800	Minas Tirith	JP	86221	Dyson sphere fragment
+8430 Crystal Pasage Capsule 167|Vulcan|EN|47059|Quantum entanglement communicator
+173 Enterprise Node Aft 700E,Tatooine,HS,65471,Cryogenic sleep chamber
+5328 Hobbiton Podway Aft Pod 233J	Hoth	WH	23071	Terraforming drone
+7785 Hobbiton Hatch Aft Chamber 651,Gondor,NV,41160,Mind-control headset
+7335 Port Hobbiton Deck Forward 	Coruscant	HS	31403	Plasma rifle
+863 Port Minas Pasage Forward Chamber 692Z,Bespin,RP,50002,Cryogenic sleep chamber
+8029 Port Crystal Podway Aft 233J	Tatooine	DF	74789	Android assistant
+2075 Port Wookiee Sector 970M,Endor,ZK,35357,Zero-point energy module
+2359 Wookiee Hatch Module 167	Dagobah	CY	30752	Zero-point energy module
+2593 Port Hobbiton Deck Forward 233J,Vulcan,JP,41353,Neural implant
+8407 Port Hobbiton Hatch Aft 700E	Vulcan	SZ	98850	Stellar map
+2816 Port Dragon Node 783J|Endor|SU|33284|Genetic modification capsule
+4319 Starboard Krypton Podway Forward Chamber 390S,Gondor,VJ,62347,Lightsaber
+285 Crystal Podway Aft Capsule 989,Hogwarts,DF,44699,Subspace beacon
+4361 Rivendell Forward 692Z	Vulcan	DF	31775	Wormhole stabilizer
+5106 Port Coruscant Deck Forward Module 121H|Vulcan|RX|71256|Stellar map
+5612 Rivendell Sector Capsule 783J		DF	37713	Galactic credit chip
+8865 Port Krypton Node Capsule 479,Naboo,GT,39062,Memory erasure ray
+306 Starboard Rivendell Podway 13V|Gondor|SZ|20554|Neural implant
+6822 Port Hobbiton Node Capsule 639B|Hoth|FO|47437|Energy shield emitter
+273 Starboard Hatch Forward Chamber 281H,Rivendell,RX,84999,Teleportation pad
+2864 Starboard Rivendell Podway Aft Chamber 137|Hogwarts|ZK|18399|Neural implant
+4709 Port Coruscant Hatch Chamber 989,Endor,JX,56815,Warp core
+1676 Port 180	Bespin	XE	18751	Orb of prophecy
+7322 Port Obsidian Pasage Forward Module 121H	Arrakis	NR	85199	Dyson sphere fragment
+8810 Starboard Crystal Pasage Forward Capsule 170B|Krypton|LK|77735|Plasma rifle
+1250 Starboard Vulcan Node Aft Capsule 411I|Dagobah|EN|22447|Zero-point energy module
+1489 Port Minas Tube Forward 533Y|Krypton|IJ|40188|Bioengineered symbiote
+6239 Starboard Tatooine Deck Chamber 534,Arrakis,CY,91802,Genetic modification capsule
+4819 Hobbiton Podway Chamber 877,Vulcan,PN,14588,Android assistant
+3118 Starboard Tatooine Tube Pod 411I	Dagobah	AE	26354	Dark matter containment unit
+5463 Hobbiton Tube Aft Capsule 591,Naboo,BF,31821,AI command console
+3146 Starboard Wookiee Node Forward Module 180,Krypton,IJ,86058,Energy shield emitter
+6403 Starboard Coruscant Sector Forward Pod 180	Krypton	JP	44016	Plasma torch
+225 Port Dragon Node 611Z,Gondor,BF,71531,Dark matter containment unit
+6482 Port Tatooine Node Forward Chamber 783J	Endor	XE	95716	Holographic communicator
+2173 Port Coruscant Sector Capsule 570|Gondor|GL|78883|Zero-point energy module
+2228 Starboard Hobbiton Sector Capsule 265I|Arrakis|YD|38774|Zero-point energy module
+531 Port Tatooine Aft Chamber 363,Coruscant,NR,42345,Dyson sphere fragment
+334 Coruscant Podway Forward Pod 479,Bespin,NR,11622,Anti-gravity boots
+4355 Obsidian Podway Capsule 265I,Vulcan,WV,44142,Zero-point energy module
+1136 Port Obsidian Node Chamber 621B,Vulcan,WH,19514,Energy shield emitter
+3986 Krypton Tube Aft Chamber 783J,Minas Tirith,BV,92143,Space elevator tether
+6945 Port Dragon Tube Capsule 281H|Coruscant|NV|48256|Wormhole stabilizer
+6669 Port Enterprise Pasage Module 970M	Dagobah	UI	62766	Time dilation device
+2343 Dragon Hatch Module 116Y	Coruscant	NV	91571	Galactic credit chip
+8377 Port Enterprise Pasage Aft Capsule 517|Arrakis|XE|83867|Exosuit
+3443 Minas Deck Forward Module 807|Minas Tirith|ZR|58206|Orb of prophecy
+2059 Port Podway Aft Chamber 390S,Coruscant,KB,93356,Lightsaber
+385 Starboard Tatooine Hatch Forward Chamber 13V,Vulcan,OM,96606,Subspace beacon
+4664 Crystal Deck Forward 180,Arrakis,SU,92002,Celestial forge
+9432 Port Wookiee Deck Forward Pod 800|Gondor|BV|99817|Alien artifact shard
+1426 Pasage Aft Pod 116Y	Coruscant	KB	22567	Terraforming drone
+5319 Port Forward Module 472,Endor,AE,65375,Terraforming drone
+386 Port Obsidian Node Module 517|Krypton|WV|85656|Anti-gravity boots
+2723 Port Enterprise Podway Chamber 170B	Bespin	BV	23083	Galactic credit chip
+3201 Tatooine Pasage Chamber 611Z,Arrakis,NV,68785,Android assistant
+4701 Starboard Tatooine Node 534	Rivendell	XE	26528	Exosuit
+8582 Sector Pod 533Y||YD|13903|Nanobot swarm
+640 Starboard Tatooine Hatch Forward 692Z,Naboo,SU,34067,Alien artifact shard
+4371 Enterprise Pasage Pod 414|Tatooine|SU|38318|Neural implant
+6942 Vulcan Podway 265I,Rivendell,ZK,80030,Exosuit
+7363 Minas Pasage Capsule |Krypton|ZK|31260|Memory erasure ray
+7151 Dragon Sector Aft Chamber 621B,Coruscant,AE,20928,Dark matter containment unit
+4760 Port Vulcan Node Forward Pod 651|Hoth|KB|69309|Psionic amplifier
+8185 Enterprise Deck Aft Pod 13V,Bespin,ZR,18963,Cryogenic sleep chamber
+2638 Port Coruscant Tube Aft Chamber 170B	Coruscant	PN	91695	Warp core
+6627 Coruscant Pasage Aft Pod 967Z	Rivendell	SZ	52611	Artificial gravity generator
+2721 Wookiee Pasage Forward Pod 363,Dagobah,AE,30685,Genetic modification capsule
+788 Enterprise Forward Chamber 268,Bespin,PY,59206,Time dilation device
+8533 Hobbiton Tube Aft Module 768,Naboo,TY,39986,Anti-gravity boots
+5507 Starboard Wookiee Pasage Forward Capsule |Coruscant|KB|45736|Nanobot swarm
+7209 Starboard Enterprise Sector Forward Chamber 454C,Coruscant,BV,43583,
+2196 Tatooine Node 611Z,Rivendell,XZ,22114,Orb of prophecy
+8961 Starboard Rivendell Deck Forward Module 700E	Bespin	NR	56242	Cloaking shield generator
+7123 Krypton Podway Forward Pod 783J|Naboo|LK|73710|Teleportation pad
+8142 Starboard Minas Podway Aft Pod 591|Naboo|OQ|15586|Mind-control headset
+9372 Krypton Deck Aft Module 13V|Minas Tirith|HS|19332|Cloaking shield generator
+2775 Coruscant Hatch Aft 800	Endor	OQ	41903	Cloaking shield generator
+9209 Starboard Krypton Tube Forward Chamber 807	Hoth	UI	66549	Bio-dome habitat
+4661 Port Vulcan Hatch Forward 454C|Tatooine|RX|79029|Time dilation device
+690 Starboard Dragon Pasage 534	Hogwarts	HC	91993	Time dilation device
+1572 Port Coruscant Pod 233J|Dagobah|TY|16102|Quantum computer core
+5992 Coruscant Deck Forward Module 768|Naboo|XE|68174|Mind-control headset
+776 Starboard Rivendell Forward Module 623P|Hogwarts|WV|36968|Quantum computer core
+9597 Starboard Rivendell Sector Aft Module 591|Tatooine|RP|49157|Lightsaber
+9689 Port Crystal Hatch Module 121H|Coruscant|OM|18766|Holographic communicator
+5161 Port Hobbiton Tube Forward Capsule 13V	Minas Tirith	HS	20187	Android assistant
+5111 Starboard Wookiee Node Forward Chamber 651	Gondor	SZ	16621	Hyperspace drive
+9502 Starboard Rivendell Node Forward Module 534,Dagobah,NR,86523,Wormhole stabilizer
+9416 Starboard Minas Pasage Aft 268,Bespin,WH,13437,Psionic amplifier
+34 Tatooine Pasage Forward Module|Hogwarts|RP|45832|Artificial gravity generator
+6709 Deck 137,Minas Tirith,NV,20753,Terraforming drone
+5307 Port Krypton Sector Aft Chamber 591	Rivendell	CK	36541	Android assistant
+6871 Starboard Obsidian Pasage Forward 800|Naboo|HS|86933|Alien artifact shard
+8219 Pasage 651,,HC,74576,Orb of prophecy
+2851 Starboard Enterprise Sector Forward Module 472,Naboo,ZK,36340,
+8654 Enterprise Sector Aft Capsule 	Bespin	UI	39135	Zero-point energy module
+1804 Minas Hatch Aft Pod 265I,Endor,DF,87730,AI command console
+2849 Starboard Minas Deck Forward Capsule 783J	Gondor	ZR	16033	Bio-dome habitat
+1329 Podway Forward 768	Vulcan	NR	84012	Plasma torch
+4930 Starboard Vulcan Node Aft Module 427H	Gondor	XE	26760	Nanobot swarm
+733 Starboard Tatooine Sector Forward Chamber 967Z|Krypton|QA|97162|Genetic modification capsule
+1545 Port Vulcan Deck Aft Pod 147,Rivendell,JP,70530,FTL navigation crystal
+8643 Starboard Hobbiton Hatch Aft Pod 233J	Tatooine	TY	10814	Energy shield emitter
+5760 Port Wookiee Sector Forward Module 517|Krypton|YD|18257|Stellar map
+2155 Starboard Minas Sector Aft Chamber 479	Minas Tirith	SU	69508	Starship black box
+7987 Port Dragon Sector Chamber 147,Rivendell,CK,12904,Time travel wristband
+5024 Port Hobbiton Podway 700E,Gondor,RX,86698,Celestial forge
+4262 Port Wookiee Sector Aft 816J|Arrakis|BF|56071|Cryogenic sleep chamber
+1588 Starboard Krypton Hatch Aft Module 137	Arrakis	LK	85576	Artificial gravity generator
+6154 Port Krypton Pasage Aft Chamber 429	Coruscant	CY	40085	Holographic communicator
+7061 Aft Module 700E,Gondor,CK,44444,Neural implant
+5570 Minas Tube Forward 281H	Minas Tirith	PY	65572	Teleportation pad
+145 Port Coruscant Podway Aft 700E	Hoth	LK	13472	
+ Port Tatooine Podway Aft Capsule 180,Coruscant,LD,56538,Celestial forge
+4507 Starboard Coruscant Hatch Capsule 967Z		LK	12512	Hyperspace drive
+6562 Wookiee Aft Module 363,Vulcan,KB,38504,Lightsaber
+6997 Starboard Dragon Tube Forward Pod 651,Arrakis,KB,68812,Artificial gravity generator
+6177 Port Hobbiton Deck Aft Pod 768	Hogwarts	LK	44595	Terraforming drone
+5415 Tatooine Deck Forward Pod 346K	Endor	GT	55660	Android assistant
+1102 Starboard Coruscant Chamber 563A||GL|50146|Celestial forge
+5149 Hatch Forward Module 611Z	Krypton	LK	53107	Lightsaber
+8364 Port Krypton Aft Capsule 147|Endor|KB|62679|Hyperspace drive
+3023 Port Tatooine Tube Module 517	Krypton	RP	41637	Alien artifact shard
+2567 Port Obsidian Tube Forward 454C|Gondor|NR|23032|Space elevator tether
+6006 Starboard Hobbiton Podway Forward Module 967Z	Minas Tirith	AE	47996	Hyperspace drive
+1390 Starboard Minas Aft Chamber 563A	Naboo	HS	17632	Celestial forge
+7214 Starboard Coruscant Sector Forward Module 517	Hogwarts	VJ	84808	Celestial forge
+9496 Port Minas Tube Forward Chamber 268||VJ|96292|Dark matter containment unit
+9451 Starboard Crystal Forward 45W|Naboo|RX|58097|Time travel wristband
+9954 Krypton Tube Aft Capsule 233J	Arrakis	VJ	36742	Quantum computer core
+2557 Starboard Rivendell Podway Forward Capsule 363,Dagobah,RP,62348,Time travel wristband
+5312 Port Minas Deck Forward 479	Arrakis	RX	23485	Energy shield emitter
+8246 Port Enterprise Node Chamber 71,Vulcan,TY,89215,AI command console
+9050 Crystal Tube Capsule 167	Endor	CK	29496	Android assistant
+1695 Starboard Wookiee Tube Forward Pod 137,Coruscant,EN,86800,Teleportation pad
+4749 Starboard Coruscant Sector Aft 414,Minas Tirith,LD,,Wormhole stabilizer
+3856 Starboard Enterprise Podway Aft Capsule 692Z,Gondor,MQ,65039,Galactic credit chip
+5298 Starboard Hobbiton Forward Capsule 479	Naboo	ZR	72543	Starship black box
+696 Starboard Enterprise Tube Aft 533Y	Coruscant	VJ	94854	AI command console
+5351 Minas Pod 390S	Bespin	WV	65068	Neural implant
+3161 Starboard Minas Hatch Pod 268	Minas Tirith	MQ	10161	Celestial forge
+6545 Rivendell Hatch Module ,Dagobah,XZ,85265,Warp core
+3293 Port Enterprise Hatch Aft Module 768|Naboo|JX|91072|Quantum entanglement communicator
+2849 Port Vulcan Sector Forward 501T	Krypton	XZ	41017	Anti-gravity boots
+9705 Krypton Pasage Pod 651|Gondor|HC|51126|
+4021 Port Crystal Capsule 170B,Krypton,,67992,Nanobot swarm
+706 Rivendell Podway Aft Capsule 523K	Krypton	YD	85239	Stellar map
+4077 Port Minas Podway Aft Chamber 970M,Coruscant,LK,50815,FTL navigation crystal
+9361 Wookiee Node Module 363,Coruscant,PN,55042,Dyson sphere fragment
+1646 Starboard Dragon Sector 71,Tatooine,WV,99211,Psionic amplifier
+3854 Dragon Podway Aft Module 692Z,Dagobah,GT,52432,Cloaking shield generator
+8379 Starboard Krypton Podway Forward 454C,Coruscant,SU,97942,Artificial gravity generator
+2110 Krypton Aft Chamber 411I	Hoth	RX	91269	Exosuit
+5286 Port Rivendell Pasage Aft Module 45W,Minas Tirith,EN,19753,Subspace beacon
+74 Hobbiton Hatch Forward Capsule 429|Arrakis|TM|89763|Teleportation pad
+395 Starboard Rivendell Podway Pod 639B	Hogwarts	PY	88768	Nanobot swarm
+3347 Starboard Sector Forward Chamber 570	Coruscant	RP	41766	Time travel wristband
+5090 Port Wookiee Hatch Module 651,Gondor,NR,85889,Holographic communicator
+940 Starboard Obsidian Aft Module 71|Arrakis|YD|55122|Exosuit
+1919 Port Crystal Node Forward Pod 346K|Tatooine|PN|22206|Plasma rifle
+2353 Coruscant Pasage Aft Module 281H,Coruscant,ZR,38879,Neural implant
+ Starboard Coruscant Node Aft Pod 768	Bespin	OM	92150	Wormhole stabilizer
+1062 Enterprise Hatch 180		MQ	83801	Anti-gravity boots
+2449 Port Wookiee Deck Aft 783J,Krypton,GT,34257,Space elevator tether
+4636 Obsidian Node Capsule 816J,Vulcan,HC,40416,Teleportation pad
+9774 Port Obsidian Pasage Aft Pod 563A	Hogwarts	PN	33585	Galactic credit chip
+8999 Starboard Vulcan Tube Capsule 479|Naboo|CY|49890|Quantum entanglement communicator
+5864 Port Vulcan Deck Chamber 265I|Coruscant|XZ|12526|Cryogenic sleep chamber
+5424 Starboard Hobbiton Node Forward 700E,,WV,42248,Neural implant
+5563 Port Wookiee Tube Forward 807||WV|81013|AI command console
+7626 Port Hobbiton Aft 346K|Gondor|RP|75462|Subspace beacon
+7279 Crystal Tube 563A,Arrakis,WV,39033,Space elevator tether
+1908 Obsidian Pod 390S,Dagobah,ZR,99600,Quantum entanglement communicator
+2552 Coruscant Tube Module 871Q	Vulcan	XE	44398	Dark matter containment unit
+5228 Minas Hatch Capsule 783J|Hoth|CK|45959|Quantum entanglement communicator
+5076 Starboard Dragon Tube Forward Chamber 807	Rivendell	GT		Hyperspace drive
+8025 Minas Node Forward 170B	Arrakis	HC	54243	Orb of prophecy
+8585 Starboard Enterprise Deck Chamber 427H|Dagobah|HC|65826|Plasma rifle
+61 Starboard Rivendell Node Chamber 71	Endor	NR	45266	Dark matter containment unit
+8729 Enterprise Pasage Chamber 501T|Tatooine|XE|61892|Quantum computer core
+9793 Port Obsidian Tube Aft Capsule 623P,Minas Tirith,OM,19398,Orbital defense cannon
+1406 Coruscant Deck Forward Chamber 807|Arrakis|AE|48556|Exosuit
+7524 Sector Aft Pod 71|Hogwarts|WV|19311|Orb of prophecy
+4747 Crystal Module 121H	Tatooine	TM	93939	Genetic modification capsule
+9859 Port Obsidian Pasage Chamber 563A	Coruscant	BF	99182	Energy shield emitter
+8474 Port Enterprise Podway Aft Module 563A|Minas Tirith|SU|97082|Galactic credit chip
+5921 Starboard Hobbiton Aft Pod 611Z,Bespin,NV,10892,Exosuit
+9461 Rivendell Pasage Forward 137	Hogwarts	QV	32520	Quantum computer core
+6115 Starboard Enterprise Tube Pod 411I,Endor,WH,53058,Bioengineered symbiote
+9453 Port Coruscant Podway Forward Pod 816J	Rivendell	GL	62986	Subspace beacon
+5732 Port Pasage Forward Pod 281H,Hogwarts,FO,93332,Cryogenic sleep chamber
+7095 Port Sector Aft Chamber 167|Gondor|WV|87941|Plasma torch
+1656 Port Minas Forward Module 454C	Krypton	BF	97238	Time dilation device
+9064 Enterprise 427H	Naboo	TM	13972	Celestial forge
+6530 Port Coruscant Pasage Module 414,Krypton,ZK,17085,Celestial forge
+5694 Port Hobbiton Podway Chamber 970M|Endor|TM|22479|Quantum computer core
+4984 Port Obsidian Pasage Module 170B|Gondor|TY|97553|Alien artifact shard
+2180 Tatooine Podway Chamber 639B	Krypton	LD		Galactic credit chip
+3780 Tube Chamber 871Q	Endor	RP	24372	Wormhole stabilizer
+3923 Tatooine Pasage 121H,,HC,80527,Quantum entanglement communicator
+937 Tatooine Hatch 411I,Arrakis,QA,68734,Starship black box
+678 Tatooine Tube Forward 800	Hogwarts	CK	32103	AI command console
+7359 Port Obsidian Tube Module 523K	Hoth	QV	20247	Orbital defense cannon
+2198 Starboard Krypton Forward Capsule 523K|Bespin|XE|61407|Holographic communicator
+4792 Port Tatooine Aft Capsule 414||CY|52063|Subspace beacon
+1170 Hobbiton Deck Forward 425	Hoth	YD	46860	AI command console
+519 Minas Hatch Chamber 479,Minas Tirith,ZK,67594,AI command console
+656 Starboard Enterprise Sector Chamber 611Z,Endor,SU,87018,Warp core
+1624 Pasage Module 621B	Dagobah	TM	98857	Bio-dome habitat
+5307 Port Crystal Aft 807	Naboo	NV	66739	Time dilation device
+8774 Enterprise Forward Capsule 623P|Hoth|CK|31160|Bio-dome habitat
+3805 Tatooine Sector Aft Chamber 768,Vulcan,CK,14545,Subspace beacon
+1359 Port Krypton Deck Aft Module 346K|Bespin|XE|14422|Bioengineered symbiote
+3957 Enterprise Node Capsule 411I|Minas Tirith|QA|58247|Dyson sphere fragment
+8260 Obsidian Node Aft Pod 967Z	Bespin	XE	11930	Quantum computer core
+2412 Hobbiton Podway Module 45W|Vulcan|CY|46233|Stellar map
+,Krypton,QA,89801,
+1887 Port Obsidian Deck Aft Pod 180	Endor	RP	78502	Orbital defense cannon
+5918 Port Dragon Tube Forward Module 967Z|Rivendell|HS|21952|Subspace beacon
+9739 Hobbiton Deck Forward Chamber 427H		HS	27224	Dyson sphere fragment
+7329 Obsidian Node Aft 816J,Hoth,RX,78384,Artificial gravity generator
+1319 Port Rivendell Podway Aft Pod 517	Gondor	FO	13364	Energy shield emitter
+9708 Starboard Minas Aft Chamber 268|Gondor|LD|35192|Dark matter containment unit
+2373 Rivendell Hatch Forward Chamber 651|Gondor|ZK|30945|Teleportation pad
+2046 Port Dragon Sector Forward Pod 346K|Minas Tirith|QV|25693|FTL navigation crystal
+8389 Starboard Hobbiton Deck Chamber 147		DF	68621	Cloaking shield generator
+ Crystal Sector Forward Chamber 	Dagobah	AE	35665	Bioengineered symbiote
+6731 Port Dragon Node Forward Pod 877|Minas Tirith|UI|19746|Lightsaber
+8978 Starboard Hobbiton Node Module 501T|Tatooine|DF|77133|Orb of prophecy
+8125 Wookiee Node Pod 877,Tatooine,XE,67573,Terraforming drone
+3677 Coruscant Pasage Pod 429,Tatooine,,29223,Dark matter containment unit
+2033 Starboard Vulcan Aft 816J|Hoth|OQ|21965|Galactic credit chip
+3874 Minas Aft Pod 700E,Coruscant,DF,19978,Hyperspace drive
+3703 Port Rivendell Tube Aft 877,Hogwarts,JX,41297,Warp core
+321 Port Krypton Pasage Forward 501T|Minas Tirith|RX|88988|Exosuit
+9538 Minas Pasage Chamber 411I,,WV,49072,Wormhole stabilizer
+1980 Port Hobbiton Pasage Aft 170B	Krypton	DF	23121	Celestial forge
+9895 Port Tatooine Tube Pod 591,Vulcan,TM,53975,Plasma rifle
+8386 Port Coruscant Sector Chamber 45W	Minas Tirith	OQ	53559	Orbital defense cannon
+9224 Port Minas Sector Forward 71,Vulcan,JX,56723,Anti-gravity boots
+1045 Dragon Hatch Forward Chamber 414,Gondor,HC,40738,Neural implant
+7960 Port Tatooine Node Forward 534	Arrakis	LK	88188	Orb of prophecy
+225 Starboard Obsidian Aft Pod 501T,Hogwarts,IJ,84273,Cryogenic sleep chamber
+7442 Enterprise Hatch Aft Module 651|Hoth|TY|23115|Quantum computer core
+5780 Vulcan Sector Forward Chamber 563A,Coruscant,CK,47503,Teleportation pad
+3408 Starboard Crystal Module 970M,Vulcan,HC,80668,Quantum entanglement communicator
+9193 Starboard Dragon Sector Module 570,Gondor,FO,73735,Mind-control headset
+1449 Port Hobbiton Sector Pod 167	Naboo	BF	73829	Holographic communicator
+9559 Starboard Vulcan Aft 816J|Dagobah|FO|37229|Energy shield emitter
+6960 Enterprise Deck Chamber 429	Krypton	KB	18558	Exosuit
+4518 Vulcan Podway Aft Module 639B,,ZR,35640,Cloaking shield generator
+9994 Port Wookiee Deck Forward Chamber 970M|Hoth|VJ|67636|Energy shield emitter
+3924 Rivendell Deck 71|Arrakis|JX|17350|Android assistant
+5327 Port Hobbiton Pasage Aft Pod 170B,Coruscant,KB,43584,Cloaking shield generator
+5093 Rivendell Aft Module 692Z	Arrakis	WV	72405	Warp core
+705 Starboard Hobbiton Tube Forward 967Z	Bespin	GL		Neural implant
+8054 Port Dragon Hatch Forward Module 570|Gondor|BF|93311|Time dilation device
+4004 Port Pasage Forward 807	Gondor	PY	80997	Lightsaber
+177 Starboard Vulcan Pasage Aft 268	Dagobah	BV	35928	Psionic amplifier
+7083 Starboard Wookiee Podway Forward 13V,Rivendell,GL,45435,AI command console
+3715 Port Minas Node Aft Capsule 523K,Hoth,LK,87722,Starship black box
+8174 Port Minas Tube Aft Capsule 517,Rivendell,GT,,
+482 Starboard Wookiee Hatch Forward Pod 534|Vulcan|EN|90213|Galactic credit chip
+511 Port Vulcan Sector Forward Chamber 877|Tatooine|VJ|39664|Lightsaber
+3751 Starboard Minas Pasage Forward Pod 137|Coruscant|RX|16423|Quantum computer core
+5923 Starboard Wookiee Tube Forward Chamber 45W|Vulcan|SZ|74871|AI command console
+7857 Wookiee Deck Pod 71,Arrakis,HC,32831,Plasma torch
+8685 Wookiee Tube Aft Capsule 479|Rivendell|MQ|63399|Bioengineered symbiote
+7937 Krypton Tube Capsule 180,Gondor,OM,61941,Quantum computer core
+59 Starboard Rivendell Node Capsule 639B|Endor|NR|39538|Orb of prophecy
+9259 Starboard Coruscant Podway Aft Pod 429,Arrakis,RP,75934,Anti-gravity boots
+5685 Port Coruscant Hatch Forward 877|Gondor|JP|56055|Dark matter containment unit
+7469 Tatooine Hatch Capsule 233J|Coruscant|KB|87797|Time travel wristband
+5099 Starboard Hobbiton Deck Module 71|Endor|UI|37059|Time travel wristband
+7389 Starboard Minas Chamber 479|Hoth|GT|16535|Quantum computer core
+9898 Port Obsidian Forward Module 563A|Coruscant|RX|23674|Artificial gravity generator
+8149 Vulcan Sector Chamber 768|Bespin|HC|94134|Cryogenic sleep chamber
+2069 Starboard Crystal Deck Aft Module 800	Dagobah	GT	49480	Genetic modification capsule
+4263 Krypton Podway Chamber 346K	Coruscant	JX	90237	Time travel wristband
+4494 Port Dragon Tube Forward 563A		XZ	32308	Artificial gravity generator
+ Port Tatooine Pasage Forward 534	Minas Tirith	YD	23513	Mind-control headset
+9379 Starboard Dragon Deck Aft Capsule 800|Bespin|TM|92835|Alien artifact shard
+421 Coruscant Pasage Aft Module 501T	Dagobah	PN	59050	Orb of prophecy
+219 Crystal Forward Capsule 967Z|Minas Tirith|CY|87635|
+6737 Obsidian Node Forward Pod 121H	Vulcan	CY	27600	Galactic credit chip
+3801 Starboard Crystal Hatch Forward Pod 563A		WV	88249	Neural implant
+1418 Tatooine Aft Capsule 137,Coruscant,VJ,,Terraforming drone
+1187 Starboard Coruscant Tube Aft Capsule 989|Tatooine|BV|87856|Stellar map
+1650 Vulcan Tube Aft Pod 523K|Rivendell||69869|Mind-control headset
+5557 Port Crystal Pasage Forward 611Z	Rivendell	QV	56321	Lightsaber
+3424 Starboard Enterprise Sector Aft 45W,Hogwarts,ZK,94895,Teleportation pad
+8946 Enterprise Pasage Forward Chamber 180,Endor,KB,91786,Galactic credit chip
+5498 Starboard Dragon Hatch Aft Module 989	Bespin	JP	18436	Subspace beacon
+39 Dragon Aft Chamber 816J,Naboo,GT,76484,Alien artifact shard
+4274 Starboard Crystal Pasage 13V,Coruscant,BV,87205,Alien artifact shard
+1203 Port Krypton Deck Capsule 591,Rivendell,SU,51652,Genetic modification capsule
+2123 Crystal Sector Chamber 523K,Endor,BV,26706,Starship black box
+8864 Port Rivendell Tube Capsule 800|Hoth|UI|22141|Cloaking shield generator
+2134 Port Hobbiton Pasage Module 877	Endor	GL	43842	Wormhole stabilizer
+9497 Port Obsidian Podway 570	Hoth	YD	55638	Stellar map
+5109 Port Podway Forward Capsule 807|Krypton|HS|58153|Wormhole stabilizer
+2760 Starboard Krypton Podway Aft 871Q	Tatooine	LD	52359	Terraforming drone
+6564 Starboard Minas Forward Module 533Y|Naboo|XE|92303|Quantum computer core
+8796 Port Crystal Hatch 411I|Arrakis|DF||
+1933 Vulcan Deck Pod 807,Tatooine,TY,45872,Cryogenic sleep chamber
+4703 Vulcan Tube Aft Module 265I,Hoth,KB,15257,Artificial gravity generator
+2678 Port Tatooine Podway Chamber 45W,Bespin,LD,73635,Zero-point energy module
+5010 Aft Capsule 639B|Gondor|BV|63875|AI command console
+1631 Port Vulcan Podway Forward Pod 623P,Naboo,JX,89689,Memory erasure ray
+9406 Starboard Crystal Tube Aft 967Z,Rivendell,EN,26654,Starship black box
+5836 Port Enterprise Module ,Hoth,CY,,Exosuit
+288 Port Obsidian Deck Aft Capsule 147,Gondor,YD,62433,Plasma rifle
+4461 Starboard Node Forward Capsule 479	Minas Tirith	QA	43047	Psionic amplifier
+9487 Rivendell Node Aft Module 651|Coruscant|JP|71084|Alien artifact shard
+9796 Wookiee Tube Module 363	Dagobah	CY	55101	Stellar map
+645 Enterprise Podway Aft Module 517	Arrakis	WV	22863	Mind-control headset
+5479 Starboard Minas Aft Chamber 800	Naboo	WH	75332	Bio-dome habitat
+ Starboard Sector 180		AE	66493	Stellar map
+3209 Starboard Dragon Node Forward Capsule 591	Hogwarts	LK	76820	Mind-control headset
+2566 Port Coruscant Pasage Aft Capsule 621B	Bespin	UI	76586	
+5503 Tatooine Sector Forward Chamber 429,Hogwarts,FO,25326,Warp core
+2585 Port Coruscant Tube Forward 989|Endor|OM|72057|Quantum entanglement communicator
+3272 Starboard Krypton Node Forward Chamber 611Z	Krypton	RX	13727	Terraforming drone
+272 Port Krypton Podway Module 611Z|Coruscant|GL|86044|Orbital defense cannon
+6245 Starboard Obsidian Pasage Aft 429,Minas Tirith,TY,35967,Space elevator tether
+6915 Port Wookiee Sector Aft Chamber 233J|Hogwarts|GT|13727|Warp core
+16 Port Obsidian Sector Forward Chamber 13V	Rivendell	LK	23317	Bioengineered symbiote
+8903 Port Enterprise Deck Aft Chamber 621B	Dagobah	QA	68598	Psionic amplifier
+507 Port Coruscant Deck Forward Chamber 121H,,DF,20950,Quantum entanglement communicator
+8901 Starboard Crystal Forward Capsule 700E	Bespin	DF	44865	Dyson sphere fragment
+3997 Starboard Enterprise Forward Chamber 639B|Gondor|VJ|69766|Orb of prophecy
+1573 Port Enterprise Deck Forward Pod 621B||KB|71121|Subspace beacon
+7525 Starboard Wookiee Deck Aft 621B	Tatooine	CY	47831	Teleportation pad
+4976 Starboard Minas Deck Chamber 517,Naboo,LD,76901,Celestial forge
+2124 Starboard Forward Capsule 768,Minas Tirith,QV,65172,Terraforming drone
+661 Port Obsidian Tube Aft 265I|Hoth|FO|91029|Cryogenic sleep chamber
+7311 Port Vulcan Podway Aft Chamber 523K|Bespin|WH|69490|Android assistant
+2683 Starboard Wookiee Node Forward Capsule 167,Naboo,SZ,33318,Bioengineered symbiote
+661 Starboard Minas Deck Module 611Z,Naboo,MQ,12101,Bio-dome habitat
+3765 Dragon Aft Chamber 390S	Hoth	NR	72725	Hyperspace drive
+4771 Port Vulcan Hatch Forward 563A,Rivendell,DF,50411,AI command console
+2131 Obsidian Pasage 800,Minas Tirith,LD,57712,Quantum computer core
+4194 Starboard Krypton Hatch Aft Module 807	Tatooine	XZ	51414	Terraforming drone
+1290 Starboard Krypton Pasage Forward Module 427H|Naboo|PY|18467|Quantum computer core
+7080 Node Aft Module 180|Gondor|XZ|37849|Orbital defense cannon
+3163 Starboard Rivendell Aft Module 411I|Dagobah|MQ|97548|Time travel wristband
+5310 Krypton Pasage Forward Module 170B	Arrakis	SZ	55142	Bio-dome habitat
+3490 Starboard Tatooine Tube Aft Module 137	Minas Tirith	PY	84756	Quantum computer core
+6323 Starboard Obsidian Pasage Aft 611Z	Arrakis	AE	18367	Quantum computer core
+70 Port Minas Aft 639B	Arrakis	CY	69755	Teleportation pad
+2380 Port Minas Pasage Forward Capsule 137|Coruscant|MQ|40254|Lightsaber
+4655 Port Vulcan Node Aft 390S|Gondor|KB|75360|Cloaking shield generator
+4049 Port Obsidian Pasage Forward Module 989|Endor|XE|95137|Galactic credit chip
+8166 Tatooine Deck Forward Pod 268|Minas Tirith|XE|12263|Cloaking shield generator
+5712 Obsidian Hatch Forward Capsule 807,Vulcan,EN,96204,Lightsaber
+7728 Starboard Tatooine Pasage Aft Pod 454C,Hogwarts,ZR,34539,Time travel wristband
+1356 Vulcan Node 501T|Arrakis|TY|47048|Subspace beacon
+4232 Starboard Dragon Deck 479,Endor,PY,15926,Artificial gravity generator
+3841 Starboard Tatooine Pod 591,Tatooine,QA,93304,Hyperspace drive
+7495 Port Minas Hatch Forward Capsule 121H|Naboo|ZK|82816|Orb of prophecy
+3606 Starboard Krypton Tube Aft Capsule 363,Minas Tirith,MQ,47716,Dark matter containment unit
+2929 Starboard Coruscant Node Forward 563A,Krypton,ZR,64325,Orbital defense cannon
+9628 Crystal Deck Forward 390S	Arrakis	BF	68325	Warp core
+5208 Starboard Dragon Pasage Pod 479|Tatooine|HC|76108|Mind-control headset
+9268 Port Obsidian Tube Forward Pod 639B,Bespin,EN,43651,Alien artifact shard
+34 Tatooine Pasage Forward Module,Hogwarts,RP,45832,Artificial gravity generator
+6115 Starboard Dragon Sector Aft Pod 121H,Coruscant,IJ,27692,Holographic communicator
+9424 Starboard Krypton Tube Forward Pod 700E|Rivendell|WH|29417|AI command console
+4650 Port Crystal Hatch Pod 454C		BF	85317	Energy shield emitter
+ Port Enterprise Sector Aft 970M,,ZR,30628,Starship black box
+9964 Port Tatooine Pasage Aft Capsule 414	Bespin	ZK	19940	Quantum entanglement communicator
+2568 Starboard Obsidian Podway Aft Pod 71|Naboo|VJ|20470|Nanobot swarm
+8890 Port Vulcan Deck Forward 816J	Vulcan	TM	47090	Time travel wristband
+8240 Starboard Coruscant Tube Capsule 533Y,Bespin,WH,25909,Android assistant
+188 Rivendell Pasage Pod 121H	Krypton	ZR	54306	Starship black box
+1271 Starboard Vulcan Hatch Aft Module 		JP	38076	Orb of prophecy
+2549 Port Obsidian Tube Aft Pod 268|Hogwarts|JX|36654|Memory erasure ray
+5529 Port Rivendell Aft Chamber 137	Dagobah	PN	34418	Cloaking shield generator
+2751 Starboard Tatooine Sector Aft Pod 390S,Endor,RP,51044,Neural implant
+2739 |Minas Tirith|FO||Quantum entanglement communicator
+3581 Port Sector Aft Capsule 281H,Bespin,ZR,23996,Celestial forge
+9050 Port Minas Podway Aft Pod 591		EN	81495	Energy shield emitter
+2420 Port Wookiee Podway Forward Pod 639B|Krypton|PN|21498|Dyson sphere fragment
+980 Starboard Wookiee Podway Pod 13V	Minas Tirith	CY	31100	FTL navigation crystal
+7311 Coruscant Sector Chamber 137	Minas Tirith	SZ	89549	Teleportation pad
+8874 Port Hobbiton Hatch Aft Pod 414,Bespin,RX,29731,Holographic communicator
+5455 Rivendell Deck Forward Chamber 570,Hogwarts,SZ,61963,Dark matter containment unit
+6267 Port Krypton Pasage 281H	Naboo	TM	22526	Alien artifact shard
+8733 Port Hobbiton Sector Pod 180	Hoth	TM	84197	Genetic modification capsule
+3883 Obsidian Deck Aft Chamber 783J|Tatooine|QA|44433|Wormhole stabilizer
+9488 Wookiee Pasage Aft Capsule 621B||FO|77005|Memory erasure ray
+6376 Starboard Crystal Pasage Pod 479,Dagobah,NV,21104,Cryogenic sleep chamber
+9126 Tatooine Tube Forward Capsule 121H,Coruscant,HS,47092,Energy shield emitter
+4392 Port Krypton Podway Forward 479|Minas Tirith|ZK|19769|Cryogenic sleep chamber
+2266 Port Dragon Hatch Module 877	Endor	FO	24703	Time dilation device
+1405 Obsidian Module 180	Dagobah	TM	98287	Plasma torch
+386 Starboard Obsidian Sector Chamber 534,Coruscant,SU,26682,Memory erasure ray
+4650 Coruscant Aft 534	Dagobah	ZR	97547	Neural implant
+7833 Vulcan Node Chamber 472|Endor|JP|74242|Memory erasure ray
+4242 Starboard Wookiee Forward Pod 479	Minas Tirith	SZ	36017	Cloaking shield generator
+4764 Dragon Node Aft Chamber 768|Dagobah|QV|91328|Lightsaber
+5859 Coruscant Hatch Module 454C|Tatooine|MQ|61363|Bio-dome habitat
+6350 Port Coruscant Node Aft 871Q,Bespin,HS,29973,Artificial gravity generator
+9673 Starboard Tatooine Podway Capsule 454C	Gondor	IJ	59828	FTL navigation crystal
+2094 Crystal Podway Aft Module 570|Tatooine|CK|79797|Galactic credit chip
+9812 Starboard Rivendell Aft 533Y,Vulcan,VJ,92839,Galactic credit chip
+2150 Hobbiton Tube Pod 816J,Naboo,DF,72822,Alien artifact shard
+183 Port Rivendell Pasage 871Q|Dagobah|TY|52127|Stellar map
+1589 Port Coruscant Hatch 414,Rivendell,AE,62733,Celestial forge
+9847 Starboard Crystal Sector Module 692Z|Vulcan|TY|92674|Bio-dome habitat
+7417 Starboard Coruscant Sector 454C		GL	86100	Lightsaber
+157 Port Hobbiton Hatch Aft Chamber 	Minas Tirith	EN	71159	Wormhole stabilizer
+639 Starboard Crystal Aft Module 147	Bespin	CY	74645	Time dilation device
+6530 Port Rivendell Sector Forward Chamber 534,,CK,10741,AI command console
+5412 Starboard Enterprise Pasage Aft Chamber 147,Dagobah,NR,55954,Orbital defense cannon
+1955 Starboard Enterprise Podway Forward Pod 281H||NR|74546|Anti-gravity boots
+6552 Minas Module 639B,Tatooine,QV,44874,Mind-control headset
+4389 Vulcan Podway Aft Chamber 639B,Vulcan,LD,86783,Cryogenic sleep chamber
+7597 Dragon Deck Aft Capsule 268	Gondor	KB	18283	Exosuit
+1477 Starboard Enterprise Hatch Pod 692Z		VJ	29107	Anti-gravity boots
+9461 Port Enterprise Hatch Aft Module 807|Vulcan|GL|79580|Memory erasure ray
+3764 Starboard Hobbiton Tube Forward Pod 414|Bespin|TM|52749|Memory erasure ray
+3128 Starboard Crystal Podway Aft Pod 429,Bespin,VJ,36460,Orb of prophecy
+2131 Starboard Dragon Node Capsule 71,Hoth,VJ,80796,Wormhole stabilizer
+5738 Rivendell Deck Aft 768	Hogwarts	FO	54004	Anti-gravity boots
+523 Port Enterprise Tube Pod 623P,Naboo,WH,12351,Mind-control headset
+8101 Starboard Enterprise Hatch Forward Capsule 268,Gondor,VJ,282Y5,Space elevator tether
+9402 Dragon Tube Forward ,Rivendell,EN,20576,Mind-control headset
+9234 Starboard Obsidian Sector Forward Chamber 233J,Hogwarts,SZ,26699,Orbital defense cannon
+6656 Starboard Crystal Tube Aft 877	Krypton	NR	89194	Mind-control headset
+3327 Crystal Aft Chamber 121H,Arrakis,GT,44227,Warp core
+611 Starboard Krypton Pasage Aft 768		TM	61946	Space elevator tether
+6119 Starboard Tatooine Aft Pod 517	Bespin	TM	33106	Hyperspace drive
+7464 Port Tatooine Forward 472,Dagobah,WV,64400,Quantum entanglement communicator
+4899 Coruscant Pasage Aft Pod 116Y|Minas Tirith|IJ|43367|Hyperspace drive
+5094 Port Vulcan Deck Aft Capsule 877|Gondor|CY|97689|Galactic credit chip
+4985 Crystal Podway Forward Pod 651|Gondor|KB|38722|Dyson sphere fragment
+1606 Starboard Vulcan Hatch Forward Chamber 411I|Naboo|AE|57020|Memory erasure ray
+7573 Port Vulcan Pasage Aft 623P,,SU,41272,Energy shield emitter
+6149 Dragon Tube Aft Pod 363	Gondor	SZ	92769	Teleportation pad
+8102 Starboard Enterprise Hatch Aft Chamber 989,Coruscant,OM,11439,Memory erasure ray
+8151 Starboard Podway Aft Capsule 147	Vulcan	BF	10717	Wormhole stabilizer
+9870 Krypton Podway Aft Chamber 807,Dagobah,XZ,20121,Android assistant
+8385 Port Minas Pasage Aft Chamber 570,Rivendell,KB,26308,Nanobot swarm
+9622 Wookiee Hatch Chamber 570	Rivendell	ZR	86332	Cryogenic sleep chamber
+3619 Port Krypton Node Aft Capsule 346K|Coruscant|YD|47503|Dyson sphere fragment
+7534 Starboard Vulcan Deck Aft Module 623P,Vulcan,NR,32221,Dyson sphere fragment
+8076 Port Deck Aft Chamber 121H,,SU,30249,Alien artifact shard
+5161 Starboard Obsidian Pasage Pod 411I|Naboo|HS|23294|Bioengineered symbiote
+2395 Starboard Enterprise Tube Forward 807,Coruscant,NR,26943,Starship black box
+7217 Port Sector Aft Pod 700E	Dagobah	RX	48413	Artificial gravity generator
+984 Port Hobbiton Tube Forward Module 429|Bespin|PN|98620|Anti-gravity boots
+5618 Port Crystal Hatch Pod 623P,Gondor,OM,79796,Zero-point energy module
+303 Minas Sector Aft Chamber 363|Hogwarts|OQ|96771|Artificial gravity generator
+34 Tatooine Pasage Forward Module,Hogwarts,RP,45832,Artificial gravity generator
+7248 Aft Module 591	Gondor	RX	57512	Time dilation device
+1683 Wookiee Forward Pod 523K	Hoth	JP	21081	Energy shield emitter
+5933 Port Rivendell Sector Module 517	Krypton	QA	21274	Nanobot swarm
+3018 Starboard Dragon Podway Forward 425||XZ|28984|Neural implant
+2692 Coruscant Node Forward 621B	Coruscant	RP	46569	Quantum computer core
+2348 Port Coruscant Pasage Forward 871Q|Bespin|XE|26993|Orbital defense cannon
+5876 Krypton Node Aft Chamber 429||LK|30125|Anti-gravity boots
+2387 Port Tatooine Node Forward Capsule 147,Hoth,BV,43125,Teleportation pad
+792 Port Vulcan Podway Forward Capsule 783J	Arrakis	HS	58519	Space elevator tether
+4649 Port Hobbiton Tube Pod 700E|Coruscant|XE|66547|Zero-point energy module
+9710 Starboard Hobbiton Pasage Aft Module 816J	Vulcan	RP	70853	Warp core
+3558 Starboard Obsidian Tube Module 517	Arrakis	DF	54026	Zero-point energy module
+1244 Starboard Crystal Sector Module 967Z,Naboo,CY,12925,Space elevator tether
+3367 Starboard Obsidian Pasage Aft 414	Endor	LK	60169	Dark matter containment unit
+7682 Starboard Hobbiton Tube 692Z|Arrakis|JP|84984|Anti-gravity boots
+546 Starboard Crystal Node Aft Capsule 414	Coruscant	NV	87507	Galactic credit chip
+9375 Obsidian Sector Aft Module 807|Naboo|OQ||Android assistant
+317 Starboard Hobbiton Sector Aft Capsule 967Z|Hoth|JX|19908|FTL navigation crystal
+6844 Port Krypton Hatch Aft Module 623P		GL	56333	Dyson sphere fragment
+3596 Starboard Crystal Pasage Aft 501T	Endor	TM	88505	Nanobot swarm
+3798 Hobbiton Podway Chamber 700E	Coruscant	HC	47615	Artificial gravity generator
+6564 Port Tatooine Node Forward 479,Gondor,ZR,11457,Neural implant
+1909 Starboard Deck Forward Pod 768,Arrakis,WH,42021,Teleportation pad
+7919 Starboard Enterprise Forward Capsule 877|Hoth|ZK|94314|Psionic amplifier
+7487 Starboard Krypton Aft 621B	Rivendell	LK	60290	Plasma torch
+9944 Starboard Coruscant Tube Aft Module 501T|Arrakis|QV|52118|Bio-dome habitat
+9028 Enterprise Hatch Aft Pod 800|Bespin|SU|52038|Celestial forge
+ Starboard Rivendell Sector Forward Capsule 501T	Krypton	OQ	85939	Psionic amplifier
+885 Wookiee Sector Forward Module 479	Tatooine	GT	32368	Artificial gravity generator
+4869 Port Wookiee Pasage Aft 479	Rivendell	RP	38239	Artificial gravity generator
+7265 Starboard Dragon Pasage Capsule 147	Minas Tirith	GL	58482	Psionic amplifier
+8955 Port Enterprise Deck Aft Pod 989	Vulcan	UI	20322	Quantum entanglement communicator
+1353 Starboard Coruscant Tube 265I||JP|90682|Stellar map
+4342 Port Hobbiton Podway Aft Chamber 768	Endor	WV	32382	Psionic amplifier
+7183 Port Node Forward Capsule 783J,Dagobah,SZ,82201,Psionic amplifier
+9789 Starboard Dragon Pasage Aft Module 265I,Hoth,LD,97354,Cloaking shield generator
+9164 Dragon Sector Forward Module 591,Rivendell,UI,19141,Android assistant
+5753 Enterprise Deck Forward Pod 967Z,Rivendell,ZK,11810,Wormhole stabilizer
+9905 Starboard Deck Aft Module 611Z	Endor	FO	82667	Wormhole stabilizer
+9572 Port Rivendell Hatch Aft Chamber 233J,Minas Tirith,SU,69845,Orbital defense cannon
+5740 Port Tatooine Deck Chamber 807,Gondor,XZ,64004,Orb of prophecy
+6419 Starboard Hobbiton Sector Chamber 611Z|Coruscant|EN|56292|Quantum entanglement communicator
+2557 Enterprise Podway Aft Chamber 281H	Rivendell	JX	48880	Stellar map
+9114 Port Obsidian Forward Module 390S||GL|63320|Cloaking shield generator
+6202 Port Rivendell Tube Pod 425|Minas Tirith|KB|33578|Cloaking shield generator
+2838 Starboard Hobbiton Pasage Forward Pod 121H	Naboo	SU	50499	Cloaking shield generator
+6668 Tatooine Pasage Forward Module 71		WH	30168	Memory erasure ray
+ Starboard Minas Tube Aft Module 13V	Minas Tirith	QV	47912	FTL navigation crystal
+8679 Obsidian Sector Forward Pod 116Y	Hogwarts	DF	24803	Wormhole stabilizer
+6835 Starboard Wookiee Deck Capsule 970M|Dagobah|TM|95356|Bio-dome habitat
+4813 Starboard Enterprise Deck Capsule 534|Naboo|PY||Plasma rifle
+566 Port Obsidian Pasage Aft Chamber 783J|Krypton|QV|86885|Hyperspace drive
+911 Crystal Sector Forward Module 13V|Tatooine|MQ|98168|Quantum entanglement communicator
+3772 Port Rivendell Sector Pod 147|Hoth|ZK|28636|Hyperspace drive
+517 Starboard Krypton Deck Aft Pod 800,Tatooine,VJ,,Android assistant
+6767 Port Rivendell Podway Chamber 501T|Hoth|AE|67775|Subspace beacon
+2949 Port Obsidian Node Forward Pod 700E	Dagobah	HS	94213	Bioengineered symbiote
+6286 Starboard Enterprise Forward Pod 472|Tatooine|YD|60691|AI command console
+1664 Tatooine Deck 429	Minas Tirith	BF	58453	Nanobot swarm
+7949 Obsidian Node Aft Chamber 268|Hoth|TY|19569|Lightsaber
+617 Port Tatooine Tube Aft Chamber 563A	Krypton	LD	89509	Mind-control headset
+5386 Port Rivendell Podway Forward Chamber 268	Coruscant	HC	70916	Artificial gravity generator
+9655 Port Vulcan Tube Pod 871Q,Gondor,DF,59613,Zero-point energy module
+9820 Starboard Hobbiton Pasage Forward Chamber 534||VJ|43226|Celestial forge
+685 Minas Deck Forward Module 137|Rivendell|BV|33230|Celestial forge
+559 Port Coruscant Deck Forward Pod 268|Hogwarts|RX|86416|Warp core
+7862 Port Krypton Podway Aft Pod 414	Bespin	ZR	57563	Time dilation device
+9980 Starboard Coruscant Tube Aft Pod 816J	Tatooine	GL	27840	Plasma torch
+9035 Starboard Enterprise Hatch 411I|Vulcan|XE|48057|Orb of prophecy
+5228 Starboard Vulcan Tube Aft 877|Hoth||62690|Plasma torch
+2812 Crystal Chamber 121H,Hoth,BV,59229,
+832 Tatooine Node Capsule 363,Endor,IJ,24817,AI command console
+2936 Starboard Minas Hatch Module 454C	Hogwarts	TY	89158	Bio-dome habitat
+4133 Starboard Dragon Sector Forward Chamber 147	Bespin	NV	92116	Quantum computer core
+71 Starboard Hobbiton Sector Aft Module 363	Endor	MQ	77090	
+4179 Crystal Podway Capsule 116Y|Minas Tirith|PN|91214|Energy shield emitter
+7998 Wookiee Podway 651	Krypton	QA	85550	Time dilation device
+5758 Port Hobbiton Tube Aft Pod 170B|Hogwarts|QA|49614|
+3100 Starboard Coruscant Node Aft Pod 517	Coruscant	CY	32415	Quantum entanglement communicator
+6331 Starboard Hobbiton Forward Module 472	Rivendell	PN	53407	Bioengineered symbiote
+4196 Starboard Enterprise Hatch 807|Coruscant|RP|40836|FTL navigation crystal
+3559 Starboard Wookiee Pasage Forward Pod 45W	Bespin	GL	79627	Alien artifact shard
+1207 Enterprise Hatch Forward Module 170B,Endor,BF,18774,Time travel wristband
+3547 Starboard Hobbiton Node Aft Pod 877,Vulcan,TY,99121,Teleportation pad
+7384 Wookiee Pasage Forward Pod 970M	Tatooine	FO	85424	Plasma torch
+4252 Starboard Tatooine Hatch Module 45W	Rivendell	DF	68303	Stellar map
+6474 Vulcan Deck Forward Pod 479,Krypton,DF,81580,Terraforming drone
+4184 Port Podway 591|Krypton|JX|84306|Memory erasure ray
+3244 Starboard Minas Podway Forward Pod 523K,Dagobah,NR,80665,AI command console
+1889 Port Hobbiton Capsule 871Q|Naboo|SZ|16093|Exosuit
+5377 Port Rivendell Sector Forward 570	Dagobah	EN	45414	Cryogenic sleep chamber
+7145 Obsidian Hatch Forward Module 501T	Coruscant	VJ	22638	Cloaking shield generator
+1743 Port Enterprise Deck Aft Module 147,Dagobah,WV,96508,Stellar map
+1061 Minas Deck Chamber 479|Minas Tirith|TM|43956|Energy shield emitter
+7592 Vulcan Node Capsule 623P	Hogwarts	BV	60759	Energy shield emitter
+8267 Vulcan Hatch Capsule 692Z	Hogwarts	VJ	17312	Lightsaber
+2689 Starboard Crystal Tube Module 783J,,TM,93335,Artificial gravity generator
+6459 Starboard Tatooine Pasage Forward Pod 807,Gondor,NV,49778,Dyson sphere fragment
+5308 Starboard Minas Node Forward 783J|Rivendell|TM|60190|Holographic communicator
+8678 Wookiee Tube Forward Module 533Y,Hogwarts,FO,97606,Artificial gravity generator
+8679 Starboard Obsidian Sector Forward Pod 967Z,Minas Tirith,JX,49578,Hyperspace drive
+5874 Port Tatooine Forward Pod 363	Minas Tirith	LK	79859	Quantum computer core
+1347 Port Vulcan Hatch 816J|Bespin|ZK|11783|FTL navigation crystal
+2432 Starboard Hobbiton Aft Capsule 390S|Minas Tirith|CY|78826|Terraforming drone
+5380 Obsidian Node Chamber 71|Hoth|NR|38494|Neural implant
+5956 Hobbiton Pod 651,Gondor,RX,42153,Artificial gravity generator
+2386 Starboard Wookiee Node Forward 116Y||WH|65917|Plasma rifle
+38X81 Port Hobbiton Hatch Module 45W|Dagobah|XE|14449|AI command console
+713 Port Tatooine Node Aft Chamber 265I	Vulcan	PY	37237	Terraforming drone
+2691 Obsidian Forward 170B	Gondor	XZ	88642	Wormhole stabilizer
+8713 Port Krypton Hatch Capsule 414	Bespin	SU	37111	Time dilation device
+187 Wookiee Pasage Capsule 13V|Dagobah|GT|77216|Android assistant
+1076 Starboard Pasage Module 623P	Bespin	SU	81636	Time travel wristband
+8977 Crystal Pasage Chamber 533Y|Endor|NR|44039|Space elevator tether
+9584 Vulcan 611Z|Tatooine|EN|88412|Neural implant
+5827 Vulcan Chamber 472|Hogwarts|NV|35345|
+5726 Starboard Vulcan Deck Chamber 692Z|Naboo|DF|26833|Orb of prophecy
+8616 Starboard Minas Tube Forward Module 363|Coruscant|QV|83362|Artificial gravity generator
+9089 Port Hobbiton Podway Capsule 170B|Dagobah||37649|
+5988 Rivendell Aft Pod 346K|Bespin|WV|64410|Alien artifact shard
+4413 Crystal Sector Aft Chamber 170B,Krypton,EN,22523,Nanobot swarm
+7562 Crystal Node Forward Capsule 425|Minas Tirith|OQ|52322|Holographic communicator
+9768 Wookiee Node 570	Hogwarts	RX	39665	Celestial forge
+2253 Port Crystal Node Aft Pod 411I	Hoth	ZR	62250	Hyperspace drive
+6570 Minas Tube Forward Module 591	Hogwarts	OQ	16046	Quantum entanglement communicator
+7070 Port Dragon Podway Forward Module 429	Krypton	BF	95365	Orbital defense cannon
+9499 Port Wookiee Sector Forward Chamber 768,Krypton,KB,30170,Space elevator tether
+4295 Obsidian Node Aft Pod 591|Krypton|MQ|13752|Plasma rifle
+3820 Krypton Pasage Forward 534|Endor|DF|Z7606|Bioengineered symbiote
+625 Port Tatooine Pasage 233J|Vulcan|HS|78047|Zero-point energy module
+6844 Port Hobbiton Podway Chamber 611Z|Arrakis|NV|38976|Artificial gravity generator
+5282 Port Coruscant Hatch 570	Bespin	TM	20098	Zero-point energy module
+1022 Port Crystal Deck Forward Chamber 414	Gondor	OM	59037	Plasma torch
+6140 Krypton Hatch Aft Module 13V|Hogwarts|XZ|65006|Plasma torch
+3343 Port Krypton Pasage Pod 563A		DF	73416	Holographic communicator
+4104 Starboard Hobbiton Hatch Aft Chamber 265I	Gondor	XZ	83963	Quantum computer core
+4062 Port Krypton Pasage Forward Capsule 13V,Krypton,HC,47651,Warp core
+4776 Starboard Wookiee Podway Aft Pod 623P	Vulcan	RX	45067	Psionic amplifier
+9551 Obsidian Aft 534	Dagobah	PY	22248	Stellar map
+8555 Starboard Crystal Podway Module 639B,,ZR,87986,Plasma rifle
+5100 Port Rivendell Forward Module 611Z|Endor|ZK|34121|Neural implant
+3321 Port Sector Forward Chamber 281H	Hogwarts	NV	12887	Plasma torch
+6612 Obsidian Node 871Q		JX	82420	Celestial forge
+7187 Starboard Krypton Sector Forward Chamber 807,,OQ,63609,Bio-dome habitat
+3525 Hobbiton Pasage Aft Module 116Y	Endor	JP	67111	
+8318 Starboard Crystal Forward Module 533Y|Tatooine|HC|72377|Dark matter containment unit
+8429 Starboard Obsidian Node Forward Module 268,Naboo,LK,59116,Mind-control headset
+1574 Starboard Tatooine Podway Module 570|Gondor|QA|12253|Warp core
+5255 Port Wookiee Tube Aft Pod 479|Hogwarts|RP|34337|Alien artifact shard
+3438 Port Hobbiton Pasage Capsule 816J	Arrakis	LD	49045	Artificial gravity generator
+25 Hobbiton Node Forward Pod 13V||VJ|71780|Plasma torch
+9557 Port Coruscant Node Aft Pod 570|Bespin|PN|59457|Teleportation pad
+5414 Minas Sector Aft Module 170B,Coruscant,HC,59391,Time travel wristband
+6639 Port Vulcan Pasage Aft 501T|Hoth|LD|26601|Subspace beacon
+2716 Tatooine Node Forward Pod 621B	Krypton	QA	82877	Zero-point energy module
+8503 Hobbiton Deck Aft 651,Tatooine,QV,16681,Psionic amplifier
+5597 Starboard Vulcan Podway Aft Capsule 871Q	Krypton	GT	22664	Quantum computer core
+1668 Port Dragon Sector Aft Capsule 533Y|Krypton|HS|42607|Energy shield emitter
+9917 Port Crystal Hatch Aft Pod 816J,,SU,92912,Stellar map
+8199 Starboard Krypton Pasage Aft Module 534	Arrakis	DF	21977	Quantum entanglement communicator
+5371 Port Obsidian Hatch Aft Capsule 871Q,Vulcan,MQ,,AI command console
+3544 Hatch Aft Capsule 534	Hoth	ZR	63817	Bio-dome habitat
+6387 Wookiee Sector Forward Pod 170B		OM	14425	Wormhole stabilizer
+128 Coruscant Deck Forward Chamber 621B	Tatooine	PY	73693	Zero-point energy module
+4227 Starboard Minas Pasage Forward Module 137,Minas Tirith,LK,62345,Wormhole stabilizer
+3328 Starboard Coruscant Pasage Forward Chamber 783J	Hoth	VJ	61276	Psionic amplifier
+8753 Starboard Obsidian Sector Forward Pod 147,Gondor,OQ,40450,Starship black box
+6920 Port Wookiee Hatch Chamber 639B	Endor	NR	19535	Zero-point energy module
+188 Starboard Dragon Podway Aft Pod 989,Arrakis,PN,25562,Orbital defense cannon
+189 Port Node Aft Capsule 411I	Gondor	NR	39598	Cloaking shield generator
+4861 Crystal Node Aft Chamber 13V|Coruscant|VJ|97211|Plasma rifle
+8454 Tatooine Module 700E	Endor	XE	71198	Holographic communicator
+6506 Port Wookiee Node Forward Module 816J	Rivendell	YD	86577	Genetic modification capsule
+4135 Starboard Wookiee Forward Capsule 623P|Hoth|LD|58722|Warp core
+9631 Krypton Sector Aft Capsule 563A|Tatooine|TM|34182|Quantum entanglement communicator
+5877 Port Enterprise Deck Aft 692Z	Minas Tirith	XE	45174	Anti-gravity boots
+3688 Starboard Coruscant Pasage Chamber 167|Naboo|JX|83556|Alien artifact shard
+8507 Port Krypton Node Chamber 233J	Hogwarts	BV	66162	
+6325 Port Obsidian Podway Aft Chamber 479|Bespin|RX|24915|Bio-dome habitat
+8526 Starboard Coruscant Deck Forward Chamber 783J,Hogwarts,GT,48139,Plasma rifle
+8314 Port Wookiee Tube Aft Chamber 472|Krypton|ZR|56203|Time travel wristband
+1529 Hobbiton Node Module 783J	Arrakis	JP	29391	Nanobot swarm
+2533 Starboard Minas Podway Aft Pod 692Z	Minas Tirith	PN	89499	Mind-control headset
+1729 Starboard Vulcan Tube Aft Module 265I||OM|51735|Nanobot swarm
+7621 Rivendell Pasage Aft Chamber 807	Hogwarts	RP	99538	FTL navigation crystal
+8459 Starboard Minas Hatch Aft Chamber 427H	Gondor	VJ	10003	
+6555 Starboard Enterprise Sector Aft Capsule 563A	Gondor	JP	58121	Lightsaber
+7967 Port Hobbiton Pasage 479|Minas Tirith||54274|Orbital defense cannon
+7967 Starboard Wookiee Pasage 180,Arrakis,GT,94018,Subspace beacon
+3268 Starboard Hobbiton Aft Capsule 692Z,,UI,47306,Holographic communicator
+5695 Obsidian Pasage Aft Pod 390S,Endor,ZR,10633,Subspace beacon
+7179 Crystal Tube Aft 121H,Coruscant,,14415,Wormhole stabilizer
+429 Vulcan Sector Aft Module 651|Tatooine|IJ|20653|Mind-control headset
+3082 Port Tatooine Pasage Forward 800	Krypton	BV	24748	Orb of prophecy
+6973 Starboard Tatooine Podway Forward Module |Dagobah|JX|99289|Orb of prophecy
+414 Krypton Aft Chamber 71,Gondor,GL,84276,Bioengineered symbiote
+457 Port Wookiee Node Pod 233J,Hoth,LK,38409,Dyson sphere fragment
+8405 Port Obsidian Sector Chamber 45W,Naboo,PN,70158,Time dilation device
+9547 Starboard Dragon Hatch Forward Pod 346K	Bespin	OM	56100	Genetic modification capsule
+2502 Krypton Deck Capsule 621B|Vulcan|FO|33474|Plasma torch
+3169 Port Krypton Podway Module 411I	Hoth	GT	99243	Nanobot swarm
+2790 Port Tatooine Pasage Forward Chamber 411I	Hogwarts	WH	82040	Time dilation device
+7934 Starboard Coruscant Tube Forward 281H,Rivendell,XZ,75740,Plasma torch
+9226 Wookiee Sector Forward Chamber 346K	Krypton	GL	58489	Zero-point energy module
+7091 Tatooine Pasage Chamber 429|Hogwarts|QA|94762|Time travel wristband
+6763 Starboard Obsidian Tube Forward Pod 534|Bespin|MQ|62168|Psionic amplifier
+4055 Starboard Enterprise Deck Aft Module 570,Minas Tirith,SZ,92782,Dark matter containment unit
+3932 Port Rivendell Deck Aft 563A	Naboo	WV	41174	Energy shield emitter
+2309 Port Dragon Hatch Aft Module ,Krypton,UI,88173,Dyson sphere fragment
+3516 Port Vulcan Tube Forward 501T	Arrakis	WV	12738	Cryogenic sleep chamber
+6099 Starboard Wookiee Deck Forward Pod 346K	Naboo	HC	28720	Orb of prophecy
+7269 Crystal Sector Forward Chamber 425|Minas Tirith|WV|75981|FTL navigation crystal
+2185 Port Obsidian Pasage Capsule 877,Bespin,VJ,54521,Neural implant
+6015 Port Vulcan Tube Forward Module 137,Gondor,BF,99261,Starship black box
+9499 Tatooine 45W,,JX,93099,Exosuit
+4049 Starboard Crystal Node Forward Chamber 692Z|Endor|TM|97073|Subspace beacon
+4843 Hobbiton Sector Aft Module 877	Vulcan	CK	30397	Plasma torch
+2803 Port Coruscant Sector Aft Module 13V	Rivendell	BF	78313	Time dilation device
+583 Starboard Enterprise Node Aft Capsule 	Hogwarts	AE	12523	Dark matter containment unit
+8447 Tatooine Sector Forward Module 768|Krypton|QA|93423|Nanobot swarm
+3081 Port Hobbiton Tube 692Z|Dagobah|FO|52445|Anti-gravity boots
+34 Tatooine Pasage Forward Module,Hogwarts,RP,45832,Artificial gravity generator
+9566 Port Wookiee Tube Chamber 167|Hoth|QA|58573|Subspace beacon
+6883 Port Minas Tube Forward Module 454C,Naboo,CK,18868,Zero-point energy module
+6612 Starboard Obsidian Tube Forward Pod 816J	Naboo	LD	62432	Dark matter containment unit
+8319 Port Obsidian Tube Chamber 13V	Arrakis	VJ	97746	Space elevator tether
+4069 Coruscant Forward Capsule 281H|Endor|UI|63314|Mind-control headset
+4996 Enterprise Sector Forward Pod 346K|Endor|MQ|46673|Plasma torch
+2623 Port Vulcan Podway Aft Chamber 692Z,Arrakis,PY,91817,Teleportation pad
+4172 Port Dragon Podway Aft 363	Hoth	SZ	18992	
+604 Port Vulcan Hatch Forward Chamber 523K	Endor	DF	42547	Artificial gravity generator
+601 Port Dragon Pasage Chamber 427H,Bespin,NV,43245,Teleportation pad
+6233 Port Wookiee Deck Capsule 783J	Arrakis	SZ	88710	AI command console
+406 Starboard Enterprise Hatch Aft 570|Vulcan|YD|19008|Dyson sphere fragment
+330 Port Minas Node Forward Capsule 816J	Krypton	EN	87650	Dark matter containment unit
+4522 Port Coruscant Node Aft 414|Dagobah|LD|15860|Artificial gravity generator
+8290 Starboard Obsidian Deck Pod 390S,Hoth,VJ,17136,Mind-control headset
+49 Port Hobbiton Deck 692Z|Vulcan|WV|62613|Holographic communicator
+6625 Port Minas Hatch Chamber 281H	Endor	WV	64020	Starship black box
+4607 Port Vulcan Hatch Module 265I||PN|71575|Hyperspace drive
+4167 Rivendell Forward Chamber 233J|Gondor|QV|78811|Starship black box
+545 Starboard Krypton Aft Module 180	Endor	OQ	40137	Anti-gravity boots
+2358 Starboard Rivendell Deck Chamber 116Y	Hoth	VJ	45835	Teleportation pad
+4456 Starboard Krypton Podway Aft 167||BV|30078|Energy shield emitter
+2189 Port Wookiee Tube Aft Pod 816J|Dagobah|SZ|69336|Terraforming drone
+8154 Rivendell Tube Forward 651,Coruscant,ZR,20711,Orb of prophecy
+8773 Starboard Enterprise Sector Forward 877,Dagobah,MQ,72278,FTL navigation crystal
+3165 Port Enterprise Forward Pod 570,Gondor,RP,31724,Alien artifact shard
+8876 Rivendell Deck Forward Capsule 501T	Rivendell	VJ	58235	Hyperspace drive
+1764 Starboard Dragon Hatch Aft 390S,Vulcan,CK,54612,Plasma rifle
+7955 Port Vulcan Tube Aft Capsule 147,Tatooine,YD,87914,Plasma rifle
+4022 Obsidian Tube 390S|Dagobah|NR|93251|Space elevator tether
+9096 Coruscant Chamber 425||XE|26041|Alien artifact shard
+4998 Dragon Deck Aft Chamber 989	Endor	OM	78058	Hyperspace drive
+3488 Coruscant Deck Capsule 523K,Dagobah,YD,13346,Quantum entanglement communicator
+7841 Wookiee Deck Pod 363,Vulcan,BV,27766,
+1565 Starboard Crystal Forward Capsule 233J,Endor,OQ,95895,Plasma rifle
+9602 Obsidian Node Forward Module 651	Hogwarts	PN	74501	Time dilation device
+9956 Obsidian Node Module 816J,Naboo,XZ,67492,Quantum computer core
+686 Port Enterprise Pod 534	Krypton	MQ	59800	Psionic amplifier
+1432 Wookiee Tube Pod 768,Naboo,DF,18711,Terraforming drone
+4133 Rivendell Podway Forward Pod 233J,Bespin,OQ,19168,Space elevator tether
+6344 Tatooine Aft 	Hogwarts	OM	77731	Teleportation pad
+4180 Starboard Coruscant Tube Forward Pod 167|Krypton|JP|97869|Orbital defense cannon
+1604 Starboard Hobbiton Podway Aft Pod 13V|Minas Tirith|TY|90411|Bioengineered symbiote
+9546 Node Pod 700E||VJ|22464|Zero-point energy module
+7025 Starboard Deck Aft 591|Krypton|YD|80804|Nanobot swarm
+8569 Port Tube Aft Chamber 180|Minas Tirith|UI|92507|Dark matter containment unit
+257 Port Tatooine Podway Aft Capsule 268	Krypton	JP	27736	Cryogenic sleep chamber
+963 Vulcan Tube Aft Chamber 639B	Coruscant	RP	47200	Zero-point energy module
+966 Starboard Coruscant Sector Pod 639B	Hoth	JP	81549	Genetic modification capsule
+9337 Obsidian Pasage Forward Pod 621B,Hoth,SU,46790,Wormhole stabilizer
+5968 Wookiee Deck Forward 454C|Endor|KB|26959|Time travel wristband
+8260 Enterprise Hatch Chamber 425	Krypton	QA	17362	Terraforming drone
+6727 Starboard Rivendell Pasage 13V	Rivendell	FO	56479	Plasma torch
+5811 Enterprise 877,Tatooine,VJ,11709,Hyperspace drive
+ Starboard Krypton Sector Aft Module 363,Hoth,TY,75926,Lightsaber
+3131 Wookiee Podway Aft Chamber 180,Arrakis,NV,20081,Genetic modification capsule
+1073 Port Minas Deck Module 563A,Krypton,IJ,42003,Warp core
+6857 Crystal Deck Aft 651	Arrakis	BV	32111	Subspace beacon
+1331 Port Minas Module 363	Coruscant	QV	81078	Psionic amplifier
+6212 Port Tatooine Podway Module 967Z,Hogwarts,BV,,
+5980 Wookiee Sector Forward Module 411I	Dagobah	AE	73327	Space elevator tether
+8497 Vulcan Podway Forward Module 233J|Hogwarts|PY|42707|Terraforming drone
+7772 Port Krypton Hatch Forward 180	Rivendell	GT	53520	Android assistant
+7708 Vulcan Hatch Forward 427H,Gondor,GL,77124,Time dilation device
+1732 Port Dragon Sector Forward Pod 570	Minas Tirith	UI	52371	Stellar map
+949 Port Obsidian Node Aft Pod 180,Bespin,LD,50383,Space elevator tether
+1757 Wookiee Deck Aft Chamber 116Y,Bespin,RP,62187,Genetic modification capsule
+3392 Port Krypton Sector Forward Pod 989,Tatooine,OQ,30956,FTL navigation crystal
+3008 Krypton Node Capsule 807,Naboo,VJ,94290,Exosuit
+1431 Starboard Crystal Node Aft Module 427H|Tatooine|EN|38546|Subspace beacon
+5218 Coruscant Hatch Forward Module 268,Minas Tirith,KB,46636,Cryogenic sleep chamber
+4668 Starboard Minas Pasage Forward 970M|Minas Tirith|DF|86723|Plasma torch
+1509 Starboard Hatch Aft Capsule 472|Minas Tirith|FO|31719|Stellar map
+7749 Starboard Minas Deck Chamber 180	Bespin	RP	79486	Hyperspace drive
+2996 Starboard Krypton Sector Aft Module 170B	Coruscant	ZR	59451	Quantum entanglement communicator
+9110 Starboard Enterprise Tube Aft Module 414	Krypton	GL	42861	Wormhole stabilizer
+3045 Starboard Krypton Node Capsule 137,Hoth,QA,93738,
+8853 Crystal Tube Capsule 472,Minas Tirith,XE,42721,Plasma torch
+8453 Port Enterprise Tube Capsule 363	Hogwarts	XE	96451	Cryogenic sleep chamber
+1955 Port Minas Deck Forward Pod 233J,Gondor,QV,16358,Galactic credit chip
+2644 Starboard Wookiee Sector Forward Module 121H	Rivendell	SZ	57891	Space elevator tether
+4732 Starboard Vulcan Deck Pod 563A|Arrakis|FO|30341|Time dilation device
+9698 Aft Pod 13V|Krypton|GT|58618|Genetic modification capsule
+6761 Port Forward Capsule 591,Tatooine,AE,40044,Wormhole stabilizer
+3970 Wookiee Podway Forward Module 970M,Krypton,SU,25827,Alien artifact shard
+932 Starboard Tatooine Node Aft Capsule 563A	Gondor	HS	13355	Teleportation pad
+8058 Port Crystal Pasage Forward Module 121H,Vulcan,YD,91936,Teleportation pad
+8002 Starboard Hobbiton Podway Forward 425|Endor|WH|32542|Lightsaber
+1397 Starboard Obsidian Hatch Pod 639B|Dagobah|UI|51817|Subspace beacon
+6270 Port Minas Forward Capsule 807,Bespin,IJ,43615,AI command console
+1098 Port Wookiee Pasage Forward 414,Krypton,BV,46320,Space elevator tether
+7572 Port Vulcan Tube Module 621B,Dagobah,IJ,42791,Time dilation device
+8177 Port Rivendell Deck Forward Pod 414,Endor,NR,65061,Warp core
+1847 Starboard Krypton Sector 621B	Naboo		41807	Celestial forge
+9317 Rivendell Podway Forward Pod 45W,Minas Tirith,DF,86574,Plasma rifle
+8831 Starboard Rivendell Podway Aft 807	Hoth	JP		Bioengineered symbiote
+545 Port Wookiee Deck 651|Krypton|QV|83957|Neural implant
+3712 Port Tatooine Sector Chamber 623P	Tatooine	QV	13686	Time dilation device
+8710 Enterprise Tube Aft Chamber 621B		FO	89229	Neural implant
+8120 Starboard Pasage Chamber 591|Krypton|OM|27396|Quantum entanglement communicator
+9264 Starboard Coruscant Hatch Forward Pod 	Rivendell	SZ	76850	Lightsaber
+4591 Starboard Enterprise Podway Module 621B,Krypton,RP,37759,Energy shield emitter
+6534 Starboard Podway Capsule 651	Dagobah	SU	61996	Zero-point energy module
+8684 Starboard Minas Deck Forward Pod 411I	Dagobah	SU	85762	FTL navigation crystal
+8078 Port Hobbiton Tube Chamber 700E	Hogwarts	CK	35809	Lightsaber
+9090 Coruscant Deck Forward Pod 623P	Tatooine	AE	60273	Holographic communicator
+3456 Port Enterprise Deck ,Tatooine,OM,89877,
+1602 Crystal Pasage Aft Chamber 265I,Arrakis,TY,61509,
+9866 Krypton Node Forward Module 116Y|Vulcan|FO|36581|
+6434 Port Hobbiton Module 700E|Minas Tirith|ZR|98923|Energy shield emitter
+6458 Dragon Pasage Chamber 877	Arrakis	RX	29747	Teleportation pad
+9876 Minas Sector Aft Pod 390S|Hoth|OM|17733|Time travel wristband
+2208 Port Dragon Tube Chamber 533Y|Hoth|OQ|15764|Cryogenic sleep chamber
+4328 Enterprise Tube 281H||RP|67530|Dyson sphere fragment
+7320 Wookiee Node Aft Module 523K||EN|95304|Bioengineered symbiote
+5245 Port Minas Podway 265I|Gondor|WV|88535|Quantum entanglement communicator
+5835 Starboard Krypton Deck Aft Module 800	Vulcan	VJ	24413	Starship black box
+4585 Starboard Tatooine Deck Chamber 71,Bespin,MQ,91833,Orb of prophecy
+4746 Minas Tube Forward 121H,Hogwarts,DF,81561,Cloaking shield generator
+8282 Rivendell Sector Aft 534||CY|88313|Android assistant
+3278 Port Dragon Podway Forward Chamber 533Y|Arrakis|DF|27957|Quantum entanglement communicator
+3045 Starboard Crystal Sector 570,Dagobah,MQ,77141,Space elevator tether
+5633 Port Dragon Node Forward 768	Dagobah	ZK	52050	Quantum entanglement communicator
+4635 Port Rivendell Aft Pod 425|Rivendell|KB|37351|Anti-gravity boots
+4312 Enterprise Sector 180,Naboo,KB,59755,Holographic communicator
+7620 Port Crystal Node Aft Chamber 611Z,Tatooine,CY,44533,Plasma rifle
+1818 Port Krypton Deck Module 591		RP	89793	Terraforming drone
+1988 Starboard Enterprise Deck Forward Capsule 425	Minas Tirith	GL	61754	Quantum entanglement communicator
+454 Port Dragon Deck Chamber 427H,Hogwarts,TM,89729,Zero-point energy module
+5480 Rivendell Pod 692Z	Hogwarts	XZ	23123	Cryogenic sleep chamber
+6527 Starboard Tatooine Podway 411I	Endor	GL	22053	Dark matter containment unit
+5606 Starboard Node Aft 472|Hogwarts|CK|65625|Exosuit
+1494 Port Podway Aft 281H|Coruscant|EN|32277|Nanobot swarm
+3817 Port Tatooine Hatch Forward Pod 967Z,Coruscant,BF,90673,Orbital defense cannon
+7237 Node Aft Capsule 621B|Tatooine|CY|13529|Quantum computer core
+212 Starboard Hobbiton Sector Module 639B,Arrakis,GL,42016,Psionic amplifier
+4307 Starboard Podway Forward Chamber 13V		FO	74962	Quantum computer core
+7368 Minas Hatch Forward Module 147	Krypton	RX	86998	Lightsaber
+8 Starboard Minas Sector Forward Capsule 479|Hoth|FO|76662|Time dilation device
+4576 Crystal Deck Aft Chamber 700E	Hoth	VJ	56518	Warp core
+6609 Starboard Krypton Sector Forward Chamber 623P|Vulcan|SU|78577|Zero-point energy module
+6655 Starboard Enterprise Pasage Aft Capsule 281H|Krypton|DF|43023|Quantum computer core
+4284 Port Krypton Aft Pod 116Y	Coruscant	GL	62714	Dark matter containment unit
+5685 Krypton Sector Forward Chamber 472,Endor,BF,92683,Memory erasure ray
+494 Starboard Coruscant Sector Forward Module 783J	Minas Tirith	WV	83947	Zero-point energy module
+7105 Port Crystal Hatch Chamber 116Y	Hogwarts	PN	46181	Subspace beacon
+552 Starboard Coruscant Pasage Pod 265I|Krypton|QA|21253|Memory erasure ray
+4516 Starboard Tatooine Hatch Forward 13V	Arrakis	MQ	75368	Orbital defense cannon
+6057 Port Minas Podway Aft Chamber 563A,Vulcan,HS,33554,Plasma rifle
+9391 Port Minas Hatch Aft Module 871Q	Minas Tirith	OM	62702	Warp core
+2667 Port Dragon Hatch Forward Module 970M|Dagobah|TY|36185|Dark matter containment unit
+7819 Starboard Dragon Tube Aft 71	Vulcan	TM	60452	Plasma rifle
+2182 Port Tatooine Tube Aft Chamber 967Z|Bespin|DF|72662|Bioengineered symbiote
+9600 Krypton Forward Capsule 454C,Endor,OQ,96793,AI command console
+2376 Starboard Wookiee Pasage Forward Chamber 563A|Minas Tirith|BF|72023|Warp core
+4270 Krypton Pasage Forward 534	Naboo	QA	73783	Quantum entanglement communicator
+2515 Port Coruscant Tube Aft 390S		QA	26967	Genetic modification capsule
+3203 Starboard Obsidian Tube Aft Module 563A	Krypton	KB	67599	Warp core
+4701 Starboard Vulcan Forward 180,Hoth,DF,19406,Subspace beacon
+2945 Krypton Hatch Aft Chamber 346K|Krypton|PY|82529|Orb of prophecy
+3611 Port Obsidian Deck Capsule 611Z	Endor	HC	50046	Hyperspace drive
+2661 Rivendell Hatch Aft Pod 967Z,Naboo,KB,63304,Cloaking shield generator
+680 Starboard Enterprise Sector Aft 807	Dagobah	OM	22734	Subspace beacon
+7163 Starboard Obsidian Node Aft Capsule 563A,Naboo,QA,79996,Terraforming drone
+8669 Hobbiton Deck Chamber 268	Tatooine	TY	53994	
+4190 Starboard Obsidian Sector Forward |Gondor|LK|56920|Lightsaber
+ Obsidian Deck Chamber 800,Hogwarts,NR,60409,Subspace beacon
+9163 Port Krypton Capsule 816J,Rivendell,VJ,65935,Neural implant
+4941 Enterprise Tube Capsule 265I|Minas Tirith|CK|49512|Memory erasure ray
+2977 Vulcan Tube Forward Chamber 800,Minas Tirith,LD,17232,Subspace beacon
+4683 Starboard Coruscant Deck Pod 651,Naboo,LD,98019,Exosuit
+4145 Starboard Tatooine Sector Aft Pod 71	Coruscant	GL	72719	Dark matter containment unit
+4443 Starboard Enterprise Deck Forward Capsule 13V,Vulcan,BV,31275,Cloaking shield generator
+5266 Port Enterprise Deck Chamber 639B|Minas Tirith|CK|78529|Lightsaber
+3401 Starboard Dragon Deck Forward Pod 768|Hogwarts|OQ|12618|Starship black box
+3463 Coruscant Sector Chamber 591,Hoth,PY,85632,Anti-gravity boots
+2114 Port Dragon Sector Aft Pod 651	Endor	ZK	33242	Quantum entanglement communicator
+5078 Starboard Tatooine Tube 121H,Minas Tirith,ZK,24274,
+290 Port Tatooine Hatch Aft Capsule 281H|Rivendell|VJ|63684|Genetic modification capsule
+1710 Starboard Obsidian Forward Module 700E	Dagobah	PY	77688	Android assistant
+ Port Coruscant Forward Capsule 170B,Hogwarts,CY,11387,Galactic credit chip
+1138 Crystal Deck Forward 517|Arrakis|SU|35260|Holographic communicator
+7561 Port Krypton Aft Module 692Z	Vulcan	XE	69362	FTL navigation crystal
+110 Hobbiton Sector Aft Chamber 170B|Hoth|WV|56156|Cloaking shield generator
+4462 Port Wookiee Sector Aft Module 692Z|Coruscant|XZ|82335|Stellar map
+2805 Obsidian Pasage Aft Pod 967Z	Bespin	SZ	25944	Cryogenic sleep chamber
+3576 Obsidian Node Forward Capsule 563A,Krypton,EN,43768,Galactic credit chip
+9489 Port Wookiee Pasage Aft Chamber 479	Hogwarts	BV	68230	Exosuit
+1316 Starboard Coruscant Deck Aft Pod 970M|Dagobah|IJ|82115|Bio-dome habitat
+5639 Starboard Dragon Sector Aft Chamber 591,Vulcan,WV,89017,Bio-dome habitat
+3095 Port Vulcan Node Forward Capsule 147,Tatooine,BF,43296,Quantum entanglement communicator
+9849 Hobbiton Hatch Chamber 611Z|Krypton|GL|84538|Time dilation device
+9831 Starboard Vulcan Hatch Forward Capsule 700E	Gondor	MQ	86905	Genetic modification capsule
+9213 Starboard Obsidian Sector Pod 137,Rivendell,RP,61639,Nanobot swarm
+4827 Port Crystal Forward Module 13V|Vulcan|CY|49000|Bioengineered symbiote
+6138 Port Obsidian Deck Forward Capsule 639B	Bespin	ZR	83527	Quantum entanglement communicator
+1894 Hobbiton Tube 800,Coruscant,FO,72556,Mind-control headset
+300 Krypton Tube 265I	Krypton	UI	49599	FTL navigation crystal
+2867 Starboard Minas Podway Module 414|Naboo|TM|89473|Energy shield emitter
+1449 Starboard Rivendell Capsule 479	Arrakis	BF	49052	Time travel wristband
+3808 Enterprise Podway Chamber ,Hoth,CY,91219,Android assistant
+8666 Port Coruscant Hatch Capsule 970M,Minas Tirith,SU,30702,Lightsaber
+7089 Port Rivendell Pasage 967Z,Naboo,AE,72471,Artificial gravity generator
+8915 Port Coruscant Hatch 692Z,Arrakis,DF,74745,Celestial forge
+6649 Port Tatooine Deck Aft Module 623P|Rivendell|XZ|75434|Alien artifact shard
+5879 Starboard Coruscant Forward Pod 363,Vulcan,GL,23544,Terraforming drone
+8028 Port Enterprise Hatch Forward 479,Krypton,BF,33467,Lightsaber
+4618 Port Dragon Tube Pod 170B|Krypton|TY|85823|Dark matter containment unit
+6395 Tatooine Pasage Aft Chamber 700E|Arrakis|PY|94972|Android assistant
+34 Tatooine Pasage Forward Module,Hogwarts,RP,45832,Artificial gravity generator
+ Port Tube Module 639B,Coruscant,SU,,Nanobot swarm
+1532 Port Wookiee Pasage Aft Chamber 816J||PN|19024|Mind-control headset
+5544 Starboard Obsidian Node 121H,,MQ,53171,Android assistant
+8867 Crystal Tube Forward Pod 768		QA		Galactic credit chip
+6517 Port Obsidian Tube 116Y,Gondor,SU,94497,Orb of prophecy
+164 Port Minas Deck Forward Capsule 783J	Bespin	IJ	65330	Plasma torch
+7781 Minas Pasage Chamber 472,,RP,55937,Orbital defense cannon
+5291 Starboard Wookiee Deck Aft 425|Hoth|OM|24572|Starship black box
+4490 Starboard Rivendell Hatch Forward 570	Dagobah	MQ	33085	Alien artifact shard
+6052 Port Tube Capsule 13V,Arrakis,,50795,Terraforming drone
+5676 Enterprise Forward Chamber 700E,Gondor,GT,64614,Cryogenic sleep chamber
+7530 Port Krypton Node Forward 800	Naboo	SU	44220	Orbital defense cannon
+1155 Obsidian Podway Forward Chamber 517,Hoth,NV,24685,Energy shield emitter
+9794 Starboard Crystal Pasage Forward Capsule 700E,Bespin,QV,78637,AI command console
+696 Krypton Forward Module 363,Dagobah,GL,96006,Memory erasure ray
+7466 Starboard Node Forward Module ,Rivendell,CK,36241,Plasma torch
+571 Starboard Dragon Pasage Pod 967Z,Hogwarts,QA,94514,Quantum entanglement communicator
+4247 Starboard Tatooine Tube Forward Chamber 639B,Gondor,PY,16065,AI command console
+9790 Starboard Dragon Pasage Aft 783J	Bespin	GT	99220	Anti-gravity boots
+1460 Port Minas Node Forward Chamber 871Q	Gondor	PN	51189	Terraforming drone
+1649 Port Minas Tube Forward Chamber 233J,Hoth,QV,48927,Android assistant
+1168 Port Coruscant Pasage Forward Pod 414|Krypton|YD|55960|Lightsaber
+4127 Port Rivendell Pasage Aft Module 989,Endor,CY,,Plasma rifle
+3107 Crystal Pasage Aft Module 427H||AE|64036|Quantum computer core
+9705 Krypton Sector Pod 700E|Hoth|LK|93430|Mind-control headset
+1717 Port Tatooine Tube Module 517|Krypton|GT|82360|Exosuit
+4941 Port Wookiee Sector Module 479	Bespin	RP	20462	Wormhole stabilizer
+6559 Port Enterprise Deck Aft Capsule 534|Hogwarts|CY|17146|Plasma rifle
+3003 Port Pasage Chamber 523K|Gondor|RP|55841|Terraforming drone
+1417 Port Dragon Tube Aft Pod 427H,Minas Tirith,FO,53056,Zero-point energy module
+1587 Dragon Sector Forward Module |Arrakis|NR|85109|Bioengineered symbiote
+5816 Crystal Sector Capsule 71|Hogwarts|OM||Energy shield emitter
+2948 Port Podway Aft Capsule 116Y	Krypton	FO	59978	Memory erasure ray
+2237 Port Wookiee Tube Forward Chamber 523K,Coruscant,PY,,Memory erasure ray
+5279 Port Node Aft Chamber 390S	Arrakis	NR	53860	Lightsaber
+3487 Port Crystal Node Aft 479,Krypton,NR,74759,Artificial gravity generator
+3575 Starboard Podway Module 137,Hoth,QV,80375,Cryogenic sleep chamber
+84 Starboard Dragon Tube 45W,Minas Tirith,UI,13788,Alien artifact shard
+7093 Rivendell Hatch Aft Module 570,Hoth,BV,75886,
+3156 Hobbiton Pasage 265I	Endor	SZ	57748	Orb of prophecy
+6661 Starboard Enterprise Deck Module 363|Dagobah|OQ|99717|Lightsaber
+2784 Starboard Dragon Pasage Forward Module 147,Bespin,HS,,FTL navigation crystal
+2377 Coruscant Tube Aft Capsule 	Tatooine	LK	31636	Bio-dome habitat
+1017 Port Rivendell Node Forward Chamber 700E	Naboo	NV	93615	AI command console
+7366 Vulcan Pasage Aft Module 265I|Vulcan|LK|34455|Orb of prophecy
+7818 Starboard Coruscant Hatch Aft Module 427H|Dagobah|IJ|80082|Orb of prophecy
+7178 Port Crystal Tube Aft Capsule 623P|Coruscant|LD|20814|Lightsaber
+8666 Rivendell Sector Aft Capsule 692Z,Rivendell,BF,83934,Quantum computer core
+ Pasage Aft Pod 71|Dagobah|NV|94120|Orb of prophecy
+5639 Starboard Vulcan Sector Aft Module 533Y,Endor,WH,57477,Orbital defense cannon
+6120 Starboard Tatooine Tube Forward Capsule 414	Dagobah	WH	55378	Wormhole stabilizer
+1090 Port Minas Podway Pod 363	Hogwarts	NR	31516	Psionic amplifier
+4525 Port Vulcan Pasage Aft Module 265I,Krypton,OQ,22287,Galactic credit chip
+8984 Port Hobbiton Sector Forward Pod 170B	Bespin	IJ	80362	Quantum computer core
+6989 Rivendell Deck Module 425,Hogwarts,KB,60335,Bioengineered symbiote
+732 Starboard Wookiee Pasage Aft 591|Dagobah|FO|30997|Memory erasure ray
+9000 Port Sector Pod 563A	Rivendell	LD	76466	Dyson sphere fragment
+9816 Starboard Rivendell Pasage Forward Pod 523K|Coruscant|GL|40360|Lightsaber
+913 Port Enterprise Pasage Aft Chamber 71,Hogwarts,JP,61081,Nanobot swarm
+1286 Crystal Hatch Forward 768	Tatooine	TY	22130	Starship black box
+9466 Starboard Obsidian Aft Chamber 768||GL|79607|Hyperspace drive
+1670 Krypton Pasage Forward Capsule 783J,,QV,84594,Space elevator tether
+2524 Port Crystal Sector 265I,Minas Tirith,IJ,45818,Time dilation device
+6989 Dragon Tube Forward 281H,Endor,NR,66060,
+1811 Hobbiton Tube Forward Chamber 281H	Gondor	IJ	36634	Dyson sphere fragment
+8722 Dragon Tube Aft Chamber 692Z,Hogwarts,PN,21676,Exosuit
+2733 Crystal Sector Capsule 623P	Rivendell	TY	58635	Teleportation pad
+9820 Starboard Crystal Node Forward Module 970M|Bespin|AE|89557|Cryogenic sleep chamber
+213 Starboard Krypton Node Capsule 970M|Bespin|XE|18904|Psionic amplifier
+2002 Starboard Enterprise Deck Forward Capsule 639B		LK	56226	Lightsaber
+4379 Rivendell Podway Aft Chamber 967Z,Krypton,VJ,15013,Warp core
+7806 Port Tatooine Pasage Module 871Q	Dagobah	BV	94012	Android assistant
+4843 Port Coruscant Pasage Forward Pod 534,Rivendell,AE,42981,Dyson sphere fragment
+517 Starboard Krypton Deck After Pd 800,Tatooine,VJ,,Android assistant
+1055 Tatooine Podway Module 692Z	Minas Tirith	HS	75354	Time travel wristband
+4663 Port Coruscant Podway Aft Pod 390S	Coruscant	FO	69453	Teleportation pad
+3727 Port Rivendell Hatch Capsule 563A,Coruscant,TM,14654,Galactic credit chip
+4902 Vulcan Node Aft 281H|Minas Tirith|HS|87653|Hyperspace drive
+3476 Starboard Obsidian Hatch Chamber 783J||OQ|87350|Exosuit
+3854 Port Hobbiton Sector Aft Chamber 871Q|Arrakis|PY|66596|Exosuit
+7424 Port Crystal Deck 970M	Gondor	NR	26144	Android assistant
+7063 Port Coruscant Deck Pod 871Q	Rivendell	FO	59658	Mind-control headset
+7616 Minas Node Aft Chamber 967Z,Dagobah,RP,12485,Subspace beacon
+2799 Port Vulcan Hatch 137	Minas Tirith	MQ	74227	Starship black box
+6039 Starboard Dragon Deck Forward Capsule 967Z|Naboo|EN|92302|Wormhole stabilizer
+6586 Port Krypton Pasage Pod 479|Arrakis|WH|52059|Space elevator tether
+34 Tatooine Pasage Forward Module|Hogwarts|RP|45832|Artificial gravity generator
+3779 Starboard Crystal Pasage Forward Capsule 639B|Hoth|CK|88410|Nanobot swarm
+788 Obsidian Pasage Pod 533Y|Dagobah|OQ|27389|Bioengineered symbiote
+2654 Port Krypton Tube Capsule 425|Vulcan|OM|12594|Genetic modification capsule
+3529 Starboard Vulcan Pasage Forward Chamber 479,Dagobah,FO,84952,Hyperspace drive
+313 Starboard Obsidian Hatch 121H|Vulcan|GL|26281|Quantum computer core
+9208 Port Vulcan Tube Pod 563A,Naboo,OM,31370,Mind-control headset
+2861 Port Minas Module 989|Naboo|NR|61083|Time travel wristband
+2508 Podway Aft Pod 692Z,Tatooine,LK,71610,Bio-dome habitat
+2439 Enterprise Podway Aft Module 639B	Tatooine	PY	54095	Plasma rifle
+5558 Vulcan Node Aft Pod 783J	Rivendell	RP	46662	Galactic credit chip
+5083 Port Coruscant Sector Aft Chamber 816J,Tatooine,LK,93375,Memory erasure ray
+196 Crystal Aft Chamber 411I|Rivendell|SU|75708|Artificial gravity generator
+8674 Hobbiton Pasage Aft 281H,Vulcan,JX,42491,Anti-gravity boots
+9468 Port Krypton Tube 268|Vulcan|XZ|10920|FTL navigation crystal
+821 Crystal Podway Chamber 700E,Dagobah,CK,91695,Starship black box
+5173 Crystal Hatch Aft Module 623P	Krypton	OM	92867	Stellar map
+9401 Vulcan Hatch Aft Module 807	Gondor	JX	75677	Starship black box
+2087 Starboard Obsidian Pasage Aft Module 533Y,Arrakis,ZR,12713,Artificial gravity generator
+3116 Port Hobbiton Hatch Capsule 411I,Coruscant,TM,23620,Plasma rifle
+61 Coruscant Hatch Aft Chamber 816J	Hogwarts	EN	65396	Artificial gravity generator
+807 Port Minas Podway Aft Capsule 411I	Naboo	GT	42200	Artificial gravity generator
+5436 Starboard Hatch Forward Module 611Z,Dagobah,HS,15192,Nanobot swarm
+8184 Starboard Dragon Sector Chamber 768,Krypton,CK,29678,Dyson sphere fragment
+9214 Port Enterprise Deck Pod 265I	Minas Tirith	ZK	93541	Anti-gravity boots
+1149 Minas Sector Forward Pod 429|Dagobah|FO|86017|Time travel wristband
+9018 Port Wookiee Tube Aft Chamber 517	Dagobah	NR	56752	Bio-dome habitat
+2022 Starboard Enterprise Tube Forward 346K	Dagobah	MQ	87547	Galactic credit chip
+9507 Starboard Podway 591|Coruscant|ZR|97209|Cryogenic sleep chamber
+8306 Starboard Vulcan Node Aft Pod 346K|Tatooine|PN|63095|Nanobot swarm
+1885 Crystal Hatch Forward Capsule 651,Krypton,TY,88452,Plasma rifle
+8521 Starboard Rivendell Pasage Pod 871Q|Naboo|JX|40895|Cloaking shield generator
+3527 Starboard Krypton Podway Aft Chamber 570	Gondor	CY	68545	Quantum computer core
+4143 Pasage Aft Chamber 346K|Hogwarts|ZK|94986|Orb of prophecy
+8793 Starboard Enterprise Aft Pod 563A	Coruscant	QV	65189	Zero-point energy module
+1796 Starboard Dragon Hatch Forward Module 411I	Hoth	GL	44662	Subspace beacon
+6085 Port Deck 783J	Minas Tirith	TY	13885	Space elevator tether
+11 Hobbiton Node Aft Module 414,Arrakis,LK,37144,Quantum computer core
+8791 Port Hobbiton Deck Aft Chamber 170B	Rivendell	GT	86442	Cryogenic sleep chamber
+3199 Starboard Minas Forward Module 501T,Gondor,UI,89065,Anti-gravity boots
+6676 Starboard Wookiee Node Forward Chamber 591|Bespin|FO|33194|Dark matter containment unit
+6162 Port Enterprise Sector Aft Pod 427H	Rivendell	CK	14751	AI command console
+6844 Hobbiton Node Aft Chamber 281H,Vulcan,TY,55700,Android assistant
+34 Tatooine Pasage Forward Module,Hogwarts,RP,45832,Artificial gravity generator
+1561 Tatooine Hatch 877	Hogwarts	RP	30877	Psionic amplifier
+918 Starboard Enterprise Tube Chamber 692Z	Minas Tirith	BV	10419	Celestial forge
+6413 Hobbiton Podway Aft Capsule 	Arrakis	UI	69618	Lightsaber
+7595 Starboard Rivendell Podway Pod 816J,Vulcan,NR,89631,Exosuit
+8877 Obsidian Sector Forward Chamber 563A|Rivendell|NV|98644|Galactic credit chip
+2253 Obsidian Sector 877|Hogwarts|BV|68785|Wormhole stabilizer
+9118 Port Rivendell Hatch Capsule 563A|Dagobah|YD|65871|Space elevator tether
+1.6180339,Krypton,FO,60279,Celestial forge
+8587 Dragon Deck Module 363|Bespin|KB|95064|Stellar map
+97 Krypton Forward Chamber 170B	Dagobah	UI	55751	Plasma rifle
+5813 Starboard Obsidian Pasage Forward Pod 816J|Naboo|IJ|22958|Holographic communicator
+ Port Pasage Chamber 877,Tatooine,RX,64069,Android assistant
+3834 Starboard Rivendell Node Aft Capsule 970M,Rivendell,NR,54849,AI command console
+8191 Krypton Hatch Aft Chamber 429	Rivendell	GT	85977	FTL navigation crystal
+6220 Port Crystal Pasage Chamber 180|Rivendell|QV|49295|Quantum computer core
+1371 Krypton Hatch Aft 414,Coruscant,CK,13243,Subspace beacon
+5623 Port Hobbiton Sector 429	Hoth	NV	11171	Galactic credit chip
+9350 Krypton Sector Forward Chamber 534,Hogwarts,ZR,46860,Genetic modification capsule
+4461 Obsidian Pasage Pod 411I,Gondor,NV,45220,Stellar map
+2352 Port Enterprise Pasage Aft Chamber 363,Hoth,KB,94524,Genetic modification capsule
+534 Wookiee Sector Aft Capsule 363,Gondor,LD,51372,Orbital defense cannon
+78 Starboard Crystal Node Forward 281H	Naboo	TM	79796	Holographic communicator
+7192 Starboard Wookiee Podway Forward Pod 816J,Krypton,LK,11983,Hyperspace drive
+9445 Tatooine Forward Pod 116Y	Gondor	DF	45724	Lightsaber
+9652 Hobbiton Hatch Forward Module 563A	Hoth	SZ	78656	Teleportation pad
+5279 Port Enterprise Deck Chamber 591,Naboo,NR,17269,Time dilation device
+9785 Crystal Deck Aft 346K,Hogwarts,HS,44358,Time travel wristband
+1453 Port Enterprise Podway Forward Pod 180,Hogwarts,LD,91137,
+90 Starboard Tatooine Podway Chamber 533Y|Gondor|YD|59661|Wormhole stabilizer
+7781 Vulcan Deck Forward Module 390S||OM||Lightsaber
+5136 Wookiee Forward Capsule 411I|Dagobah|GT|73873|Bio-dome habitat
+2426 Port Obsidian Forward 807	Bespin	RX	24435	Artificial gravity generator
+2866 Vulcan Podway Capsule 523K|Hogwarts|HS|37686|Mind-control headset
+2469 Starboard Coruscant Node Chamber 621B	Endor	TM	54553	Plasma rifle
+7400 Port Minas Hatch Chamber ,Hogwarts,OM,68062,Memory erasure ray
+1949 Port Vulcan Tube Chamber 427H|Hogwarts|GT|97518|Cloaking shield generator
+2147 Enterprise Tube Module ,Bespin,LK,61686,Starship black box
+8628 Starboard Minas Tube Aft Pod 768,Arrakis,NV,96102,Terraforming drone
+2559 Starboard Minas Forward 13V|Coruscant|QA|53051|Nanobot swarm
+219 Port Krypton Hatch Module 137|Hogwarts|XE|56312|Lightsaber
+9186 Obsidian Deck Aft 591|Bespin|RP|89156|Terraforming drone
+3866 Starboard Vulcan Podway Aft Module 611Z,Arrakis,DF,89499,Bioengineered symbiote
+9895 Port Wookiee Podway Forward Capsule 523K|Rivendell|JP|54181|Mind-control headset
+2877 Port Minas Deck Aft Capsule 13V||SU|75689|Lightsaber
+2996 Port Dragon Hatch Pod 877,Vulcan,BF,22155,Anti-gravity boots
+9635 Port Hobbiton Podway Aft Chamber 268||IJ|81969|
+8048 Coruscant Pasage Aft Pod 167|Vulcan|GT|97890|Terraforming drone
+6391 Port Vulcan Aft Module 623P,Bespin,NV,98267,
+959 Port Crystal Deck Forward 13V	Rivendell	QA	11227	Cryogenic sleep chamber
+9939 Tatooine Module 700E		QV	23940	Memory erasure ray
+3069 Coruscant Podway Forward Module 871Q|Hoth|BV|93181|Nanobot swarm
+2572 Starboard Enterprise Hatch Aft Chamber 871Q	Hoth	LD	28230	Zero-point energy module
+9857 Starboard Krypton Pasage Forward Pod 479,Vulcan,GT,57100,Starship black box
+3658 Hobbiton Podway Module 346K,Rivendell,SZ,69075,Nanobot swarm
+9803 Starboard Minas Forward Module 989	Coruscant	DF	22913	Alien artifact shard
+3918 Vulcan Node Aft Pod 970M	Hoth	PY	97915	Time dilation device
+9297 Vulcan Podway Forward Chamber 268	Krypton	AE	82082	Teleportation pad
+7160 Port Vulcan Hatch Chamber 517	Tatooine	DF	77870	Plasma rifle
+3469 Dragon Pasage Forward Module 700E,Gondor,NR,76715,Time travel wristband
+4653 Wookiee Forward Chamber 454C	Minas Tirith	CY	45800	Stellar map
+350 Krypton Hatch Forward Module 167	Endor	XE	99721	Orbital defense cannon
+3993 Starboard Coruscant Tube Pod 783J,Krypton,AE,60650,Celestial forge
+ Port Minas Pasage Module 265I,Krypton,LK,12968,FTL navigation crystal
+2296 Port Obsidian Pasage Forward Chamber 167,Krypton,RX,83689,Alien artifact shard
+6297 Obsidian Podway Forward Pod 871Q	Coruscant	BV	99989	Hyperspace drive
+2217 Port Krypton Tube Capsule 967Z,Vulcan,JP,45934,Memory erasure ray
+8684 Starboard Vulcan Tube Forward Chamber 700E	Hogwarts	UI	35683	Plasma rifle
+868 Starboard Crystal Deck Forward Capsule 783J	Gondor	OM	66350	Galactic credit chip
+9564 Coruscant Hatch Aft 621B,Naboo,JP,68262,Quantum computer core
+8107 Starboard Rivendell Deck Aft Capsule 768,,KB,83845,Exosuit
+1156 Port Hatch Aft Chamber 523K,Minas Tirith,CY,14390,Dark matter containment unit
+8783 Starboard Node Forward Module 479,Endor,UI,23077,Mind-control headset
+2405 Starboard Hobbiton Pasage Forward 454C,Vulcan,WV,25247,Orb of prophecy
+2597 Obsidian Node 363	Bespin	FO		Plasma rifle
+1480 Port Enterprise Pasage Aft 800,Vulcan,HC,70172,Cryogenic sleep chamber
+9868 Starboard Obsidian Pasage Aft Module 591	Hogwarts	QV	79884	Lightsaber
+3345 Port Minas Sector Module 427H|Naboo|QV|93916|Plasma rifle
+4055 Coruscant Sector Aft Chamber 411I	Bespin	KB	17760	Zero-point energy module
+6992 Port Sector Pod 121H,Arrakis,FO,43026,Psionic amplifier
+7431 Starboard Krypton Forward Capsule 871Q||GL|75197|Time dilation device
+2436 Rivendell Node 167	Hogwarts	VJ	76660	Time dilation device
+8550 Port Coruscant Pasage Module 692Z,Tatooine,,94801,Anti-gravity boots
+8039 Starboard Obsidian Hatch Forward Pod 700E,Arrakis,VJ,23774,Orbital defense cannon
+9353 Starboard Coruscant Hatch Chamber 517,Hogwarts,EN,37001,Mind-control headset
+8598 Port Enterprise Node Forward 970M,Krypton,DF,83811,Bio-dome habitat
+7427 Starboard Dragon Sector Module 523K|Krypton|WH|32444|Neural implant
+1121 Dragon Tube Aft Pod 363|Vulcan|LD|86934|Lightsaber
+9381 Starboard Node Forward Pod 651	Gondor	LD	68904	Plasma torch
+209 Starboard Vulcan Tube Capsule 563A|Bespin|HS|96862|Time dilation device
+2644 Starboard Hobbiton Hatch Chamber 700E|Naboo|QV|77924|Holographic communicator
+8029 Port Vulcan Sector Forward Pod 700E	Vulcan	OM		Plasma rifle
+6918 Wookiee Node Forward Chamber 414	Vulcan	VJ	83115	Teleportation pad
+9039 Starboard Crystal Node Chamber 591|Hogwarts|PN|34876|Dyson sphere fragment
+9242 Port Minas Aft 479,Minas Tirith,QA,35643,Energy shield emitter
+2220 Krypton Node Aft Module 570,Rivendell,WH,73136,Memory erasure ray
+2356 Starboard Tatooine Pasage Capsule 692Z		QV	48954	Bio-dome habitat
+2599 Rivendell Hatch Forward Chamber 390S,Hogwarts,ZK,67968,Dark matter containment unit
+1440 Port Krypton Hatch Capsule 967Z|Tatooine|PN|12113|Energy shield emitter
+1362 Port Rivendell Pod 570	Bespin	QV	83906	Psionic amplifier
+3840 Krypton Tube Aft Module 479|Minas Tirith|ZK|10314|Teleportation pad
+5759 Wookiee Tube Capsule 233J,Endor,BV,76812,Plasma torch
+6936 Port Vulcan Sector Forward 989|Rivendell|TM|73414|Plasma rifle
+1462 Starboard Krypton Hatch Forward Module 816J||DF|79305|Warp core
+2490 Port Rivendell Deck Capsule 651	Coruscant	OQ	18346	Zero-point energy module
+3337 Sector Forward Capsule 265I,Vulcan,FO,64038,Terraforming drone
+3862 Obsidian Podway Forward Chamber 268|Naboo|XE|88370|Cloaking shield generator
+3068 Node Forward Chamber 563A|Tatooine|CY|29637|Bioengineered symbiote
+197 Starboard Coruscant Sector Pod 147|Hoth|SZ|96197|Artificial gravity generator
+2525 Starboard Crystal Sector Aft Capsule 621B	Hogwarts	AE	59642	AI command console
+9155 Starboard Obsidian Node Aft Chamber 425,Rivendell,ZK,19042,Exosuit
+3442 Starboard Pasage 563A	Dagobah	SZ	72486	Holographic communicator
+3967 Port Dragon Hatch Forward Capsule 871Q,Hoth,SZ,51794,Holographic communicator
+9581 Vulcan Module 454C|Krypton|ZK|79365|Lightsaber
+247 Port Crystal Sector Capsule 501T,,PN,66384,Genetic modification capsule
+3819 Port Krypton Node Chamber 621B|Coruscant|WH|81243|Android assistant
+5497 Krypton Node Module 363,Hoth,YD,22159,Artificial gravity generator
+733 Starboard Rivendell Pasage Capsule 281H	Coruscant	LK	39738	Cryogenic sleep chamber
+1850 Port Wookiee Hatch Forward Capsule 534	Coruscant	WH	38114	Dark matter containment unit
+4979 Starboard Hatch Forward Chamber 534	Hoth	ZR	89821	Hyperspace drive
+8108 Starboard Rivendell Pasage Forward Module 427H	Rivendell	GL	89289	Bio-dome habitat
+1695 Hobbiton 71	Arrakis	AE	83518	Artificial gravity generator
+6640 Port Enterprise Podway Aft Capsule 180|Endor|YD|79772|Artificial gravity generator
+3121 Port Rivendell Pasage Capsule 363|Naboo|IJ|95029|Cloaking shield generator
+9072 Starboard Crystal Sector Forward Chamber 427H,Rivendell,HC,31622,Cloaking shield generator
+9617 Obsidian Hatch Module 233J,Hoth,LD,83259,Dyson sphere fragment
+7438 Minas Aft Capsule 281H|Bespin|QA|86371|AI command console
+9622 Port Dragon Hatch Forward Pod 700E,Hoth,WV,22975,Space elevator tether
+2799 Enterprise Podway Forward Chamber 591,Hoth,GT,29126,Wormhole stabilizer
+9074 Starboard Coruscant Tube Forward Capsule 170B|Krypton|TM|19095|Subspace beacon
+1294 Port Hobbiton Tube Capsule 768|Dagobah|OM|50174|Dark matter containment unit
+6457 Starboard Pasage Aft Pod |Dagobah|LK|58466|Psionic amplifier
+9064 Starboard Minas Aft Module 621B,Gondor,BV,57463,Stellar map
+7270 Port Wookiee Forward Capsule 180,Gondor,BV,40600,Neural implant
+2907 Starboard Rivendell Pasage Aft Pod 523K		OQ	99642	Subspace beacon
+8097 Port Minas Sector Chamber 591|Bespin|WV|89020|FTL navigation crystal
+4397 Rivendell Pasage Aft Capsule 611Z	Vulcan	KB	81260	Alien artifact shard
+1984 Starboard Dragon Sector Forward Chamber 651|Tatooine|HC|82998|Subspace beacon
+5100 Rivendell Pasage Forward Pod 121H|Rivendell|SZ|45568|Genetic modification capsule
+2486 Starboard Enterprise Podway Aft Module 268,Vulcan,HS,39090,Exosuit
+4840 Starboard Minas Deck Forward Pod 563A,Dagobah,HS,69495,Alien artifact shard
+290 Vulcan Pasage Aft Capsule 414,Bespin,TY,65085,Starship black box
+2688 Dragon Pasage Forward Module 454C,Bespin,JX,92705,Warp core
+5120 Port Hobbiton Podway Module 623P,Arrakis,GT,17782,Hyperspace drive
+9883 Port Wookiee Sector Forward 563A|Gondor|TM|60310|Time travel wristband
+5061 Port Tatooine Pasage Aft Capsule 71||PN|78450|Warp core
+524 Starboard Krypton Node Aft Pod 967Z,Bespin,YD,95663,Artificial gravity generator
+2903 Starboard Wookiee Node Forward Module 639B	Bespin	DF	75193	Artificial gravity generator
+9142 Obsidian Pasage Forward 989|Endor|WV|23565|Neural implant
+647 Starboard Wookiee Aft 472|Bespin|JX|90143|Artificial gravity generator
+6682 Vulcan Node Pod 180	Bespin	YD	37283	Bio-dome habitat
+8230 Starboard Minas Pod 454C|Hoth|AE|59895|Quantum entanglement communicator
+1294 Obsidian Hatch Module 233J	Hogwarts	PN	71011	Time dilation device
+2462 Hobbiton Pod 501T	Naboo	TY	55613	Holographic communicator
+1903 Port Coruscant Node 816J,Minas Tirith,KB,25864,Quantum computer core
+7863 Port Sector Module 970M	Naboo	RX	92565	Bioengineered symbiote
+804 Port Forward Module 147|Rivendell|BV|42653|AI command console
+6453 Hobbiton Podway Forward Module 411I	Coruscant	GT	37955	Warp core
+7025 Starboard Tatooine Pasage Pod 13V		IJ	33528	Anti-gravity boots
+4572 Port Hobbiton Node Forward 800	Arrakis	BV	35727	Holographic communicator
+334 Pasage Aft 414|Tatooine|TY|74397|Holographic communicator
+9798 Port Dragon Aft Module 180|Arrakis|IJ|34477|Orbital defense cannon
+6593 Obsidian Sector Chamber 783J	Hogwarts	RP	23320	Bio-dome habitat
+5974 Starboard Rivendell Pasage 167,Naboo,XZ,44140,Dark matter containment unit
+6192 Dragon Sector Forward 414,Naboo,NV,42622,Dark matter containment unit
+34 Tatooine Pasage Forward Module 	Hogwarts	RP	45832	Artificial gravity generator
+7490 Starboard Vulcan Tube Module 411I	Vulcan	GT	59269	Genetic modification capsule
+9809 Minas Deck Aft Module 268	Naboo	JX	63810	Orbital defense cannon
+1459 Port Enterprise Tube Aft Module 800,Hoth,MQ,37752,Bioengineered symbiote
+9784 Starboard Hatch Aft Module 390S|Krypton|DF|95208|Warp core
+3999 Starbrd Krypton Sector Mod 639B|Minas Tirith|BV|17330|Artificial gravity generator
+5125 Rivendell Pasage Aft Pod 611Z|Gondor|QV|85032|Nanobot swarm
+4229 Port Dragon Pasage Forward 425,Gondor,CK,49742,Plasma rifle
+7332 Starboard Vulcan Node Aft Capsule 800	Arrakis	XE	13109	FTL navigation crystal
+7774 Port Dragon Node Pod 501T,Tatooine,DF,91501,Bioengineered symbiote
+6767 Starboard Coruscant Forward Module 563A,Endor,PY,62002,Bioengineered symbiote
+7035 Minas Podway 692Z|Vulcan|HS|18146|Time travel wristband
+6168 Port Obsidian Podway Aft Module 71,Dagobah,OM,27929,Android assistant
+4892 Rivendell Node Forward Pod 233J||SU|38661|Time dilation device
+6552 Starboard Krypton Tube Forward Pod 233J	Hoth	RP	52871	Lightsaber
+722 Port Podway Aft Chamber 411I	Arrakis	RX		Nanobot swarm
+2528 Port Krypton Podway Aft Module 414	Krypton	WV	89334	Energy shield emitter
+3670 Crystal Hatch Module 363	Hogwarts	CK	90027	
+8663 Hobbiton Tube Module 180|Dagobah|PY|51548|Quantum entanglement communicator
+4604 Starboard Enterprise Tube Aft Chamber 967Z|Krypton|HC|10756|Memory erasure ray
+4250 Port Dragon Deck Forward 13V,Arrakis,RP,69114,Space elevator tether
+4197 Starboard Rivendell Forward Chamber 137,Endor,HC,95409,Subspace beacon
+5381 Starboard Vulcan Node Aft Pod 479|Gondor|BF|22894|Space elevator tether
+572 Krypton Podway 989,Bespin,SU,72749,Cloaking shield generator
+6092 Port Enterprise Sector Forward Chamber 534|Coruscant|RP|87793|Exosuit
+ Port Enterprise Node Pod 517	Naboo	GL	39796	Artificial gravity generator
+2655 Port Hobbiton Pasage Forward Module 501T,,CK,45691,Holographic communicator
+3209 Port Hobbiton Hatch 281H,,EN,68030,Wormhole stabilizer
+9622 Starboard Crystal Node Capsule 268||RP|12281|Galactic credit chip
+4520 Starboard Rivendell Pasage Module 800	Hogwarts	SZ	98835	Quantum entanglement communicator
+9916 Port Enterprise Podway Forward Chamber 427H,Minas Tirith,QA,31308,Stellar map
+5409 Port Crystal Podway Aft Pod 265I	Vulcan	IJ	77382	Plasma torch
+5856 Port Obsidian Tube Chamber 700E	Coruscant	TM	45053	Psionic amplifier
+1351 Obsidian Tube 13V	Vulcan	DF	37845	Android assistant
+6468 Starboard Obsidian Sector Forward Chamber 517|Coruscant|JP|90636|Neural implant
+950 Port Hobbiton Podway Aft Pod 783J	Minas Tirith	BF	33317	Holographic communicator
+8056 Krypton 268||JP|40981|Psionic amplifier
+5234 Port Enterprise Aft Module 523K||ZR|61753|Terraforming drone
+2799 Starboard Crystal Sector Forward Module 570,Coruscant,SZ,57170,FTL navigation crystal
+7447 Port Obsidian Pasage Module 170B	Arrakis	DF	74611	Bioengineered symbiote
+4673 Port Obsidian Aft Capsule 533Y,Naboo,OM,91087,Mind-control headset
+2801 Starboard Minas Hatch Pod 517	Endor	PY	63379	Psionic amplifier
+3095 Enterprise Podway 	Tatooine	SU	12098	Bioengineered symbiote
+2741 Starboard Crystal Node Aft Pod 523K,Naboo,XZ,74415,Plasma torch
+2575 Coruscant 639B|Tatooine|OM|60949|Time travel wristband
+7164 Krypton Node Module 783J	Coruscant	LK	36478	Bio-dome habitat
+1433 Port Coruscant Tube Aft Pod 268,Gondor,ZR,15058,Stellar map
+7398 Port Coruscant Aft Capsule 783J|Krypton|TY|82370|Quantum computer core
+3720 Krypton Deck Forward Module 871Q,Endor,JP,54047,Hyperspace drive
+4171 Minas Sector Aft 411I|Krypton|IJ|58566|Artificial gravity generator
+4990 Dragon Hatch Aft Module 414	Hogwarts	XE	32910	Orbital defense cannon
+3005 Wookiee Tube Forward Chamber 611Z,Coruscant,MQ,50338,Time dilation device
+805 Wookiee Pasage Aft Chamber 807,Vulcan,SU,,Subspace beacon
+7836 Wookiee Podway Aft 989|Dagobah|JP|31073|Wormhole stabilizer
+7116 Sector Chamber 800	Naboo	LK	99250	Bioengineered symbiote
+2671 Port Deck Aft Chamber 783J|Rivendell|NR|65872|Stellar map
+9784 Port Enterprise Node 989|Vulcan|SU|50164|Neural implant
+3999 Starboard Krypton Sector Module 639B|Minas Tirith|BV|17330|Artificial gravity generator
+8927 Starboard Minas Tube Forward Capsule 692Z,Tatooine,UI,28104,Time dilation device
+4638 Port Obsidian Deck Pod 692Z|Rivendell|DF|98311|Cryogenic sleep chamber
+704 Coruscant Deck Chamber 807,Arrakis,XE,51961,
+3108 Starboard Obsidian Node Forward Chamber 783J,Arrakis,HC,51589,Neural implant
+5997 Port Crystal Node Forward Module 427H|Gondor||78353|Zero-point energy module
+3199 Tatooine Podway Forward 517	Coruscant	GT	97015	Wormhole stabilizer
+2037 Port Enterprise Sector Chamber 45W	Dagobah	TY	77222	Android assistant
+3664 Port Krypton Tube Forward Pod 807	Vulcan	TY	66821	Hyperspace drive
+5209 Starboard Crystal Deck Aft Pod 137,Dagobah,BF,39285,Time travel wristband
+7311 Port Tatooine Node Forward Chamber 13V|Hogwarts|BF|69282|Artificial gravity generator
+3375 Sector Aft Module 621B,Tatooine,GL,31941,Wormhole stabilizer
