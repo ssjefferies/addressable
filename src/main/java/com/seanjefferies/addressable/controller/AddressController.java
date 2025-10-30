@@ -35,4 +35,9 @@ public class AddressController {
     public List<AddressesByEntity> countByState() {
         return addressService.countByState();
     }
+
+    @GetMapping("/count/zip2")
+    public List<AddressesByEntity> countByZip2() {
+        return addressService.countByZip2();
+    }
 }

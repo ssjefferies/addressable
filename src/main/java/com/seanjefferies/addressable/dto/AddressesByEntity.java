@@ -5,35 +5,35 @@ public class AddressesByEntity {
     public static enum AddressEntityTypes {
         CITY,
         STATE,
-        ZIPCODE
+        ZIP2
     }
 
-    private AddressEntityTypes entity;
-    private final String entityName;
+    private AddressEntityTypes type;
+    private final String name;
     private final long count;
 
     public AddressesByEntity(String entityType, String entityName, long count) {
         switch(entityType) {
             case "CITY":
-                this.entity = AddressEntityTypes.CITY;
+                this.type = AddressEntityTypes.CITY;
                 break;
             case "STATE":
-                this.entity = AddressEntityTypes.STATE;
+                this.type = AddressEntityTypes.STATE;
                 break;
-            case "ZIPCODE":
-                this.entity = AddressEntityTypes.ZIPCODE;
+            case "ZIP2":
+                this.type = AddressEntityTypes.ZIP2;
                 break;
         }
-        this.entityName = entityName;
+        this.name = entityName;
         this.count = count;
     }
 
-    public AddressEntityTypes getEntity() {
-        return entity;
+    public AddressEntityTypes getType() {
+        return type;
     }
 
-    public String getEntityName() {
-        return entityName;
+    public String getName() {
+        return name;
     }
 
     public long getCount() {

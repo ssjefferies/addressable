@@ -32,6 +32,10 @@ public class AddressService {
         return addressRepository.getCountsByState();
     }
 
+    public List<AddressesByEntity> countByZip2() {
+        return addressRepository.getCountsByZip2();
+    }
+
     public static List<AddressDto> modelsToDtos(List<Address> addresses) {
         return addresses.stream()
                 .map(AddressService::modelToDto)
