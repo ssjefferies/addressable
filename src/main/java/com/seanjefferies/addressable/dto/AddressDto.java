@@ -1,5 +1,12 @@
 package com.seanjefferies.addressable.dto;
 
+/**
+ * This is a DTO that represents the address information
+ * included in reports that require a full address in the report.
+
+ * For instance, this is used when a client requests
+ * a full list of the addresses in the system.
+ */
 public class AddressDto {
     private Long id;
     private String street;

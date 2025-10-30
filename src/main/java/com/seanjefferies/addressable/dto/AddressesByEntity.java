@@ -1,7 +1,17 @@
 package com.seanjefferies.addressable.dto;
 
+/**
+ * The DTO for reports that count the number of times a give city, state,
+ * zip2, etc... occurs in the data.
+ *
+ * IN this case, 'Entity' refers to the part of an address that the count
+ * is applied to (city, state, zip2).
+ */
 public class AddressesByEntity {
 
+    // Maybe overkill for now, but this gives us the ability
+    // to enforce a strict set of entity types that we will query on.
+    // Will help to guide development of the reports
     public static enum AddressEntityTypes {
         CITY,
         STATE,

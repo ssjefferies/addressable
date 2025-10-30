@@ -1,7 +1,5 @@
 package com.seanjefferies.addressable.repository;
 
-import static com.seanjefferies.addressable.dto.AddressesByEntity.AddressEntityTypes;
-
 import com.seanjefferies.addressable.dto.AddressesByEntity;
 import com.seanjefferies.addressable.model.Address;
 
@@ -11,6 +9,11 @@ import org.springframework.stereotype.Repository;
 
 import java.util.List;
 
+/**
+ * Provides basic CRUD operations for the Address entity.
+ * Also includes custom queries for reports that need a count
+ * for each city, state, zip2, etc..
+ */
 @Repository
 public interface AddressRepository extends JpaRepository<Address, Long> {
 
