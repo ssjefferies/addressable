@@ -24,6 +24,10 @@ public class AddressService {
         return modelsToDtos(addressRepository.findAll());
     }
 
+    public List<AddressesByEntity> countByStreet() {
+        return addressRepository.getCountsByStreet();
+    }
+
     public List<AddressesByEntity> countByCity() {
         return addressRepository.getCountsByCity();
     }
@@ -45,7 +49,10 @@ public class AddressService {
     public static AddressDto modelToDto(Address address) {
         return new AddressDto()
                 .setId(address.getId())
-                .setStreet(address.getStreet())
+                .setFullStreet(address.getStreet())
+                .setStreetNumber(address.getStreetNumber())
+                .setStreetName(address.getStreetName())
+                .setUnit(address.getStreetUnit())
                 .setCity(address.getCity())
                 .setState(address.getState())
                 .setZipcode(address.getZip());

@@ -13,6 +13,7 @@ public class AddressesByEntity {
     // to enforce a strict set of entity types that we will query on.
     // Will help to guide development of the reports
     public static enum AddressEntityTypes {
+        STREET,
         CITY,
         STATE,
         ZIP2
@@ -24,6 +25,9 @@ public class AddressesByEntity {
 
     public AddressesByEntity(String entityType, String entityName, long count) {
         switch(entityType) {
+            case "STREET":
+                this.type = AddressEntityTypes.STREET;
+                break;
             case "CITY":
                 this.type = AddressEntityTypes.CITY;
                 break;

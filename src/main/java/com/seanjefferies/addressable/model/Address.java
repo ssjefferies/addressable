@@ -10,7 +10,14 @@ public class Address {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
 
-    private String street;
+    private String street; // full street address
+
+    // parts of a full street address
+    // to enable better reporting
+    private String streetNumber;
+    private String streetName;
+    private String streetUnit;
+
     private String city;
     private String state;
     private String zip;
@@ -32,6 +39,33 @@ public class Address {
 
     public Address setStreet(String street) {
         this.street = street;
+        return this;
+    }
+
+    public String getStreetNumber() {
+        return streetNumber;
+    }
+
+    public Address setStreetNumber(String streetNumber) {
+        this.streetNumber = streetNumber;
+        return this;
+    }
+
+    public String getStreetName() {
+        return streetName;
+    }
+
+    public Address setStreetName(String streetName) {
+        this.streetName = streetName;
+        return this;
+    }
+
+    public String getStreetUnit() {
+        return streetUnit;
+    }
+
+    public Address setStreetUnit(String streetUnit) {
+        this.streetUnit = streetUnit;
         return this;
     }
 
@@ -66,7 +100,10 @@ public class Address {
     public String toString() {
         return "Address{" +
                 "id=" + id +
-                ", street='" + street + '\'' +
+                ", fullStreet='" + street + '\'' +
+                ", streetNumber='" + streetNumber + '\'' +
+                ", streetName='" + streetName + '\'' +
+                ", streetUnit='" + streetUnit + '\'' +
                 ", city='" + city + '\'' +
                 ", state='" + state + '\'' +
                 ", zip='" + zip + '\'' +

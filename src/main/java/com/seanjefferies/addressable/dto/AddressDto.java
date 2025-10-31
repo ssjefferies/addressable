@@ -9,7 +9,15 @@ package com.seanjefferies.addressable.dto;
  */
 public class AddressDto {
     private Long id;
-    private String street;
+
+    private String fullStreet;
+
+    // parts of a full street address
+    // to enable better reporting
+    private String streetNumber;
+    private String streetName;
+    private String unit;
+
     private String city;
     private String state;
     private String zipcode;
@@ -23,12 +31,39 @@ public class AddressDto {
         return this;
     }
 
-    public String getStreet() {
-        return street;
+    public String getFullStreet() {
+        return fullStreet;
     }
 
-    public AddressDto setStreet(String street) {
-        this.street = street;
+    public AddressDto setFullStreet(String fullStreet) {
+        this.fullStreet = fullStreet;
+        return this;
+    }
+
+    public String getStreetNumber() {
+        return streetNumber;
+    }
+
+    public AddressDto setStreetNumber(String streetNumber) {
+        this.streetNumber = streetNumber;
+        return this;
+    }
+
+    public String getStreetName() {
+        return streetName;
+    }
+
+    public AddressDto setStreetName(String streetName) {
+        this.streetName = streetName;
+        return this;
+    }
+
+    public String getUnit() {
+        return unit;
+    }
+
+    public AddressDto setUnit(String unit) {
+        this.unit = unit;
         return this;
     }
 

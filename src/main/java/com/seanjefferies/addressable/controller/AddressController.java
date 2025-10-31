@@ -26,6 +26,11 @@ public class AddressController {
         return addressService.findAll();
     }
 
+    @GetMapping("/count/street")
+    public List<AddressesByEntity> countByStreet() {
+        return addressService.countByStreet();
+    }
+
     @GetMapping("/count/city")
     public List<AddressesByEntity> countByCity() {
         return addressService.countByCity();
