@@ -55,7 +55,7 @@ addressable/
 │   │   │   │   └── LoggingService.java
 │   │   │   └── util/                # Utility classes
 │   │   │   │   ├── InitializeData.java
-│   │   │   │   ├── ParseAddressResult
+│   │   │   │   └── ParseAddressResult
 │   │   │   └── AddressableApplication # Main file - launches the app
 │   │   └── resources/
 │   │       ├── application.properties
