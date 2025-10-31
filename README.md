@@ -120,29 +120,210 @@ GET /address/list
 ```
 Returns all parsed addresses with full details.
 
+```angular2html
+[
+    {
+        "id": 1,
+        "fullStreet": "181 Hobbiton Hatch Aft Capsule 970M",
+        "streetNumber": "181",
+        "streetName": "Hobbiton Hatch Aft Capsule",
+        "unit": "970M",
+        "city": "Tatooine",
+        "state": "GL",
+        "zipcode": "33024"
+    },
+    {
+        "id": 2,
+        "fullStreet": "5239 Port Krypton Node Aft Chamber 967Z",
+        "streetNumber": "5239",
+        "streetName": "Port Krypton Node Aft Chamber",
+        "unit": "967Z",
+        "city": "Rivendell",
+        "state": "GT",
+        "zipcode": "52487"
+    },
+    {
+        "id": 3,
+        "fullStreet": "7576 Starboard Coruscant Tube Forward Pod 390S",
+        "streetNumber": "7576",
+        "streetName": "Starboard Coruscant Tube Forward Pod",
+        "unit": "390S",
+        "city": "Krypton",
+        "state": "AE",
+        "zipcode": "92214"
+    }
+]
+```
+
 **Count by street**
 ```
 GET /address/count/street
 ```
 Returns count of addresses grouped by street.
+```angular2html
+[
+    {
+        "count": 65,
+        "type": "STREET",
+        "name": null
+    },
+    {
+        "count": 4,
+        "type": "STREET",
+        "name": "Obsidian Pasage Pod"
+    },
+    {
+        "count": 4,
+        "type": "STREET",
+        "name": "Port Coruscant Hatch"
+    },
+    {
+        "count": 4,
+        "type": "STREET",
+        "name": "Port Dragon Hatch Module"
+    },
+    {
+        "count": 4,
+        "type": "STREET",
+        "name": "Port Hobbiton Pasage Forward Module"
+    },
+    {
+        "count": 4,
+        "type": "STREET",
+        "name": "Starboard Minas Podway Aft Pod"
+    },
+    {
+        "count": 4,
+        "type": "STREET",
+        "name": "Starboard Node Forward Pod"
+    },
+    {
+        "count": 3,
+        "type": "STREET",
+        "name": "Coruscant Deck Forward Module"
+    },
+    {
+        "count": 3,
+        "type": "STREET",
+        "name": "Coruscant Pasage Aft Module"
+    }
+]
+```
 
 **Count by city**
 ```
 GET /address/count/city
 ```
 Returns count of addresses grouped by city.
+```angular2html
+[
+    {
+        "count": 177,
+        "type": "CITY",
+        "name": ""
+    },
+    {
+        "count": 169,
+        "type": "CITY",
+        "name": "Arrakis"
+    },
+    {
+        "count": 178,
+        "type": "CITY",
+        "name": "Bespin"
+    },
+    {
+        "count": 169,
+        "type": "CITY",
+        "name": "Coruscant"
+    },
+    {
+        "count": 175,
+        "type": "CITY",
+        "name": "Dagobah"
+    },
+    {
+        "count": 163,
+        "type": "CITY",
+        "name": "Endor"
+    },
+    {
+        "count": 165,
+        "type": "CITY",
+        "name": "Gondor"
+    }
+]
+```
 
 **Count by state**
 ```
 GET /address/count/state
 ```
 Returns count of addresses grouped by state.
+```angular2html
+[
+    {
+        "count": 38,
+        "type": "STATE",
+        "name": ""
+    },
+    {
+        "count": 63,
+        "type": "STATE",
+        "name": "AE"
+    },
+    {
+        "count": 59,
+        "type": "STATE",
+        "name": "BF"
+    },
+    {
+        "count": 67,
+        "type": "STATE",
+        "name": "BV"
+    },
+    {
+        "count": 57,
+        "type": "STATE",
+        "name": "CK"
+    },
+    {
+        "count": 65,
+        "type": "STATE",
+        "name": "CY"
+    }
+]
+```
 
 **Count by ZIP (first 2 digits)**
 ```
 GET /address/count/zip2
 ```
 Returns count of addresses grouped by the first 2 digits of ZIP code.
+```angular2html
+[
+    {
+        "count": 53,
+        "type": "ZIP2",
+        "name": ""
+    },
+    {
+        "count": 24,
+        "type": "ZIP2",
+        "name": "10"
+    },
+    {
+        "count": 23,
+        "type": "ZIP2",
+        "name": "11"
+    },
+    {
+        "count": 34,
+        "type": "ZIP2",
+        "name": "12"
+    }
+]
+```
 
 ### File Processing Endpoints
 
@@ -157,6 +338,50 @@ Returns statistics about parsed files including:
 - Delimiter usage breakdown (commas, pipes, tabs)
 - Processing date/time
 
+```angular2html
+[
+    {
+        "id": 1,
+        "fileName": "data1.txt",
+        "dateParsed": "2025-10-30T21:56:06.544",
+        "totalLinesParsed": 2557,
+        "linesWithErrors": 0,
+        "linesDelimitedWithCommas": 865,
+        "linesDelimitedWithPipes": 833,
+        "limesDelimitedWithTabs": 859
+    },
+    {
+        "id": 2,
+        "fileName": "data1.txt",
+        "dateParsed": "2025-10-30T22:05:13.087",
+        "totalLinesParsed": 2557,
+        "linesWithErrors": 2,
+        "linesDelimitedWithCommas": 865,
+        "linesDelimitedWithPipes": 833,
+        "limesDelimitedWithTabs": 859
+    },
+    {
+        "id": 3,
+        "fileName": "data1.txt",
+        "dateParsed": "2025-10-30T22:09:19.333",
+        "totalLinesParsed": 2557,
+        "linesWithErrors": 2,
+        "linesDelimitedWithCommas": 865,
+        "linesDelimitedWithPipes": 833,
+        "limesDelimitedWithTabs": 859
+    },
+    {
+        "id": 4,
+        "fileName": "data1.txt",
+        "dateParsed": "2025-10-30T22:15:42.439",
+        "totalLinesParsed": 2557,
+        "linesWithErrors": 0,
+        "linesDelimitedWithCommas": 865,
+        "linesDelimitedWithPipes": 833,
+        "limesDelimitedWithTabs": 859
+    }
+]
+```
 ### Logging Endpoints
 
 **Get error logs**
@@ -164,6 +389,46 @@ Returns statistics about parsed files including:
 GET /logs/error
 ```
 Returns all ERROR level log entries from the application log file.
+```angular2html
+[
+    {
+        "date": "2025-10-30 22:47:36",
+        "level": "ERROR",
+        "logger": "com.seanjefferies.addressable.util.InitializeData",
+        "message": "[File: data1.txt; Date: 2025-10-30 22:47:36]:  Unable to parse address from line: 8174 Port Minas Tube Aft Capsule 517,Rivendell,GT,,"
+    },
+    {
+        "date": "2025-10-30 22:47:36",
+        "level": "ERROR",
+        "logger": "com.seanjefferies.addressable.util.InitializeData",
+        "message": "[File: data1.txt; Date: 2025-10-30 22:47:36]:  Unable to parse address from line: 6212 Port Tatooine Podway Module 967Z,Hogwarts,BV,,"
+    },
+    {
+        "date": "2025-10-30 22:48:52",
+        "level": "ERROR",
+        "logger": "com.seanjefferies.addressable.util.InitializeData",
+        "message": "[File: data1.txt; Date: 2025-10-30 22:48:51]:  Unable to parse address from line: 8174 Port Minas Tube Aft Capsule 517,Rivendell,GT,,"
+    },
+    {
+        "date": "2025-10-30 22:48:52",
+        "level": "ERROR",
+        "logger": "com.seanjefferies.addressable.util.InitializeData",
+        "message": "[File: data1.txt; Date: 2025-10-30 22:48:51]:  Unable to parse address from line: 6212 Port Tatooine Podway Module 967Z,Hogwarts,BV,,"
+    },
+    {
+        "date": "2025-10-30 22:50:13",
+        "level": "ERROR",
+        "logger": "com.seanjefferies.addressable.util.InitializeData",
+        "message": "[File: data1.txt; Date: 2025-10-30 22:50:12]:  Unable to parse address from line: 8174 Port Minas Tube Aft Capsule 517,Rivendell,GT,,"
+    },
+    {
+        "date": "2025-10-30 22:50:13",
+        "level": "ERROR",
+        "logger": "com.seanjefferies.addressable.util.InitializeData",
+        "message": "[File: data1.txt; Date: 2025-10-30 22:50:12]:  Unable to parse address from line: 6212 Port Tatooine Podway Module 967Z,Hogwarts,BV,,"
+    }
+]
+```
 
 ## Configuration
 
