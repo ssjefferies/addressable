@@ -22,14 +22,7 @@ public interface AddressRepository extends JpaRepository<Address, Long> {
 
     @Query("select new com.seanjefferies.addressable.dto.AddressesByEntity('STATE', a.state, count(a)) from Address a group by a.state order by a.state asc")
     List<AddressesByEntity> getCountsByState();
-
-    /**
-     * select count(*), a.street_name
-     * from addresses a
-     * group by a.street_name
-     * order by count(*) desc
-     * @return
-     */
+    
     @Query("select new com.seanjefferies.addressable.dto.AddressesByEntity('STREET', a.streetName, count(a)) from Address a group by a.streetName order by count(a) desc, a.streetName asc")
     List<AddressesByEntity> getCountsByStreet();
 

@@ -17,6 +17,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.time.LocalDateTime;
+import java.time.format.DateTimeFormatter;
 import java.util.HashMap;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
@@ -123,10 +124,12 @@ public class InitializeData implements CommandLineRunner {
     private void saveReport(String fileName,
                             HashMap<String, Long> delimiters,
                             Long totalLinesParsed,
-                            Long linesWithErrors) {
+                            Long linesWithErrors,
+                            LocalDateTime processingDate
+                            ) {
         FilesParsed filesParsed = new FilesParsed();
         filesParsed.setFileName(fileName);
-        filesParsed.setDateParsed(LocalDateTime.now());
+        filesParsed.setDateParsed(processingDate);
 
         filesParsed.setLinesDelimitedWithCommas(delimiters.get(DELIMITER_COMMA));
         filesParsed.setLimesDelimitedWithTabs(delimiters.get(DELIMITER_TAB));
@@ -143,11 +146,16 @@ public class InitializeData implements CommandLineRunner {
         HashMap<String, Long> delimiters = new HashMap<>();
         long linesParsed = 0;
         long linesWithErrors = 0;
+        // set time to now
+        LocalDateTime processingDate = null;
 
         // find the data file, parse it into separate addresses
         // and save those addresses to the database.
         Resource resource = resourceLoader.getResource("classpath:" + fileName);
         try (BufferedReader br = new BufferedReader(new InputStreamReader(resource.getInputStream()))) {
+            processingDate = LocalDateTime.now();
+            String formattedDate = DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss").format(processingDate);
+            String logLineHeader = String.format("[File: %s; Date: %s]: ", fileName, formattedDate);
             String line;
             while ((line = br.readLine()) != null) {
                 linesParsed++;
@@ -161,14 +169,15 @@ public class InitializeData implements CommandLineRunner {
                     linesWithErrors++;
                     // something went wrong while reading this line from the file
                     // log this error, and move on to the next line
-                    System.out.println("Unable to parse address from line: " + line);
+                    String errorMessage = String.format("%s Unable to parse address from line: %s",logLineHeader, line);
+                    System.err.println(errorMessage);
                     e.printStackTrace();
-                    logger.error("Unable to parse address from line: " + line);
+                    logger.error(errorMessage);
                 }
             }
             // finished parsing file
             // now save the report
-            saveReport(fileName, delimiters, linesParsed, linesWithErrors);
+            saveReport(fileName, delimiters, linesParsed, linesWithErrors, processingDate);
         }
     }
 
