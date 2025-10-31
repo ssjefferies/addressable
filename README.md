@@ -533,6 +533,7 @@ mvn test
 
 ## Future Enhancements
 
+- [ ] Add Unit Testing
 - [ ] Support additional delimiter types
 - [ ] REST endpoint to upload and process new files
 - [ ] More sophisticated address validation
