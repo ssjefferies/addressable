@@ -1,0 +1,33 @@
+Steps
+1. Build a small Java Spring Boot application using the spring initilaizr.
+2. Set up a file that reads in the data file and parses it when the application launches.
+	1. As I looked over the data file I realized it used a small variety of field separators: commas, pipes, and tabs.  I had to account for all of those when parsing the file.
+	2. I created a routine that, for each line, tries each separator, one at a time until it finds one that returns a set of address tokens (street, city, state, zip).
+	3. I made the assumption that if we split a line on a separator and only got a single token, that this wasn't the separator used on that line.
+	4. The first time I ran this it failed on the line containing "8174 Port Minas Tube Aft Capsule 517,Rivendell,GT,,".  I hadn't yet accounted for lines that don't have a value for every field.
+		1. By default, String.split() doesn't create an array entry for the empty value between the two adjacent commas.  A quick review of the String.split() documentation showed that we could add a second parameter called 'limit' when calling "line.split(',')", and making that value -1, as in "line.split(',', -1)" will cause the function to add an empty array entry for the missing value.
+I hadn't used SQLite before, so I looked up the documentation and had claude.ai help a bit to set it up and connect to it.
+
+To start I created a simple JPA Repository that automatically provides basic CRUD operations, and then set up the service and controller to provide a REST service to list out all addresses.
+
+Once that basic operation worked I added a custom SQL query for reports that showed a count by city, state or zip2.
+
+For the zip2 I had to couldn't remember the sql function that allows you to select, group and order by a portion of a column value, so a quick google search turned up 'substring'.
+
+Then I built a report for counting the number of times the same street appeared in the list.  To do this, I had to separate the street number and the unit number from the street name itself and save each of the parts separately.
+
+This required a quick review of how to handle java regular expressions, including how to group sections of the pattern and use that to extract parts of text that matched the groups.
+
+Error Reporting
+I thought through different ways to report errors. One idea was to create an files_parsed_error table with a foreign key back to the files_parsed table.  If I had more time I would have done this, but I decided to hold off for now.
+
+Instead, since I already had a log file, I decided to write a quick service to read that in, parse each line and only return the ERROR level logs.
+
+Other things I would do:
+1. create a new service just for processing address files that could be run at any time with any given file. To do this, I would extract the functions that process an address file into a separate utility that could be called from anywhere.
+
+2. Add the log file name to the properties and use that instead of the hardcoded filename for the current error log service.
+
+3. Create a new error report by saving address processing errors into the database, linking them to the main files_parsed table.
+
+4. Make the delimiters list configurable by adding it to the properties.  Then loop over that list, trying each one until one works or we decide we can't tokenize the current line.
