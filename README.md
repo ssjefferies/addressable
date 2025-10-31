@@ -39,16 +39,24 @@ addressable/
 │   │   │   │   ├── FilesParsedController.java
 │   │   │   │   └── LogController.java
 │   │   │   ├── dto/                 # Data Transfer Objects
+│   │   │   │   ├── AddressDto
+│   │   │   │   ├── AddressesByEntity
+│   │   │   │   ├── FilesParsedDto
+│   │   │   │   └── LogDto
 │   │   │   ├── model/               # JPA entities
 │   │   │   │   ├── Address.java
 │   │   │   │   └── FilesParsed.java
 │   │   │   ├── repository/          # Data repositories
+│   │   │   │   ├── AddressRepository
+│   │   │   │   └── FilesParsedRepository
 │   │   │   ├── service/             # Business logic
 │   │   │   │   ├── AddressService.java
 │   │   │   │   ├── FilesParsedService.java
 │   │   │   │   └── LoggingService.java
 │   │   │   └── util/                # Utility classes
-│   │   │       └── InitializeData.java
+│   │   │   │   ├── InitializeData.java
+│   │   │   │   ├── ParseAddressResult
+│   │   │   └── AddressableApplication # Main file - launches the app
 │   │   └── resources/
 │   │       ├── application.properties
 │   │       └── data1.txt            # Sample data file
